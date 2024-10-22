@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 19:10
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 19:17
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -2938,30 +2938,527 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
 )
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
 
-! LaTeX Error: File `lilypond.sty' not found.
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-footmisc.sty
+Package: lltjp-footmisc 2022-02-19 Patch to footmisc for LuaTeX-ja
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
+Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
+)
+(./pdf-7moCongresoMKT.aux
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ (./artcap/indiceautores.aux))
+\openout1 = pdf-7moCongresoMKT.aux
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 642.
+LaTeX Font Info:    ... okay on input line 642.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-   
-l.643 \begin
-          {document}
-*** (cannot \read from terminal in nonstop modes)
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* vratio: 1:1
+* modes: includehead includefoot twoside 
+* h-part:(L,W,R)=(64.0187pt, 312.9803pt, 64.0187pt)
+* v-part:(T,H,B)=(35.0pt, 565.5pt, 53.91338pt)
+* \paperwidth=441.01772pt
+* \paperheight=654.41338pt
+* \textwidth=312.9803pt
+* \textheight=540.0pt
+* \oddsidemargin=-8.25128pt
+* \evensidemargin=-8.25128pt
+* \topmargin=-37.26999pt
+* \headheight=12.0pt
+* \headsep=13.5pt
+* \topskip=13.5pt
+* \footskip=0.0pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=13.5pt plus 0.1pt minus 0.1pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 642.
+LaTeX Info: Redefining \% on input line 642.
+LaTeX Info: Redefining \up on input line 642.
+LaTeX Info: Redefining \microtypecontext on input line 642.
+Package microtype Info: Applying patch `item' on input line 642.
+Package microtype Info: Applying patch `toc' on input line 642.
+Package microtype Info: Applying patch `eqnum' on input line 642.
+Package microtype Info: Applying patch `footnote' on input line 642.
+Package microtype Info: Applying patch `verbatim' on input line 642.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 642.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LibertinusSerif' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  TU/LibertinusMath(1)/m/n --> TU/LibertinusSerif(0)/m/n 
+on input line 642.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(0)/m/it on input li
+ne 642.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
+e 642.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
+nary-spanish.trsl
+File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `spanish'. on input line 642.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
+nary-german.trsl
+File: translations-basic-dictionary-german.trsl (german translation file `trans
+lations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `german'. on input line 642.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
+nary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 642.
+Package translations Info: no dictionary file `translations-basic-dictionary-it
+alian.trsl' found. on input line 642.
+Package translations Info: no dictionary file `translations-basic-dictionary-po
+rtuges.trsl' found. on input line 642.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
+nary-french.trsl
+File: translations-basic-dictionary-french.trsl (french translation file `trans
+lations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `french'. on input line 642.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count611
+\scratchdimen=\dimen392
+\scratchbox=\box175
+\nofMPsegments=\count612
+\nofMParguments=\count613
+\everyMPshowfont=\toks83
+\MPscratchCnt=\count614
+\MPscratchDim=\dimen393
+\MPnumerator=\count615
+\makeMPintoPDFobject=\count616
+\everyMPtoPDFconversion=\toks84
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: scrextend package is loaded.
+\caption@addmargin@hsize=\dimen394
+\caption@addmargin@linewidth=\dimen395
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count617
+Package biblatex Info: Trying to load language 'spanish' -> 'spanish-philosophy
+'...
+Package biblatex Info: ... file 'spanish-philosophy.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/spanish-philosophy
+.lbx
+File: spanish-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english' -> 'english-philosophy
+'...
+Package biblatex Info: ... file 'english-philosophy.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/english-philosophy
+.lbx
+File: english-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'italian' -> 'italian-philosophy
+'...
+Package biblatex Info: ... file 'italian-philosophy.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/italian-philosophy
+.lbx
+File: italian-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
+Package biblatex Info: Trying to load language 'italian'...
+Package biblatex Info: ... file 'italian.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
+File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'italian'...
+Package biblatex Info: ... file 'italian.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
+File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'portuguese'...
+Package biblatex Info: ... file 'portuguese.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuguese.lbx
+File: portuguese.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'french' -> 'french-philosophy'.
+..
+Package biblatex Info: ... file 'french-philosophy.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/french-philosophy.
+lbx
+File: french-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/french.lbx
+File: french.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/french.lbx
+File: french.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+
+\openout5 = pdf-7moCongresoMKT.bcf
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'pdf-7moCongresoMKT.bbl' found.
+
+(./pdf-7moCongresoMKT.bbl)
+Package biblatex Info: Reference section=0 on input line 642.
+Package biblatex Info: Reference segment=0 on input line 642.
+Package hyperref Info: Link coloring ON on input line 642.
+ (./pdf-7moCongresoMKT.out) (./pdf-7moCongresoMKT.out)
+\@outlinefile=\write10
+
+\openout10 = pdf-7moCongresoMKT.out
+ (./artcap/inicio-frontmatter.tex [1
 
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 20.39026pt on input line 19.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 19.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 19.
+luaotfload | aux : font no 83 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 83 (nil) does not define feature vrt2 for script hani
+ with language dflt [3] [4]
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 11.79993pt on input line 31.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 31.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 14.15991pt on input line 31.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 31.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 31.
+luaotfload | aux : font no 86 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 86 (nil) does not define feature vrt2 for script hani
+ with language dflt
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 16.99188pt on input line 39.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 39.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 39.
+luaotfload | aux : font no 88 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 88 (nil) does not define feature vrt2 for script hani
+ with language dflt
+<./media/logo-imago-ByW.png, id=72, 85.2786pt x 42.1575pt>
+File: ./media/logo-imago-ByW.png Graphic file (type png)
+<use ./media/logo-imago-ByW.png>
+Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
+(luatex.def)             Requested size: 56.9055pt x 28.1315pt.
+ [5<./media/logo-imago-ByW.png>]
+<./media/desconocido.png, id=79, 85.2786pt x 98.0463pt>
+File: ./media/desconocido.png Graphic file (type png)
+<use ./media/desconocido.png>
+Package luatex.def Info: ./media/desconocido.png  used on input line 55.
+(luatex.def)             Requested size: 56.9055pt x 65.42586pt.
+) [6<./media/desconocido.png>]
+Package biblatex Info: Resetting trackers on input line 648.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 14.12686pt on input line 648.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `IBMPlexSansCondensed' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 16.95224pt on input line 648.
+ (./pdf-7moCongresoMKT.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 9.81033pt on input line 2.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 10.61993pt on input line 2.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 2.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 2.
+luaotfload | aux : font no 93 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 93 (nil) does not define feature vrt2 for script hani
+ with language dflt)
+\tf@toc=\write11
+
+\openout11 = pdf-7moCongresoMKT.toc
+ (./artcap/agradecimientos.tex
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [7
+
+] [8
+
+]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LibertinusMath' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 5.77332pt on input line 6.
+luaotfload | aux : font no 102 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 102 (nil) does not define feature vrt2 for script han
+i with language dflt
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 4.8111pt on input line 6.
+luaotfload | aux : font no 103 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 103 (nil) does not define feature vrt2 for script han
+i with language dflt [9]
+[10
+
+]) (./artcap/agradecimientos2.tex
+Package biblatex Info: Resetting trackers on input line 2.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 11.79993pt on input line 6.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 6.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 10.
+luaotfload | aux : font no 105 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 105 (nil) does not define feature vrt2 for script han
+i with language dflt
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 9.43994pt on input line 10.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 10.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [11
+
+])
+LaTeX Info: Redefining \. on input line 654.
+LaTeX Info: Redefining \% on input line 654.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 9.69757pt on input line 654.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 9.6222pt on input line 654.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 9.6222pt on input line 654.
+luaotfload | aux : font no 108 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 108 (nil) does not define feature vrt2 for script han
+i with language dflt
+LaTeX Info: Redefining \. on input line 654.
+LaTeX Info: Redefining \% on input line 654.
+ [12]
+Package biblatex Info: Resetting trackers on input line 665.
+
+
+LaTeX Warning: Empty bibliography on input line 666.
+
+LaTeX Info: Redefining \. on input line 668.
+LaTeX Info: Redefining \% on input line 668.
+LaTeX Info: Redefining \. on input line 668.
+LaTeX Info: Redefining \% on input line 668.
+[1
+
+
+
+]
+\openout2 = ./artcap/indiceautores.aux
+ (./artcap/indiceautores.tex [2
+
+
+] (./names.ind)) (./artcap/colofon.tex
+Package biblatex Info: Resetting trackers on input line 1.
+)
+LaTeX Info: Redefining \. on input line 671.
+LaTeX Info: Redefining \% on input line 671.
+LaTeX Info: Redefining \. on input line 671.
+LaTeX Info: Redefining \% on input line 671.
+
+[3
+
+
+
+]
+
+Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+ found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+This document will not have a glossary.
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
+File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+) [4]
+
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `\imki@messagenames '.
+
+(./pdf-7moCongresoMKT.aux
+LaTeX Info: Redefining \sptext on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ (./artcap/indiceautores.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+Package rerunfilecheck Info: File `pdf-7moCongresoMKT.out' has not changed.
+(rerunfilecheck)             Checksum: AFA7266036338D801AABEF575B720551;649.
+Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
+
+\openout1 = pdf-7moCongresoMKT.run.xml
+)
 
 Here is how much of LuaTeX's memory you used:
- 65524 strings out of 476553
- 125244,2848258 words of node,token memory allocated 5282 words of node memory still in use:
-   35 hlist, 1 vlist, 17 rule, 1 dir, 4 kern, 1 penalty, 3 glyph, 1686 attribute
-, 143 glue_spec, 140 attribute_list, 5 write, 34 user_defined, 24 pdf_literal, 2
-5 pdf_colorstack nodes
-   avail lists: 1:13,2:53,3:1,5:4,7:8,8:4
- 85928 multiletter control sequences out of 65536+600000
- 81 fonts using 37378807 bytes
- 117i,1n,123p,2364b,321s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 68958 strings out of 476553
+ 382264,2848258 words of node,token memory allocated
+ 294379 words of node memory still in use:
+   280 hlist, 12 vlist, 99 rule, 2 adjust, 950 disc, 103 local_par, 2 math, 1176
+ glue, 447 kern, 171 penalty, 50 margin_kern, 5781 glyph, 106150 attribute, 333 
+glue_spec, 6346 attribute_list, 2 write, 146 user_defined, 26 pdf_literal, 6 pdf
+_start_link, 6 pdf_end_link, 3 pdf_action, 152 pdf_colorstack, 4 pdf_setmatrix, 
+4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:36,2:1186,3:30,4:138,5:94,6:2,7:3013,8:5,9:97,10:13,11:413
+ 89094 multiletter control sequences out of 65536+600000
+ 108 fonts using 58462211 bytes
+ 117i,8n,123p,2364b,2662s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Semi
+Bold.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/L
+ibertinusSerif-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex
+/IBMPlexSansCondensed-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/
+public/libertinus-fonts/LibertinusSerif-Regular.otf>
+Output written on pdf-7moCongresoMKT.pdf (16 pages, 123965 bytes).
+
+PDF statistics: 169 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 131072)
+ 285 words of extra memory for PDF output out of 10000 (max. 100000000)
+
