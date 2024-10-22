@@ -87,19 +87,21 @@ pg 1: or  <return>  to continue without it.
 From file ./files/gbTeXmeta-7moCongresoMKT.tex:
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
       (hyperref)                setting the option has no effect on input line 15.
-pg 1: (./artcap/indiceautores.aux)
------------------------------------
-From file ./pdf-7moCongresoMKT.toc:
-pg 13: LaTeX Warning: Empty bibliography on input line 666.
+pg 1: (./artcap/capitulo02.aux)
+----------------------------------
+From file ./artcap/capitulo02.tex:
+pg 13: Capítulo 1.
+pg 14: LaTeX Warning: `!h' float specifier changed to `!ht'.
 pg 16: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
 pg 16: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
 pg 16: This document will not have a glossary.
 
 After last page:
 
-Package imakeidx Warning: Remember to run lualatex again after calling
-(imakeidx)                `\imki@messagenames '.
 ***********
+)
+(\end occurred when \iftrue on line 658 was incomplete)
+(\end occurred when \if on line 658 was incomplete)
 
 ====  Summary:  ====
 

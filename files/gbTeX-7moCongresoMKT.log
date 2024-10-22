@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 19:17
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 19:52
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -2950,7 +2950,7 @@ Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
 (./pdf-7moCongresoMKT.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- (./artcap/indiceautores.aux))
+ (./artcap/capitulo02.aux))
 \openout1 = pdf-7moCongresoMKT.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 642.
@@ -3269,76 +3269,80 @@ luaotfload | aux : font no 88 (nil) does not define feature vert for script hani
  with language dflt
 luaotfload | aux : font no 88 (nil) does not define feature vrt2 for script hani
  with language dflt
-<./media/logo-imago-ByW.png, id=72, 85.2786pt x 42.1575pt>
+<./media/logo-imago-ByW.png, id=69, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
 Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [5<./media/logo-imago-ByW.png>]
-<./media/desconocido.png, id=79, 85.2786pt x 98.0463pt>
+<./media/desconocido.png, id=76, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
 Package luatex.def Info: ./media/desconocido.png  used on input line 55.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
-) [6<./media/desconocido.png>]
-Package biblatex Info: Resetting trackers on input line 648.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 648.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `IBMPlexSansCondensed' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 648.
- (./pdf-7moCongresoMKT.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 2.
+)
+(./artcap/agradecimientos.tex [6<./media/desconocido.png>]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 2.
+(Font)              scaled to size 10.61993pt on input line 6.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 2.
+(Font)              scaled to size 8.65997pt on input line 6.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 2.
-luaotfload | aux : font no 93 (nil) does not define feature vert for script hani
+(Font)              scaled to size 8.65997pt on input line 6.
+luaotfload | aux : font no 90 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 93 (nil) does not define feature vrt2 for script hani
- with language dflt)
-\tf@toc=\write11
-
-\openout11 = pdf-7moCongresoMKT.toc
- (./artcap/agradecimientos.tex
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
- [7
-
-] [8
-
-]
+luaotfload | aux : font no 90 (nil) does not define feature vrt2 for script hani
+ with language dflt
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LibertinusMath' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 6.
-luaotfload | aux : font no 102 (nil) does not define feature vert for script han
-i with language dflt
-luaotfload | aux : font no 102 (nil) does not define feature vrt2 for script han
-i with language dflt
+luaotfload | aux : font no 99 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 99 (nil) does not define feature vrt2 for script hani
+ with language dflt
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 6.
-luaotfload | aux : font no 103 (nil) does not define feature vert for script han
+luaotfload | aux : font no 100 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 103 (nil) does not define feature vrt2 for script han
-i with language dflt [9]
-[10
+luaotfload | aux : font no 100 (nil) does not define feature vrt2 for script han
+i with language dflt [7
 
-]) (./artcap/agradecimientos2.tex
-Package biblatex Info: Resetting trackers on input line 2.
+] [8
+
+])
+Package biblatex Info: Resetting trackers on input line 650.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 14.12686pt on input line 650.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `IBMPlexSansCondensed' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 16.95224pt on input line 650.
+
+(./pdf-7moCongresoMKT.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 9.81033pt on input line 2.
+)
+\tf@toc=\write11
+
+\openout11 = pdf-7moCongresoMKT.toc
+ (./artcap/agradecimientos2.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [9
+
+] [10
+
+]
+Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 11.79993pt on input line 6.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
@@ -3357,108 +3361,142 @@ LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- [11
-
-])
-LaTeX Info: Redefining \. on input line 654.
-LaTeX Info: Redefining \% on input line 654.
+ [11])
+LaTeX Info: Redefining \. on input line 655.
+LaTeX Info: Redefining \% on input line 655.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 654.
+(Font)              scaled to size 9.69757pt on input line 655.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 654.
+(Font)              scaled to size 9.6222pt on input line 655.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 654.
+(Font)              scaled to size 9.6222pt on input line 655.
 luaotfload | aux : font no 108 (nil) does not define feature vert for script han
 i with language dflt
 luaotfload | aux : font no 108 (nil) does not define feature vrt2 for script han
 i with language dflt
-LaTeX Info: Redefining \. on input line 654.
-LaTeX Info: Redefining \% on input line 654.
- [12]
-Package biblatex Info: Resetting trackers on input line 665.
+LaTeX Info: Redefining \. on input line 655.
+LaTeX Info: Redefining \% on input line 655.
 
-
-LaTeX Warning: Empty bibliography on input line 666.
-
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
+[12]
+\openout2 = ./artcap/capitulo02.aux
+ (./artcap/capitulo02.tex
+Capítulo 1.
+Package biblatex Info: Resetting trackers on input line 1.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 16.99188pt on input line 1.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 1.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 1.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 11.63708pt on input line 3.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 11.54663pt on input line 3.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 11.54663pt on input line 3.
+luaotfload | aux : font no 111 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 111 (nil) does not define feature vrt2 for script han
+i with language dflt
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 12.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 19.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
 [1
 
 
 
 ]
-\openout2 = ./artcap/indiceautores.aux
- (./artcap/indiceautores.tex [2
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 10.61993pt on input line 69.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 8.65997pt on input line 69.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 8.65997pt on input line 69.
+luaotfload | aux : font no 114 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 114 (nil) does not define feature vrt2 for script han
+i with language dflt
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-] (./names.ind)) (./artcap/colofon.tex
-Package biblatex Info: Resetting trackers on input line 1.
-)
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
-
-[3
-
-
-
-]
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+[2]
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 11.7724pt on input line 78.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [3]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
 This document will not have a glossary.
 
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) [4]
-
-Package imakeidx Warning: Remember to run lualatex again after calling
-(imakeidx)                `\imki@messagenames '.
-
 (./pdf-7moCongresoMKT.aux
 LaTeX Info: Redefining \sptext on input line 16.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- (./artcap/indiceautores.aux))
+ (./artcap/capitulo02.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `pdf-7moCongresoMKT.out' has not changed.
-(rerunfilecheck)             Checksum: AFA7266036338D801AABEF575B720551;649.
+(rerunfilecheck)             Checksum: 5BE43DBD0A21324F54D7F28942A06EBE;484.
 Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 
 \openout1 = pdf-7moCongresoMKT.run.xml
-)
+))
+(\end occurred when \iftrue on line 658 was incomplete)
+(\end occurred when \if on line 658 was incomplete)
+(\end occurred when \if on line 658 was incomplete)
 
 Here is how much of LuaTeX's memory you used:
- 68958 strings out of 476553
- 382264,2848258 words of node,token memory allocated
- 294379 words of node memory still in use:
-   280 hlist, 12 vlist, 99 rule, 2 adjust, 950 disc, 103 local_par, 2 math, 1176
- glue, 447 kern, 171 penalty, 50 margin_kern, 5781 glyph, 106150 attribute, 333 
-glue_spec, 6346 attribute_list, 2 write, 146 user_defined, 26 pdf_literal, 6 pdf
-_start_link, 6 pdf_end_link, 3 pdf_action, 152 pdf_colorstack, 4 pdf_setmatrix, 
-4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:36,2:1186,3:30,4:138,5:94,6:2,7:3013,8:5,9:97,10:13,11:413
- 89094 multiletter control sequences out of 65536+600000
- 108 fonts using 58462211 bytes
+ 69032 strings out of 476553
+ 746577,2848258 words of node,token memory allocated
+ 583618 words of node memory still in use:
+   627 hlist, 14 vlist, 212 rule, 2 adjust, 1928 disc, 235 local_par, 58 math, 2
+602 glue, 909 kern, 355 penalty, 99 margin_kern, 11893 glyph, 207329 attribute, 
+570 glue_spec, 12391 attribute_list, 2 write, 346 user_defined, 244 pdf_literal,
+ 2 pdf_start_link, 2 pdf_end_link, 1 pdf_action, 224 pdf_colorstack, 4 pdf_setma
+trix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:68,2:2186,3:324,4:265,5:181,6:23,7:2344,8:24,9:286,10:17,11:33
+6
+ 89168 multiletter control sequences out of 65536+600000
+ 115 fonts using 63296251 bytes
  117i,8n,123p,2364b,2662s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Semi
-Bold.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/L
-ibertinusSerif-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex
-/IBMPlexSansCondensed-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/
-public/libertinus-fonts/LibertinusSerif-Regular.otf>
-Output written on pdf-7moCongresoMKT.pdf (16 pages, 123965 bytes).
+</usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
+Math-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus
+-fonts/LibertinusMath-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/
+public/libertinus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/
+fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/te
+xmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr
+/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.o
+tf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Liberti
+nusSerif-Regular.otf>
+Output written on pdf-7moCongresoMKT.pdf (16 pages, 151600 bytes).
 
-PDF statistics: 169 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 131072)
- 285 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 196 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 34 named destinations out of 1000 (max. 131072)
+ 277 words of extra memory for PDF output out of 10000 (max. 100000000)
 
