@@ -125,16 +125,6 @@ pg 21: ! Missing { inserted.
        <to be read again> 
        \let 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 22: LaTeX Warning: File `double_helix.png' not found on input line 29.
-pg 22: ! Package luatex.def Error: File `double_helix.png' not found: using draft sett
-       ing.
-       See the luatex.def package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.29 \includegraphics[scale=0.4]{double_helix.png}
-pg 22: Try typing  <return>  to proceed.
-pg 22: If that doesn't work, type  X <return>  to quit.
 pg 30: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
 pg 30: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
 pg 30: This document will not have a glossary.
