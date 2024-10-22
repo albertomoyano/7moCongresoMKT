@@ -90,18 +90,54 @@ pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
 -----------------------------------
 From file ./pdf-7moCongresoMKT.aux:
 pg 1: (./artcap/capitulo02.aux) (./artcap/capitulo03.aux)
-pg 1: (./artcap/indiceautores.aux)
+pg 1: (./artcap/capitulo04.aux) (./artcap/indiceautores.aux)
+----------------------------------------
+From file ./artcap/agradecimientos2.tex:
+pg 11: (load cache: extra_haranoajigothic-medium.luc)
 ----------------------------------
 From file ./artcap/capitulo02.tex:
 pg 13: Capítulo 1.
-pg 13: (load cache: extra_haranoajigothic-medium.luc)
 pg 14: LaTeX Warning: `!h' float specifier changed to `!ht'.
 ----------------------------------
 From file ./artcap/capitulo03.tex:
 pg 17: Capítulo 2.
-pg 26: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
-pg 26: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-pg 26: This document will not have a glossary.
+----------------------------------
+From file ./artcap/capitulo04.tex:
+pg 21: Capítulo 3.
+pg 21: ! Missing { inserted.
+       <to be read again> 
+       \egroup 
+       l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
+pg 21: A left brace was mandatory here, so I've put one in.
+pg 21: You might want to delete and/or insert some corrections
+pg 21: so that I will find a matching right brace soon.
+pg 21: If you're confused by all this, try typing `I}' now.
+pg 21: ! Missing } inserted.
+       <inserted text> 
+       }
+       l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
+pg 21: I've inserted something that you may have forgotten.
+pg 21: (See the <inserted text> above.)
+pg 21: With luck, this will get me unwedged. But if you
+pg 21: really didn't forget anything, try typing `2' now; then
+pg 21: my insertion and my current dilemma will both disappear.
+pg 21: ! Missing { inserted.
+       <to be read again> 
+       \let 
+       l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
+pg 22: LaTeX Warning: File `double_helix.png' not found on input line 29.
+pg 22: ! Package luatex.def Error: File `double_helix.png' not found: using draft sett
+       ing.
+       See the luatex.def package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.29 \includegraphics[scale=0.4]{double_helix.png}
+pg 22: Try typing  <return>  to proceed.
+pg 22: If that doesn't work, type  X <return>  to quit.
+pg 30: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+pg 30: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+pg 30: This document will not have a glossary.
 
 After last page:
 
