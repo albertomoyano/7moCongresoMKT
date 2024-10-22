@@ -2,58 +2,57 @@
 
 \section{Introducción a la fuga}
 
-	La fuga es una forma musical polifónica desarrollada principalmente durante el período Barroco. Es una de las formas más complejas de contrapunto, donde un tema (o sujeto) es introducido y repetido en diferentes voces a lo largo de la pieza, interactuando y desarrollándose a lo largo de varias secciones.
+La fuga es una forma musical polifónica desarrollada principalmente durante el período Barroco. Es una de las formas más complejas de contrapunto, donde un tema (o sujeto) es introducido y repetido en diferentes voces a lo largo de la pieza, interactuando y desarrollándose a lo largo de varias secciones.
 
-	Johann Sebastian Bach fue uno de los compositores más reconocidos en el uso de la fuga, destacando en su obra \emph{El arte de la fuga}, que ejemplifica las diversas maneras de desarrollar un tema. La estructura típica de una fuga incluye:
+Johann Sebastian Bach fue uno de los compositores más reconocidos en el uso de la fuga, destacando en su obra \emph{El arte de la fuga}, que ejemplifica las diversas maneras de desarrollar un tema. La estructura típica de una fuga incluye:
 
-	\begin{itemize}
-		\item \textbf{Exposición}: Donde se presenta el sujeto en una de las voces.
-		\item \textbf{Respuesta}: Otra voz entra con una variación del sujeto, usualmente en el intervalo de la quinta.
-		\item \textbf{Desarrollo}: Secciones donde el tema es fragmentado, invertido, aumentado o disminuido, creando una textura compleja de interacciones entre las voces.
-		\item \textbf{Estrechos}: Momentos en los que las entradas del tema están muy cercanas entre sí, creando un intenso tejido contrapuntístico.
-	\end{itemize}
+\begin{itemize}
+	\item \textbf{Exposición}: Donde se presenta el sujeto en una de las voces.
+	\item \textbf{Respuesta}: Otra voz entra con una variación del sujeto, usualmente en el intervalo de la quinta.
+	\item \textbf{Desarrollo}: Secciones donde el tema es fragmentado, invertido, aumentado o disminuido, creando una textura compleja de interacciones entre las voces.
+	\item \textbf{Estrechos}: Momentos en los que las entradas del tema están muy cercanas entre sí, creando un intenso tejido contrapuntístico.
+\end{itemize}
 
-	\section{Estructura básica de una fuga}
+\section{Estructura básica de una fuga}
 
-	Una fuga tradicionalmente consta de tres o más voces que desarrollan el tema de forma progresiva. La simplicidad inicial del tema contrasta con la complejidad que se desarrolla a lo largo de la pieza, a través del uso de técnicas contrapuntísticas como la imitación, inversión y retrogradación.
+Una fuga tradicionalmente consta de tres o más voces que desarrollan el tema de forma progresiva. La simplicidad inicial del tema contrasta con la complejidad que se desarrolla a lo largo de la pieza, a través del uso de técnicas contrapuntísticas como la imitación, inversión y retrogradación.
 
-	Para ilustrar este concepto, aquí presentamos una pequeña fuga escrita en LilyPond.
+Para ilustrar este concepto, aquí presentamos una pequeña fuga escrita en LilyPond.
 
-	\begin{lilypond}
-		\version "2.18.2"
-		\header {
-			title = "Fuga simple"
-			composer = "Anonimo"
+\begin{lilypond}
+	\version "2.18.2"
+	\header {
+		title = "Fuga simple"
+		composer = "Anonimo"
+	}
+	fuga = \relative c' {
+		\key g \minor
+		\time 4/4
+		% Sujeto
+		g4 bes d bes g' d bes g
+		% Contrapunto
+		\repeat volta 2 {
+			bes'4 f d bes g d bes g
+			d'4 g bes d bes g bes d
 		}
-		fuga = \relative c' {
-			\key g \minor
-			\time 4/4
-			% Sujeto
-			g4 bes d bes g' d bes g
-			% Contrapunto
-			\repeat volta 2 {
-				bes'4 f d bes g d bes g
-				d'4 g bes d bes g bes d
-			}
-			\bar "|."
-		}
+		\bar "|."
+	}
 
-		\score {
-			\new StaffGroup <<
-			\new Staff \fuga
-			\new Staff \fuga
-			>>
-			\layout { }
-			\midi { }
-		}
-	\end{lilypond}
+	\score {
+		\new StaffGroup <<
+		\new Staff \fuga
+		\new Staff \fuga
+		>>
+		\layout { }
+		\midi { }
+	}
+\end{lilypond}
 
-	En esta breve fuga, podemos observar cómo el sujeto (presentado inicialmente por la primera voz) es repetido en la segunda voz, con ligeras variaciones. Luego, ambas voces se entrelazan para crear una textura musical densa, típica de este estilo.
+En esta breve fuga, podemos observar cómo el sujeto (presentado inicialmente por la primera voz) es repetido en la segunda voz, con ligeras variaciones. Luego, ambas voces se entrelazan para crear una textura musical densa, típica de este estilo.
 
-	\section{Conclusión}
+\section{Conclusión}
 
-	La fuga es un ejemplo impresionante de cómo un compositor puede transformar un solo tema en una obra completa y compleja. La habilidad de desarrollar y entrelazar ideas musicales de forma lógica y estructurada es una característica central del contrapunto, y la fuga es su máxima expresión. En la música moderna, la fuga sigue siendo utilizada y apreciada por su rigidez formal y su belleza estructural.
+La fuga es un ejemplo impresionante de cómo un compositor puede transformar un solo tema en una obra completa y compleja. La habilidad de desarrollar y entrelazar ideas musicales de forma lógica y estructurada es una característica central del contrapunto, y la fuga es su máxima expresión. En la música moderna, la fuga sigue siendo utilizada y apreciada por su rigidez formal y su belleza estructural.
 
-	Compositores como Bach, Mozart, Beethoven y muchos otros han utilizado la fuga para demostrar su destreza compositiva, creando obras que perduran en el repertorio clásico y contemporáneo. Hoy en día, la fuga sigue siendo un objeto de estudio fascinante para músicos y compositores por igual.
+Compositores como Bach, Mozart, Beethoven y muchos otros han utilizado la fuga para demostrar su destreza compositiva, creando obras que perduran en el repertorio clásico y contemporáneo. Hoy en día, la fuga sigue siendo un objeto de estudio fascinante para músicos y compositores por igual.
 
-\end{document}

@@ -35,12 +35,11 @@
 \Author{Sumario}
 \tableofcontents
 
-\input{./artcap/agradecimientos2.tex}
 %\input{./artcap/prologo.tex}
 
 \mainmatter
 
-%\include{./artcap/lilypond.tex}
+\include{./artcap/lilypond.tex}
 %\include{./artcap/capitulo02.tex}
 %\include{./artcap/capitulo03.tex}
 %\include{./artcap/capitulo04.tex}

@@ -1,0 +1,15 @@
+File: pdf-7moCongresoMKT.tex
+Encoding: utf8
+Sum count: 2
+Words in text: 1
+Words in headers: 1
+Words outside text (captions, etc.): 0
+Number of headers: 1
+Number of floats/tables/figures: 0
+Number of math inlines: 0
+Number of math displayed: 0
+Subcounts:
+  text+headers+captions (#headers/#floats/#inlines/#displayed)
+  1+0+0 (0/0/0/0) Chapter: \glsresetall
+  0+1+0 (1/0/0/0) Chapter: Referencias
+

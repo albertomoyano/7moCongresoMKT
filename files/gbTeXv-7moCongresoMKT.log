@@ -1,0 +1,111 @@
+
+After last page:
+
+----------------
+From file DUMMY:
+(./pdf-7moCongresoMKT.tex
+------------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-core.sty:
+Custom whatsit inhibitglue = 1
+Custom whatsit stack_marker = 2
+Custom whatsit begin_par = 3
+Custom whatsit direction = 4
+Custom whatsit box_boundary = 5
+Custom whatsit ja_al_boundary = 6(load cache: ltj-cid-auto-adobe-japan1.luc)
+Lua module: luatexja.charrange 2022-08-19 Handling the range of Japanese charact
+ers
+Lua module: luatexja.stack 2022-08-20 LuaTeX-ja stack system
+Lua module: luatexja.jfont 2023-04-06 Loader for Japanese fonts
+----------------
+From file DUMMY:
+(load cache: extra_
+lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)(load cache: extra_l
+ibertinusserif-regular.luc)(load cache: extra_libertinusserif-bolditalic.luc)(lo
+ad cache: extra_libertinusserif-bold.luc)(load cache: extra_libertinusserif-ital
+------------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-core.sty:
+ic.luc)(load cache: extra_libertinusmath-regular.luc)
+Lua module: luatexja.jfmglue 2022-08-29 Insertion process of JFM glues, [x]kanji
+skip and others
+(load cache: ltj-kinsoku_default.luc)
+---------------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjdefs.sty:
+(load cache: extra_haranoajimincho-regular.luc)
+---------------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:
+(load cache: extra_lmmono9-regular.luc)
+----------------------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-microtype.sty:
+Package luatexja Warning: LuaTeX-ja's patch against the microtype package 
+(luatexja)                (lltjp-microtype.sty, 2019-11-08) may not work.
+--------------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-compat.sty:
+(load cache: ltj-jisx0208.luc)
+----------------
+From file DUMMY:
+(load cache: extra_fandolsong-regular.luc)
+(load cache: extra_fandolsong-bold.luc)
+cache: extra_ibmplexsanscond.luc)
+cache: extra_ibmplexsanscond-smbld.luc)
+cache: extra_ibmplexsanscond-italic.luc)
+cache: extra_ibmplexsanscond-smblditalic.luc)
+(load cache: extra_ibmplexmono.luc)
+cache: extra_ibmplexmono-bold.luc)
+cache: extra_ibmplexmono-italic.luc)
+cache: extra_ibmplexmono-bolditalic.luc)
+---------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/latex/fourier/fourier-orns.sty:
+(load cache: extra_fourierorns-regular.luc)
+--------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty:
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+368.
+------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty:
+****** mdframed patching \endmdf@trivlist
+****** -- success******
+----------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty:
+LaTeX Warning: Command \@footnotemark  has changed.
+               Check if current package is valid.
+{Índice de imágenes}, name=Imagen, placement=ht, ' on input line 301.
+---------------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty:
+Package glossaries Warning: Overriding \printglossary on input line 6158.
+----------------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/latex/easyreview/easyReview.sty:
+! LaTeX Error: Command \comment already defined.
+               Or name \end... illegal, see p.192 of the manual.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...comment}[2]{\highlight{#1}\todo[inline]{#2}}
+%    \end{macrocode}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+-----------------------------------------------
+From file ./files/gbTeXmeta-7moCongresoMKT.tex:
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 15.
+! LaTeX Error: File `lilypond.sty' not found.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+Enter file name:
+! Emergency stop.
+<read *> 
+   
+l.643 \begin
+{document}
+*** (cannot \read from terminal in nonstop modes)
+
+====  Summary:  ====
+
+** texlogsieve got confused during log processing **
+   messages may be missing or filenames may be
+   incorrect, check the LaTeX logfile directly
+
+** There were errors during processing! Generated PDF is probably defective **
+
