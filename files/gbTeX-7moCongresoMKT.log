@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 20:43
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 20:46
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -3492,8 +3492,6 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 5.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 5.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 7.07996pt on input line 14.
 ! Missing { inserted.
@@ -3587,7 +3585,7 @@ LaTeX Info: Redefining \% on input line 19.
 [9]
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 20.
-<./media/adn.jpg, id=223, 5018.75pt x 5018.75pt>
+<./media/adn.jpg, id=224, 5018.75pt x 5018.75pt>
 File: ./media/adn.jpg Graphic file (type jpg)
 <use ./media/adn.jpg>
 Package luatex.def Info: ./media/adn.jpg  used on input line 29.
@@ -3668,7 +3666,9 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 667.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 667.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 667.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 667.
@@ -3747,13 +3747,13 @@ Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 Here is how much of LuaTeX's memory you used:
  70009 strings out of 476553
  1458127,2848258 words of node,token memory allocated
- 1285408 words of node memory still in use:
-   1892 hlist, 18 vlist, 464 rule, 2 adjust, 4300 disc, 538 local_par, 160 math,
- 6848 glue, 1974 kern, 827 penalty, 234 margin_kern, 26515 glyph, 447199 attribu
-te, 1111 glue_spec, 26881 attribute_list, 35 write, 4 save_pos, 1191 user_define
-d, 1430 pdf_literal, 45 pdf_start_link, 45 pdf_end_link, 25 pdf_action, 466 pdf_
+ 1288103 words of node memory still in use:
+   1895 hlist, 18 vlist, 464 rule, 2 adjust, 4302 disc, 540 local_par, 160 math,
+ 6857 glue, 1972 kern, 836 penalty, 233 margin_kern, 26555 glyph, 448219 attribu
+te, 1115 glue_spec, 26941 attribute_list, 37 write, 4 save_pos, 1191 user_define
+d, 1430 pdf_literal, 49 pdf_start_link, 49 pdf_end_link, 27 pdf_action, 474 pdf_
 colorstack, 6 pdf_setmatrix, 6 pdf_save, 6 pdf_restore nodes
-   avail lists: 1:72,2:1132,3:1834,4:1286,5:94,6:2,7:1364,8:28,9:1338,10:17,11:1
+   avail lists: 1:71,2:1132,3:1825,4:1283,5:94,6:2,7:1319,8:28,9:1333,10:17,11:1
 54,12:2
  90024 multiletter control sequences out of 65536+600000
  120 fonts using 72094619 bytes
@@ -3767,10 +3767,10 @@ xmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr
 /share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.o
 tf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Liberti
 nusSerif-Regular.otf>
-Output written on pdf-7moCongresoMKT.pdf (30 pages, 16579293 bytes).
+Output written on pdf-7moCongresoMKT.pdf (30 pages, 16579535 bytes).
 
-PDF statistics: 334 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
+PDF statistics: 336 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
  78 named destinations out of 1000 (max. 131072)
  309 words of extra memory for PDF output out of 10000 (max. 100000000)
 
