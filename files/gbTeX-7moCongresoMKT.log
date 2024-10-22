@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 19:52
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 20:04
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -2950,7 +2950,7 @@ Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
 (./pdf-7moCongresoMKT.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- (./artcap/capitulo02.aux))
+ (./artcap/capitulo02.aux) (./artcap/indiceautores.aux))
 \openout1 = pdf-7moCongresoMKT.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 642.
@@ -3269,13 +3269,13 @@ luaotfload | aux : font no 88 (nil) does not define feature vert for script hani
  with language dflt
 luaotfload | aux : font no 88 (nil) does not define feature vrt2 for script hani
  with language dflt
-<./media/logo-imago-ByW.png, id=69, 85.2786pt x 42.1575pt>
+<./media/logo-imago-ByW.png, id=76, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
 Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [5<./media/logo-imago-ByW.png>]
-<./media/desconocido.png, id=76, 85.2786pt x 98.0463pt>
+<./media/desconocido.png, id=83, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
 Package luatex.def Info: ./media/desconocido.png  used on input line 55.
@@ -3398,6 +3398,13 @@ luaotfload | aux : font no 111 (nil) does not define feature vert for script han
 i with language dflt
 luaotfload | aux : font no 111 (nil) does not define feature vrt2 for script han
 i with language dflt
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 5.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 5.
+(load cache: extra_haranoajigothic-medium.luc)
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 5.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 11.79993pt on input line 12.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
@@ -3417,9 +3424,9 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 69.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 69.
-luaotfload | aux : font no 114 (nil) does not define feature vert for script han
+luaotfload | aux : font no 115 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 114 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 115 (nil) does not define feature vrt2 for script han
 i with language dflt
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -3435,54 +3442,120 @@ LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
 LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
- [3]
+ [3])
+LaTeX Info: Redefining \. on input line 658.
+LaTeX Info: Redefining \% on input line 658.
+LaTeX Info: Redefining \. on input line 658.
+LaTeX Info: Redefining \% on input line 658.
+ [4]
+Package biblatex Info: Resetting trackers on input line 666.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 667.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 667.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 10.61993pt on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 667.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 667.
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+ [5
+
+
+
+
+]
+\openout2 = ./artcap/indiceautores.aux
+ (./artcap/indiceautores.tex [6
+
+
+] (./names.ind
+Package biblatex Info: Resetting trackers on input line 1.
+))
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+ [7
+
+]
+(./artcap/colofon.tex [8
+
+
+
+]
+Package biblatex Info: Resetting trackers on input line 1.
+)
+LaTeX Info: Redefining \. on input line 672.
+LaTeX Info: Redefining \% on input line 672.
+LaTeX Info: Redefining \. on input line 672.
+LaTeX Info: Redefining \% on input line 672.
+ [9]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
 This document will not have a glossary.
 
-LaTeX Info: Redefining \. on input line 117.
-LaTeX Info: Redefining \% on input line 117.
-LaTeX Info: Redefining \. on input line 117.
-LaTeX Info: Redefining \% on input line 117.
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [4]
+) [10]
+
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `\imki@messagenames '.
+
 (./pdf-7moCongresoMKT.aux
 LaTeX Info: Redefining \sptext on input line 16.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- (./artcap/capitulo02.aux))
+ (./artcap/capitulo02.aux) (./artcap/indiceautores.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `pdf-7moCongresoMKT.out' has not changed.
-(rerunfilecheck)             Checksum: 5BE43DBD0A21324F54D7F28942A06EBE;484.
+(rerunfilecheck)             Checksum: BFC9E5BFF803D8DFD5A2D65674E514DA;935.
 Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 
 \openout1 = pdf-7moCongresoMKT.run.xml
-))
-(\end occurred when \iftrue on line 658 was incomplete)
-(\end occurred when \if on line 658 was incomplete)
-(\end occurred when \if on line 658 was incomplete)
+)
 
 Here is how much of LuaTeX's memory you used:
- 69032 strings out of 476553
- 746577,2848258 words of node,token memory allocated
- 583618 words of node memory still in use:
-   627 hlist, 14 vlist, 212 rule, 2 adjust, 1928 disc, 235 local_par, 58 math, 2
-602 glue, 909 kern, 355 penalty, 99 margin_kern, 11893 glyph, 207329 attribute, 
-570 glue_spec, 12391 attribute_list, 2 write, 346 user_defined, 244 pdf_literal,
- 2 pdf_start_link, 2 pdf_end_link, 1 pdf_action, 224 pdf_colorstack, 4 pdf_setma
-trix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:68,2:2186,3:324,4:265,5:181,6:23,7:2344,8:24,9:286,10:17,11:33
-6
- 89168 multiletter control sequences out of 65536+600000
- 115 fonts using 63296251 bytes
+ 69342 strings out of 476553
+ 746635,2848258 words of node,token memory allocated
+ 653996 words of node memory still in use:
+   728 hlist, 14 vlist, 264 rule, 2 adjust, 2163 disc, 291 local_par, 58 math, 2
+974 glue, 1124 kern, 452 penalty, 126 margin_kern, 13346 glyph, 231195 attribute
+, 671 glue_spec, 13812 attribute_list, 12 write, 382 user_defined, 244 pdf_liter
+al, 20 pdf_start_link, 20 pdf_end_link, 12 pdf_action, 298 pdf_colorstack, 4 pdf
+_setmatrix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:40,2:1132,3:261,4:202,5:94,6:2,7:1034,8:26,9:216,10:17,11:154
+ 89434 multiletter control sequences out of 65536+600000
+ 119 fonts using 71671827 bytes
  117i,8n,123p,2364b,2662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Math-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus
@@ -3493,10 +3566,10 @@ xmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr
 /share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.o
 tf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Liberti
 nusSerif-Regular.otf>
-Output written on pdf-7moCongresoMKT.pdf (16 pages, 151600 bytes).
+Output written on pdf-7moCongresoMKT.pdf (22 pages, 160431 bytes).
 
-PDF statistics: 196 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 34 named destinations out of 1000 (max. 131072)
- 277 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 252 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 131072)
+ 293 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,0 +1,74 @@
+\chapter{Análisis estructural de una viga trapezoidal}
+
+\section{Introducción}
+
+En el diseño de estructuras, las vigas son elementos fundamentales que soportan cargas a través de una distribución eficiente del material en su sección transversal. Una de las formas geométricas utilizadas en este contexto es la sección trapezoidal, la cual presenta ventajas tanto en términos de resistencia como de rigidez. Este artículo analiza las propiedades geométricas y mecánicas de una viga trapezoidal, destacando su momento de inercia, su comportamiento bajo cargas distribuidas y su aplicación en diversas estructuras.
+
+A continuación, se presenta la figura de una viga trapezoidal. Las bases $b_1$ y $b_2$ representan los extremos inferior y superior de la viga, mientras que $s$ es la altura de la sección. El parámetro $x$ denota la longitud total de la viga, variando desde $x=0$ hasta $x=l$.
+
+\begin{center}
+\begin{tikzpicture}
+% general shift to north east
+\coordinate (O) at (0.5,0.5);
+\draw[semithick] (0,0) -- (4,1); % bottom line in front
+\draw[dashed,color=gray] (O) -- ($(4,1)+(O)$); % bottom line in the back
+\draw[semithick] (0,3) -- (4,2); % top line in front
+\draw[semithick] ($(0,3)+(O)$) -- ($(4,2)+(O)$); % top line in the back
+\draw[semithick] (0,3) -- ($(0,3)+(O)$); % line to the back, top left
+\draw[semithick] (4,2) -- ($(4,2)+(O)$); % line to the back, top right
+\draw[semithick] (4,1) -- ($(4,1)+(O)$); % line to the back, bottom right
+\draw[dashed,color=gray] (0,0) -- (O); % line to the back, bottom left
+\draw[semithick] (0,0) arc (194.036:165.964:6.185); % left arc in front
+\draw[dashed,color=gray] (O) arc (194.036:165.964:6.185); % left arc in the back
+\draw[semithick] (4,1) arc (194.036:165.964:2.062); % right arc in front
+\draw[semithick] ($(4,1)+(O)$) arc (194.036:165.964:2.062); % right arc in the back
+\draw (-0.5,1.7) node {$b_1$};
+\draw (3.6,1.7) node {$b_2$};
+\draw (0,3.5) node {$s$};
+\draw[|-,semithick] (0,-0.5) -- (4,-0.5);
+\draw[|->,semithick] (4,-0.5) -- (4.5,-0.5);
+\draw (0,-1) node {$x=0$};
+\draw (4,-1) node {$x=l$};
+\end{tikzpicture}
+\end{center}
+
+\section{Momento de inercia de la sección trapezoidal}
+
+El momento de inercia es una medida fundamental en el análisis estructural, ya que determina la rigidez de una viga frente a la flexión. Para una sección trapezoidal, el cálculo del momento de inercia alrededor de su eje neutro se realiza mediante la fórmula~\eqref{eq:1}.
+
+\begin{equation}
+I_x = \frac{b_1 s^3}{36} + \frac{b_2 s^3}{36}
+\label{eq:1}
+\end{equation}
+donde $b_1$ y $b_2$ son las longitudes de las bases de la sección trapezoidal, y $s$ es la altura. Esta fórmula es aproximada para una viga trapezoidal simple con bases paralelas al eje de la viga.
+
+El momento de inercia también puede expresarse para casos más complejos, considerando una sección variable a lo largo de la longitud de la viga, o la adición de refuerzos en la parte superior o inferior.
+
+\section{Esfuerzo Cortante y Flexión}
+
+La viga trapezoidal se comporta de manera diferente bajo cargas distribuidas dependiendo de la orientación y distribución del material. El esfuerzo cortante $V$ en una sección transversal de la viga bajo una carga distribuida $q(x)$ está dado por:
+
+\begin{equation}
+V(x) = \int_0^x q(\xi)\, d\xi
+\end{equation}
+
+Por otro lado, el momento flector $M(x)$, que describe la flexión de la viga a lo largo de su longitud, está dado por:
+
+\begin{equation}
+M(x) = \int_0^x V(\xi)\, d\xi
+\end{equation}
+
+Estos conceptos son cruciales para el diseño de estructuras, ya que el conocimiento preciso del esfuerzo cortante y la flexión permite a los ingenieros diseñar vigas que puedan soportar grandes cargas sin fallar.
+
+\section{Aplicaciones de las vigas trapezoidales}
+
+Las vigas trapezoidales se utilizan en diversas aplicaciones de la ingeniería civil y mecánica. Una de sus principales ventajas es la reducción de peso en comparación con secciones rectangulares, sin sacrificar la rigidez estructural. Estas vigas se emplean en puentes, edificaciones y estructuras industriales, donde la eficiencia del material es crucial.
+
+Otra ventaja de las secciones trapezoidales es su capacidad para adaptarse a variaciones en la carga. En muchos casos, las cargas no son uniformemente distribuidas a lo largo de la viga, por lo que una sección trapezoidal puede ofrecer una solución más eficiente en comparación con las secciones rectangulares tradicionales.
+
+\section{Conclusión}
+
+El análisis estructural de vigas trapezoidales es un área esencial en la ingeniería estructural. Estas vigas ofrecen una solución eficiente en términos de peso y resistencia, lo que las hace ideales para aplicaciones que requieren materiales livianos pero rígidos. La figura presentada ilustra cómo las dimensiones de la viga, incluidas las bases y la longitud total, afectan su comportamiento estructural, lo que subraya la importancia de la geometría en el diseño de estructuras.
+
+El cálculo del momento de inercia, los esfuerzos cortantes y la flexión proporcionan las herramientas necesarias para garantizar que las vigas trapezoidales puedan soportar las cargas a las que se someten en la práctica.
+
