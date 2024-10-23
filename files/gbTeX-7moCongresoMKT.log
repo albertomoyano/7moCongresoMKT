@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 21:20
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 21:28
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -3429,34 +3429,34 @@ LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 11.7724pt on input line 19.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 7.84827pt on input line 24.
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 7.75806pt on input line 28.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 7.69775pt on input line 28.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 7.69775pt on input line 28.
+luaotfload | aux : font no 118 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 118 (nil) does not define feature vrt2 for script han
+i with language dflt
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
 [1
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
  [2<./media/people.jpg>]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 7.75806pt on input line 56.
-LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 7.69775pt on input line 56.
-LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 7.69775pt on input line 56.
-luaotfload | aux : font no 118 (nil) does not define feature vert for script han
-i with language dflt
-luaotfload | aux : font no 118 (nil) does not define feature vrt2 for script han
-i with language dflt
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
  [3])
 LaTeX Info: Redefining \. on input line 657.
 LaTeX Info: Redefining \% on input line 657.
@@ -3803,17 +3803,17 @@ Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  70092 strings out of 476553
- 1822648,2848258 words of node,token memory allocated
- 1641072 words of node memory still in use:
-   2250 hlist, 60 vlist, 775 rule, 2 adjust, 5824 disc, 664 local_par, 168 math,
- 8737 glue, 2960 kern, 1087 penalty, 247 margin_kern, 35503 glyph, 563914 attrib
-ute, 1327 glue_spec, 33842 attribute_list, 37 write, 4 save_pos, 1423 user_defin
+ 1822637,2848258 words of node,token memory allocated
+ 1648882 words of node memory still in use:
+   2274 hlist, 60 vlist, 835 rule, 2 adjust, 5826 disc, 664 local_par, 176 math,
+ 8861 glue, 2997 kern, 1087 penalty, 247 margin_kern, 35496 glyph, 566688 attrib
+ute, 1327 glue_spec, 34014 attribute_list, 37 write, 4 save_pos, 1443 user_defin
 ed, 1430 pdf_literal, 52 pdf_start_link, 52 pdf_end_link, 29 pdf_action, 540 pdf
 _colorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
-   avail lists: 1:73,2:1132,3:1825,4:1283,5:94,6:2,7:1309,8:28,9:1333,10:17,11:1
+   avail lists: 1:74,2:1132,3:1825,4:1283,5:94,6:2,7:1309,8:28,9:1333,10:17,11:1
 54,12:2
  90068 multiletter control sequences out of 65536+600000
- 123 fonts using 74017751 bytes
+ 123 fonts using 74017683 bytes
  117i,12n,123p,2364b,2662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Math-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus
@@ -3824,7 +3824,7 @@ xmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr
 /share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.o
 tf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Liberti
 nusSerif-Regular.otf>
-Output written on pdf-7moCongresoMKT.pdf (34 pages, 16692249 bytes).
+Output written on pdf-7moCongresoMKT.pdf (34 pages, 16693073 bytes).
 
 PDF statistics: 373 PDF objects out of 1000 (max. 8388607)
  223 compressed objects within 3 object streams
