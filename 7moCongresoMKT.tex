@@ -22,8 +22,20 @@
 	\fi
 \fi
 
+% Definición de entornos matemáticos personalizados
+\newtheorem{theorem}{Teorema}
+\newtheorem{lemma}[theorem]{Lema}
+\newtheorem{proposition}[theorem]{Proposición}
+\newtheorem{corollary}[theorem]{Corolario}
+\newtheorem{definition}{Definición}
+\newtheorem{example}{Ejemplo}
+\newtheorem{axiom}{Axioma}
+\newtheorem{conjecture}{Conjetura}
+\theoremstyle{remark}% ---> necesita amsthm
+\newtheorem{remark}{Observación}
 
 \usepackage{chemfig}
+\usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{tikz}
 \begin{document}

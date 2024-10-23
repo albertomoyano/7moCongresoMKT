@@ -87,6 +87,51 @@ pg 1: or  <return>  to continue without it.
 From file ./files/gbTeXmeta-7moCongresoMKT.tex:
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
       (hyperref)                setting the option has no effect on input line 15.
+pg 1: ! Undefined control sequence.
+      <recently read> \theoremstyle 
+                    
+      l.647 \theoremstyle
+pg 1: {remark}% ---> necesita amsthm
+pg 1: The control sequence at the end of the top line
+      of your error message was never \def'ed. If you have
+      misspelled it (e.g., `\hobx'), type `I' and the correct
+      spelling (e.g., `I\hbox'). Otherwise just continue,
+      and I'll forget about whatever was undefined.
+pg 1: ! LaTeX Error: Missing \begin{document}.
+      See the LaTeX manual or LaTeX Companion for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.647 \theoremstyle{r
+pg 1: emark}% ---> necesita amsthm
+pg 1: You're in trouble here.  Try typing  <return>  to proceed.
+pg 1: If that doesn't work, type  X <return>  to quit.
+-----------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty:
+pg 1: ! LaTeX Error: Command `\eth' already defined.
+      See the LaTeX manual or LaTeX Companion for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.240 ...mbol{\eth}            {\mathord}{AMSb}{"67}
+pg 1: ! LaTeX Error: Command `\smallsetminus' already defined.
+      See the LaTeX manual or LaTeX Companion for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.251 ...mbol{\smallsetminus}  {\mathbin}{AMSb}{"72}
+pg 1: ! LaTeX Error: Command `\digamma' already defined.
+      See the LaTeX manual or LaTeX Companion for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.259 ...mbol{\digamma}        {\mathord}{AMSb}{"7A}
+pg 1: ! LaTeX Error: Command `\backepsilon' already defined.
+      See the LaTeX manual or LaTeX Companion for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.265 ...mbol{\backepsilon}    {\mathrel}{AMSb}{"7F}
 -----------------------------------
 From file ./pdf-7moCongresoMKT.aux:
 pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo02.aux)
@@ -94,191 +139,85 @@ pg 1: (./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.a
 pg 1: (./artcap/indiceautores.aux)
 ----------------------------------------
 From file ./artcap/agradecimientos2.tex:
-pg 11: (load cache: extra_haranoajigothic-medium.luc)
+pg 13: (load cache: extra_haranoajigothic-medium.luc)
 ----------------------------------
 From file ./artcap/capitulo01.tex:
-pg 13: Capítulo 1.
-pg 13: LaTeX Warning: `!h' float specifier changed to `!ht'.
+pg 15: Capítulo 1.
+pg 15: LaTeX Warning: `!h' float specifier changed to `!ht'.
+pg 15: warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
+pg 16: warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
 ----------------------------------
 From file ./artcap/capitulo02.tex:
-pg 17: Capítulo 2.
+pg 19: Capítulo 2.
 ----------------------------------
 From file ./artcap/capitulo03.tex:
-pg 21: Capítulo 3.
+pg 23: Capítulo 3.
 ----------------------------------
 From file ./artcap/capitulo04.tex:
-pg 25: Capítulo 4.
-pg 25: ! Missing { inserted.
+pg 27: Capítulo 4.
+pg 27: ! Missing { inserted.
        <to be read again> 
        \egroup 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 25: A left brace was mandatory here, so I've put one in.
-pg 25: You might want to delete and/or insert some corrections
-pg 25: so that I will find a matching right brace soon.
-pg 25: If you're confused by all this, try typing `I}' now.
-pg 25: ! Missing } inserted.
+pg 27: A left brace was mandatory here, so I've put one in.
+pg 27: You might want to delete and/or insert some corrections
+pg 27: so that I will find a matching right brace soon.
+pg 27: If you're confused by all this, try typing `I}' now.
+pg 27: ! Missing } inserted.
        <inserted text> 
        }
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 25: I've inserted something that you may have forgotten.
-pg 25: (See the <inserted text> above.)
-pg 25: With luck, this will get me unwedged. But if you
-pg 25: really didn't forget anything, try typing `2' now; then
-pg 25: my insertion and my current dilemma will both disappear.
-pg 25: ! Missing { inserted.
+pg 27: I've inserted something that you may have forgotten.
+pg 27: (See the <inserted text> above.)
+pg 27: With luck, this will get me unwedged. But if you
+pg 27: really didn't forget anything, try typing `2' now; then
+pg 27: my insertion and my current dilemma will both disappear.
+pg 27: ! Missing { inserted.
        <to be read again> 
        \let 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
 ----------------------------------
 From file ./artcap/capitulo05.tex:
-pg 29: Capítulo 5.
-pg 29: ! LaTeX Error: Environment theorem undefined.
+pg 31: Capítulo 5.
+pg 31: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.13 	\begin{theorem}
-pg 29: ! LaTeX Error: \begin{document} ended by \end{theorem}.
+       l.17 \begin{proof}
+pg 31: ! LaTeX Error: \begin{document} ended by \end{proof}.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.15 	\end{theorem}
-pg 29: ! LaTeX Error: Environment proof undefined.
+       l.25 \end{proof}
+pg 31: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.17 	\begin{proof}
-pg 29: ! LaTeX Error: \begin{document} ended by \end{proof}.
+       l.33 \begin{proof}
+pg 32: ! LaTeX Error: \begin{document} ended by \end{proof}.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.23 	\end{proof}
-pg 29: ! LaTeX Error: Environment lemma undefined.
+       l.47 \end{proof}
+pg 32: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.27 	\begin{lemma}
-pg 29: ! LaTeX Error: \begin{document} ended by \end{lemma}.
+       l.57 \begin{proof}
+pg 32: ! LaTeX Error: \begin{document} ended by \end{proof}.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.29 	\end{lemma}
-pg 29: ! LaTeX Error: Environment proof undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.31 	\begin{proof}
-pg 29: ! LaTeX Error: \begin{document} ended by \end{proof}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.41 	\end{proof}
-pg 30: ! LaTeX Error: Environment proposition undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.47 	\begin{proposition}
-pg 30: ! LaTeX Error: \begin{document} ended by \end{proposition}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.49 	\end{proposition}
-pg 30: ! LaTeX Error: Environment proof undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.51 	\begin{proof}
-pg 30: ! LaTeX Error: \begin{document} ended by \end{proof}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.57 	\end{proof}
-pg 30: ! LaTeX Error: Environment corollary undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.61 	\begin{corollary}
-pg 30: ! LaTeX Error: \begin{document} ended by \end{corollary}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.63 	\end{corollary}
-pg 30: ! LaTeX Error: Environment definition undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.69 	\begin{definition}
-pg 30: ! LaTeX Error: \begin{document} ended by \end{definition}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.71 	\end{definition}
-pg 30: ! LaTeX Error: Environment example undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.75 	\begin{example}
-pg 30: ! LaTeX Error: \begin{document} ended by \end{example}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.77 	\end{example}
-pg 30: ! LaTeX Error: Environment axiom undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.83 	\begin{axiom}
-pg 30: ! LaTeX Error: \begin{document} ended by \end{axiom}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.85 	\end{axiom}
-pg 30: ! LaTeX Error: Environment conjecture undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.91 	\begin{conjecture}
-pg 31: ! LaTeX Error: \begin{document} ended by \end{conjecture}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.93 	\end{conjecture}
-pg 31: ! LaTeX Error: Environment remark undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.99 	\begin{remark}
-pg 31: ! LaTeX Error: \begin{document} ended by \end{remark}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.101 	\end{remark}
-pg 38: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
-pg 38: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-pg 38: This document will not have a glossary.
+       l.65 \end{proof}
+pg 40: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+pg 40: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+pg 40: This document will not have a glossary.
 
 After last page:
 

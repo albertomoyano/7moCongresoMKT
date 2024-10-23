@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 21:44
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 22:22
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -2907,7 +2907,38 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 15.
 
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 15.
-) (/usr/share/texlive/texmf-dist/tex/generic/chemfig/chemfig.sty
+)
+\c@theorem=\count605
+\c@definition=\count606
+\c@example=\count607
+\c@axiom=\count608
+\c@conjecture=\count609
+
+! Undefined control sequence.
+<recently read> \theoremstyle 
+              
+l.647 \theoremstyle
+                 {remark}% ---> necesita amsthm
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.647 \theoremstyle{r
+                   emark}% ---> necesita amsthm
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\c@remark=\count610
+(/usr/share/texlive/texmf-dist/tex/generic/chemfig/chemfig.sty
 (/usr/share/texlive/texmf-dist/tex/generic/chemfig/chemfig.tex
 (/usr/share/texlive/texmf-dist/tex/generic/simplekv/simplekv.tex
 Package: simplekv 2023/10/02 v0.2c Simple keyval package (CT)
@@ -2920,12 +2951,12 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowwidth=\dimen386
 \pgfarrowlinewidth=\dimen387
 )
-\CF_cnt_atomgroup=\count605
-\CF_cnt_group=\count606
-\CF_cnt_atom=\count607
-\CF_cnt_cycle=\count608
-\CF_cnt_cyclebonds=\count609
-\CF_cnt_compound=\count610
+\CF_cnt_atomgroup=\count611
+\CF_cnt_group=\count612
+\CF_cnt_atom=\count613
+\CF_cnt_cycle=\count614
+\CF_cnt_cyclebonds=\count615
+\CF_cnt_compound=\count616
 \CF_dim=\dimen388
 \CF_turnangle=\dimen389
 \CF_arrowsize=\dimen390
@@ -2937,14 +2968,77 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \CF_substtoks=\toks82
 )
 Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 74.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 75.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 76.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+)
+
+! LaTeX Error: Command `\eth' already defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.240 ...mbol{\eth}            {\mathord}{AMSb}{"67}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command `\smallsetminus' already defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 ...mbol{\smallsetminus}  {\mathbin}{AMSb}{"72}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command `\digamma' already defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.259 ...mbol{\digamma}        {\mathord}{AMSb}{"7A}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command `\backepsilon' already defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.265 ...mbol{\backepsilon}    {\mathrel}{AMSb}{"7F}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-
-(/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-footmisc.sty
+ (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-footmisc.sty
 Package: lltjp-footmisc 2022-02-19 Patch to footmisc for LuaTeX-ja
-)
-(/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
+) (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
 Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
 )
 (./pdf-7moCongresoMKT.aux
@@ -2955,30 +3049,30 @@ LaTeX Info: Redefining \% on input line 16.
 (./artcap/indiceautores.aux))
 \openout1 = pdf-7moCongresoMKT.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 642.
-LaTeX Font Info:    ... okay on input line 642.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -3016,22 +3110,22 @@ LaTeX Font Info:    ... okay on input line 642.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 642.
-LaTeX Info: Redefining \% on input line 642.
-LaTeX Info: Redefining \up on input line 642.
-LaTeX Info: Redefining \microtypecontext on input line 642.
-Package microtype Info: Applying patch `item' on input line 642.
-Package microtype Info: Applying patch `toc' on input line 642.
-Package microtype Info: Applying patch `eqnum' on input line 642.
-Package microtype Info: Applying patch `footnote' on input line 642.
-Package microtype Info: Applying patch `verbatim' on input line 642.
+LaTeX Info: Redefining \. on input line 654.
+LaTeX Info: Redefining \% on input line 654.
+LaTeX Info: Redefining \up on input line 654.
+LaTeX Info: Redefining \microtypecontext on input line 654.
+Package microtype Info: Applying patch `item' on input line 654.
+Package microtype Info: Applying patch `toc' on input line 654.
+Package microtype Info: Applying patch `eqnum' on input line 654.
+Package microtype Info: Applying patch `footnote' on input line 654.
+Package microtype Info: Applying patch `verbatim' on input line 654.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 642.
+LaTeX Info: Redefining \showhyphens on input line 654.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -3041,13 +3135,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  TU/LibertinusMath(1)/m/n --> TU/LibertinusSerif(0)/m/n 
-on input line 642.
+on input line 654.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(0)/m/it on input li
-ne 642.
+ne 654.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
-e 642.
+e 654.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-spanish.trsl
@@ -3055,7 +3149,7 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 642.
+or `spanish'. on input line 654.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-german.trsl
@@ -3063,7 +3157,7 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 642.
+or `german'. on input line 654.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -3071,11 +3165,11 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 642.
+or `english'. on input line 654.
 Package translations Info: no dictionary file `translations-basic-dictionary-it
-alian.trsl' found. on input line 642.
+alian.trsl' found. on input line 654.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 642.
+rtuges.trsl' found. on input line 654.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-french.trsl
@@ -3083,20 +3177,20 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 642.
+or `french'. on input line 654.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count611
+\scratchcounter=\count617
 \scratchdimen=\dimen392
 \scratchbox=\box175
-\nofMPsegments=\count612
-\nofMParguments=\count613
+\nofMPsegments=\count618
+\nofMParguments=\count619
 \everyMPshowfont=\toks83
-\MPscratchCnt=\count614
+\MPscratchCnt=\count620
 \MPscratchDim=\dimen393
-\MPnumerator=\count615
-\makeMPintoPDFobject=\count616
+\MPnumerator=\count621
+\makeMPintoPDFobject=\count622
 \everyMPtoPDFconversion=\toks84
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -3132,7 +3226,7 @@ Package caption Info: scrextend package is loaded.
 \caption@addmargin@linewidth=\dimen395
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count617
+\c@lstlisting=\count623
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-philosophy
 '...
 Package biblatex Info: ... file 'spanish-philosophy.lbx' found.
@@ -3226,26 +3320,43 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-7moCongresoMKT.bbl' found.
 
 (./pdf-7moCongresoMKT.bbl)
-Package biblatex Info: Reference section=0 on input line 642.
-Package biblatex Info: Reference segment=0 on input line 642.
-Package hyperref Info: Link coloring ON on input line 642.
+Package biblatex Info: Reference section=0 on input line 654.
+Package biblatex Info: Reference segment=0 on input line 654.
+Package hyperref Info: Link coloring ON on input line 654.
  (./pdf-7moCongresoMKT.out) (./pdf-7moCongresoMKT.out)
 \@outlinefile=\write10
 
 \openout10 = pdf-7moCongresoMKT.out
- (./artcap/inicio-frontmatter.tex [1
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 9.81033pt on input line 655.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `IBMPlexSansCondensed' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 9.69757pt on input line 655.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 9.6222pt on input line 655.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
+(Font)              scaled to size 9.6222pt on input line 655.
+luaotfload | aux : font no 84 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 84 (nil) does not define feature vrt2 for script hani
+ with language dflt [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
+] [2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+]
+(./artcap/inicio-frontmatter.tex [1] [2]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 20.39026pt on input line 19.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 16.62714pt on input line 19.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 16.62714pt on input line 19.
-luaotfload | aux : font no 83 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 86 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 83 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 86 (nil) does not define feature vrt2 for script hani
  with language dflt [3] [4]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 11.79993pt on input line 31.
@@ -3257,9 +3368,9 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 31.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 31.
-luaotfload | aux : font no 86 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 89 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 86 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 89 (nil) does not define feature vrt2 for script hani
  with language dflt
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 39.
@@ -3267,32 +3378,31 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 39.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 39.
-luaotfload | aux : font no 88 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 91 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 88 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 91 (nil) does not define feature vrt2 for script hani
  with language dflt
-<./media/logo-imago-ByW.png, id=92, 85.2786pt x 42.1575pt>
+<./media/logo-imago-ByW.png, id=101, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
 Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [5<./media/logo-imago-ByW.png>]
-<./media/desconocido.png, id=99, 85.2786pt x 98.0463pt>
+<./media/desconocido.png, id=108, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
 Package luatex.def Info: ./media/desconocido.png  used on input line 55.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
-)
-(./artcap/agradecimientos.tex [6<./media/desconocido.png>]
+) (./artcap/agradecimientos.tex [6<./media/desconocido.png>]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 10.61993pt on input line 6.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 8.65997pt on input line 6.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 8.65997pt on input line 6.
-luaotfload | aux : font no 90 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 93 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 90 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 93 (nil) does not define feature vrt2 for script hani
  with language dflt
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LibertinusMath' (encoding: TU).
@@ -3300,36 +3410,46 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 6.
-luaotfload | aux : font no 99 (nil) does not define feature vert for script hani
- with language dflt
-luaotfload | aux : font no 99 (nil) does not define feature vrt2 for script hani
- with language dflt
+luaotfload | aux : font no 102 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 102 (nil) does not define feature vrt2 for script han
+i with language dflt
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 6.
-luaotfload | aux : font no 100 (nil) does not define feature vert for script han
+luaotfload | aux : font no 103 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 100 (nil) does not define feature vrt2 for script han
-i with language dflt [7
+luaotfload | aux : font no 103 (nil) does not define feature vrt2 for script han
+i with language dflt
+LaTeX Font Info:    Trying loading font information for U+msa on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying loading font information for U+msb on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [7
 
 ] [8
 
 ])
-Package biblatex Info: Resetting trackers on input line 650.
+Package biblatex Info: Resetting trackers on input line 662.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 650.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `IBMPlexSansCondensed' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
+(Font)              scaled to size 14.12686pt on input line 662.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 650.
+(Font)              scaled to size 16.95224pt on input line 662.
 
 (./pdf-7moCongresoMKT.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 2.
 )
 \tf@toc=\write11
 
@@ -3356,9 +3476,9 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 6.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 10.
-luaotfload | aux : font no 106 (nil) does not define feature vert for script han
+luaotfload | aux : font no 114 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 106 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 114 (nil) does not define feature vrt2 for script han
 i with language dflt
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 9.43994pt on input line 10.
@@ -3369,20 +3489,10 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
  [11])
-LaTeX Info: Redefining \. on input line 655.
-LaTeX Info: Redefining \% on input line 655.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 655.
-LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 655.
-LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 655.
-luaotfload | aux : font no 109 (nil) does not define feature vert for script han
-i with language dflt
-luaotfload | aux : font no 109 (nil) does not define feature vrt2 for script han
-i with language dflt
-LaTeX Info: Redefining \. on input line 655.
-LaTeX Info: Redefining \% on input line 655.
+LaTeX Info: Redefining \. on input line 667.
+LaTeX Info: Redefining \% on input line 667.
+LaTeX Info: Redefining \. on input line 667.
+LaTeX Info: Redefining \% on input line 667.
 
 [12]
 \openout2 = ./artcap/capitulo01.aux
@@ -3401,11 +3511,11 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 11.54663pt on input line 3.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 11.54663pt on input line 3.
-luaotfload | aux : font no 112 (nil) does not define feature vert for script han
+luaotfload | aux : font no 122 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 112 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 122 (nil) does not define feature vrt2 for script han
 i with language dflt
-<./media/people.jpg, id=158, 803.0pt x 803.0pt>
+<./media/people.jpg, id=166, 803.0pt x 803.0pt>
 File: ./media/people.jpg Graphic file (type jpg)
 <use ./media/people.jpg>
 Package luatex.def Info: ./media/people.jpg  used on input line 9.
@@ -3418,9 +3528,9 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 10.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 10.
-luaotfload | aux : font no 114 (nil) does not define feature vert for script han
+luaotfload | aux : font no 124 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 114 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 124 (nil) does not define feature vrt2 for script han
 i with language dflt
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -3435,14 +3545,16 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 7.69775pt on input line 28.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 7.69775pt on input line 28.
-luaotfload | aux : font no 118 (nil) does not define feature vert for script han
+luaotfload | aux : font no 128 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 118 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 128 (nil) does not define feature vrt2 for script han
 i with language dflt
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1
 
 
@@ -3452,16 +3564,18 @@ LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [2<./media/people.jpg>]
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
+[2<./media/people.jpg>]
 LaTeX Info: Redefining \. on input line 84.
 LaTeX Info: Redefining \% on input line 84.
 LaTeX Info: Redefining \. on input line 84.
 LaTeX Info: Redefining \% on input line 84.
  [3])
-LaTeX Info: Redefining \. on input line 657.
-LaTeX Info: Redefining \% on input line 657.
-LaTeX Info: Redefining \. on input line 657.
-LaTeX Info: Redefining \% on input line 657.
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
  [4]
 \openout2 = ./artcap/capitulo02.aux
  (./artcap/capitulo02.tex
@@ -3500,10 +3614,10 @@ LaTeX Info: Redefining \% on input line 97.
 LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
  [7])
-LaTeX Info: Redefining \. on input line 658.
-LaTeX Info: Redefining \% on input line 658.
-LaTeX Info: Redefining \. on input line 658.
-LaTeX Info: Redefining \% on input line 658.
+LaTeX Info: Redefining \. on input line 670.
+LaTeX Info: Redefining \% on input line 670.
+LaTeX Info: Redefining \. on input line 670.
+LaTeX Info: Redefining \% on input line 670.
  [8]
 \openout2 = ./artcap/capitulo03.aux
  (./artcap/capitulo03.tex
@@ -3528,10 +3642,10 @@ LaTeX Info: Redefining \% on input line 68.
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
  [10])
-LaTeX Info: Redefining \. on input line 659.
-LaTeX Info: Redefining \% on input line 659.
-LaTeX Info: Redefining \. on input line 659.
-LaTeX Info: Redefining \% on input line 659.
+LaTeX Info: Redefining \. on input line 671.
+LaTeX Info: Redefining \% on input line 671.
+LaTeX Info: Redefining \. on input line 671.
+LaTeX Info: Redefining \% on input line 671.
  [11]
 \openout2 = ./artcap/capitulo04.aux
  (./artcap/capitulo04.tex [12
@@ -3641,7 +3755,7 @@ LaTeX Info: Redefining \% on input line 19.
 [13]
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 20.
-<./media/adn.jpg, id=271, 5018.75pt x 5018.75pt>
+<./media/adn.jpg, id=277, 5018.75pt x 5018.75pt>
 File: ./media/adn.jpg Graphic file (type jpg)
 <use ./media/adn.jpg>
 Package luatex.def Info: ./media/adn.jpg  used on input line 29.
@@ -3656,10 +3770,10 @@ LaTeX Info: Redefining \% on input line 61.
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
  [15])
-LaTeX Info: Redefining \. on input line 660.
-LaTeX Info: Redefining \% on input line 660.
-LaTeX Info: Redefining \. on input line 660.
-LaTeX Info: Redefining \% on input line 660.
+LaTeX Info: Redefining \. on input line 672.
+LaTeX Info: Redefining \% on input line 672.
+LaTeX Info: Redefining \. on input line 672.
+LaTeX Info: Redefining \% on input line 672.
  [16]
 \openout2 = ./artcap/capitulo05.aux
  (./artcap/capitulo05.tex
@@ -3669,32 +3783,12 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
-
-! LaTeX Error: Environment theorem undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 	\begin{theorem}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{theorem}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 	\end{theorem}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 14.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 14.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 14.
 
 ! LaTeX Error: Environment proof undefined.
 
@@ -3702,8 +3796,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 	\begin{proof}
-                 
+l.17 \begin{proof}
+                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -3715,38 +3809,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 	\end{proof}
-               
+l.25 \end{proof}
+              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: Environment lemma undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 	\begin{lemma}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{lemma}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 	\end{lemma}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 30.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 30.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 30.
 
 ! LaTeX Error: Environment proof undefined.
 
@@ -3754,29 +3828,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31 	\begin{proof}
-                 
+l.33 \begin{proof}
+                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: \begin{document} ended by \end{proof}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 	\end{proof}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
 [17
 
 
@@ -3784,31 +3845,24 @@ LaTeX Info: Redefining \% on input line 43.
 
 ]
 
-! LaTeX Error: Environment proposition undefined.
+! LaTeX Error: \begin{document} ended by \end{proof}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 	\begin{proposition}
-                       
+l.47 \end{proof}
+              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: \begin{document} ended by \end{proposition}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 	\end{proposition}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 54.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 54.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 54.
 
 ! LaTeX Error: Environment proof undefined.
 
@@ -3816,8 +3870,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 	\begin{proof}
-                 
+l.57 \begin{proof}
+                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -3829,266 +3883,146 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 	\end{proof}
-               
+l.65 \end{proof}
+              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: Environment corollary undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.61 	\begin{corollary}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{corollary}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.63 	\end{corollary}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment definition undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.69 	\begin{definition}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{definition}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.71 	\end{definition}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment example undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 	\begin{example}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{example}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 	\end{example}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment axiom undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 	\begin{axiom}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{axiom}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 	\end{axiom}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment conjecture undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 	\begin{conjecture}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 70.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 70.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 70.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 78.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 78.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 78.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 84.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 84.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 84.
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
 [18]
-
-! LaTeX Error: \begin{document} ended by \end{conjecture}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 	\end{conjecture}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment remark undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 	\begin{remark}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{remark}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.101 	\end{remark}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 92.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 92.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 92.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 100.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 100.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 100.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 108.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 108.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 108.
 )
-LaTeX Info: Redefining \. on input line 661.
-LaTeX Info: Redefining \% on input line 661.
-LaTeX Info: Redefining \. on input line 661.
-LaTeX Info: Redefining \% on input line 661.
+LaTeX Info: Redefining \. on input line 673.
+LaTeX Info: Redefining \% on input line 673.
+LaTeX Info: Redefining \. on input line 673.
+LaTeX Info: Redefining \% on input line 673.
  [19] [20
 
 
 
 ]
-Package biblatex Info: Resetting trackers on input line 665.
+Package biblatex Info: Resetting trackers on input line 677.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 666.
+(Font)              scaled to size 10.61993pt on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 666.
+(Font)              scaled to size 8.65997pt on input line 678.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 666.
+(Font)              scaled to size 8.65997pt on input line 678.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.61993pt on input line 666.
+(Font)              scaled to size 10.61993pt on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 666.
+(Font)              No change on input line 678.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 666.
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
+(Font)              No change on input line 678.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
  [21
 
 ]
@@ -4099,10 +4033,10 @@ LaTeX Info: Redefining \% on input line 668.
 ] (./names.ind
 Package biblatex Info: Resetting trackers on input line 1.
 ))
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
  [23
 
 ]
@@ -4113,10 +4047,10 @@ LaTeX Info: Redefining \% on input line 668.
 ]
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
+LaTeX Info: Redefining \. on input line 683.
+LaTeX Info: Redefining \% on input line 683.
+LaTeX Info: Redefining \. on input line 683.
+LaTeX Info: Redefining \% on input line 683.
  [25]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
@@ -4145,39 +4079,39 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `pdf-7moCongresoMKT.out' has not changed.
-(rerunfilecheck)             Checksum: 9C687FBE95EE3E37B1693916BA02E146;1998.
+(rerunfilecheck)             Checksum: 81380DD04675AE1106F0948AFAF46FB8;1920.
 Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 
 \openout1 = pdf-7moCongresoMKT.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 70187 strings out of 476553
- 2278325,2848258 words of node,token memory allocated
- 1905374 words of node memory still in use:
-   2442 hlist, 60 vlist, 931 rule, 2 adjust, 6736 disc, 743 local_par, 285 math,
- 10010 glue, 3532 kern, 1273 penalty, 273 margin_kern, 41361 glyph, 655644 attri
-bute, 1535 glue_spec, 39268 attribute_list, 53 write, 4 save_pos, 1491 user_defi
-ned, 1430 pdf_literal, 74 pdf_start_link, 74 pdf_end_link, 38 pdf_action, 644 pd
-f_colorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
-   avail lists: 1:70,2:1132,3:1634,4:1138,5:94,6:7,7:1356,8:28,9:1078,10:17,11:1
-54,12:2
- 90129 multiletter control sequences out of 65536+600000
- 123 fonts using 74017751 bytes
+ 70627 strings out of 476553
+ 2278329,2848258 words of node,token memory allocated
+ 1923743 words of node memory still in use:
+   2632 hlist, 60 vlist, 933 rule, 2 adjust, 6759 disc, 864 local_par, 286 math,
+ 10313 glue, 3538 kern, 1434 penalty, 282 margin_kern, 41654 glyph, 660242 attri
+bute, 1669 glue_spec, 39571 attribute_list, 53 write, 4 save_pos, 1547 user_defi
+ned, 1430 pdf_literal, 74 pdf_start_link, 74 pdf_end_link, 14 pdf_dest, 38 pdf_a
+ction, 672 pdf_colorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
+   avail lists: 1:77,2:1132,3:1475,4:1045,5:94,6:7,7:1356,8:28,9:875,10:17,11:15
+4,12:2
+ 90530 multiletter control sequences out of 65536+600000
+ 133 fonts using 74635963 bytes
  117i,12n,123p,2364b,2662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Math-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus
 -fonts/LibertinusMath-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/
 public/libertinus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/
-fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/te
-xmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr
-/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.o
-tf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Liberti
-nusSerif-Regular.otf>
-Output written on pdf-7moCongresoMKT.pdf (38 pages, 16703342 bytes).
+fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share/te
+xlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/
+share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-
+Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCo
+ndensed-SemiBold.otf>
+Output written on pdf-7moCongresoMKT.pdf (40 pages, 16707928 bytes).
 
-PDF statistics: 412 PDF objects out of 1000 (max. 8388607)
- 255 compressed objects within 3 object streams
- 106 named destinations out of 1000 (max. 131072)
+PDF statistics: 427 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
+ 115 named destinations out of 1000 (max. 131072)
  325 words of extra memory for PDF output out of 10000 (max. 100000000)
 
