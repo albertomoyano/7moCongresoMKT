@@ -190,14 +190,14 @@ pg 31: ! LaTeX Error: \begin{document} ended by \end{proof}.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.25 \end{proof}
+       l.26 \end{proof}
 pg 31: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.33 \begin{proof}
-pg 32: ! LaTeX Error: \begin{document} ended by \end{proof}.
+       l.34 \begin{proof}
+pg 31: ! LaTeX Error: \begin{document} ended by \end{proof}.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              

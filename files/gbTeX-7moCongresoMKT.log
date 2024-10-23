@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 22:22
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 22:30
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -3809,18 +3809,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \end{proof}
+l.26 \end{proof}
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
-(Font)              No change on input line 30.
+(Font)              No change on input line 31.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
-(Font)              No change on input line 30.
+(Font)              No change on input line 31.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
-(Font)              No change on input line 30.
+(Font)              No change on input line 31.
 
 ! LaTeX Error: Environment proof undefined.
 
@@ -3828,22 +3828,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \begin{proof}
+l.34 \begin{proof}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
-[17
-
-
-
-
-]
 
 ! LaTeX Error: \begin{document} ended by \end{proof}.
 
@@ -3857,12 +3847,23 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+[17
+
+
+
+
+]
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 54.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 54.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 54.
+
 
 ! LaTeX Error: Environment proof undefined.
 
@@ -4088,16 +4089,16 @@ Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 Here is how much of LuaTeX's memory you used:
  70627 strings out of 476553
  2278329,2848258 words of node,token memory allocated
- 1923743 words of node memory still in use:
-   2632 hlist, 60 vlist, 933 rule, 2 adjust, 6759 disc, 864 local_par, 286 math,
- 10313 glue, 3538 kern, 1434 penalty, 282 margin_kern, 41654 glyph, 660242 attri
-bute, 1669 glue_spec, 39571 attribute_list, 53 write, 4 save_pos, 1547 user_defi
+ 1923144 words of node memory still in use:
+   2615 hlist, 60 vlist, 933 rule, 2 adjust, 6759 disc, 855 local_par, 286 math,
+ 10292 glue, 3542 kern, 1425 penalty, 282 margin_kern, 41658 glyph, 660140 attri
+bute, 1659 glue_spec, 39565 attribute_list, 53 write, 4 save_pos, 1547 user_defi
 ned, 1430 pdf_literal, 74 pdf_start_link, 74 pdf_end_link, 14 pdf_dest, 38 pdf_a
 ction, 672 pdf_colorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
-   avail lists: 1:77,2:1132,3:1475,4:1045,5:94,6:7,7:1356,8:28,9:875,10:17,11:15
+   avail lists: 1:77,2:1132,3:1484,4:1045,5:94,6:7,7:1356,8:28,9:892,10:17,11:15
 4,12:2
  90530 multiletter control sequences out of 65536+600000
- 133 fonts using 74635963 bytes
+ 133 fonts using 74635827 bytes
  117i,12n,123p,2364b,2662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Math-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus
@@ -4108,7 +4109,7 @@ xlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/
 share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-
 Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCo
 ndensed-SemiBold.otf>
-Output written on pdf-7moCongresoMKT.pdf (40 pages, 16707928 bytes).
+Output written on pdf-7moCongresoMKT.pdf (40 pages, 16707866 bytes).
 
 PDF statistics: 427 PDF objects out of 1000 (max. 8388607)
  268 compressed objects within 3 object streams
