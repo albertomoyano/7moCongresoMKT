@@ -20,32 +20,6 @@ pg 1: ! Package babel Error: There is no ini file for the requested language
        ...                                              
                                                         
       l.4291 \ProcessOptions*
-----------------
-From file DUMMY:
-pg 1: with lang
-pg 1: uage esp
-pg 1: {family=rm}].
-pg 1: (fontspec)
-pg 1: (fontspec)              This font family consists of the following NFSS
-pg 1: (fontspec)             series/shapes:
-pg 1: (fontspec)             - 'normal' (m/n) with NFSS spec.:
-pg 1: (fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
-pg 1: +tlig;family=rm;"
-pg 1: (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-pg 1: +tlig;family=rm;+smcp;"
-pg 1: (fontspec)             - 'bold' (b/n) with NFSS spec.:
-pg 1: (fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
-pg 1: t;+tlig;family=rm;"
-pg 1: (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-pg 1: t;+tlig;family=rm;+smcp;"
-pg 1: (fontspec)             - 'italic' (m/it) with NFSS spec.:
-pg 1: (fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
-pg 1: (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-pg 1: (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-pg 1: (fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
-pg 1: lt;+tlig;family=rm;"
-pg 1: (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-pg 1: lt;+tlig;family=rm;+smcp;"
 ------------------------------------------------------------------------------
 From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-core.sty:
 pg 1: Custom whatsit inhibitglue = 1
@@ -61,12 +35,12 @@ pg 1: Lua module: luatexja.jfont 2023-04-06 Loader for Japanese fonts
 ----------------
 From file DUMMY:
 pg 1: (load cache: extra_
-pg 1: lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)(load cache: extra_l
-pg 1: ibertinusserif-regular.luc)(load cache: extra_libertinusserif-bolditalic.luc)(lo
-pg 1: ad cache: extra_libertinusserif-bold.luc)(load cache: extra_libertinusserif-ital
+pg 1: lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)(load cache: extra_f
+pg 1: reeserif.luc)(load cache: extra_freeserifbolditalic.luc)(load cache: extra_frees
+pg 1: erifbold.luc)(load cache: extra_freeserifitalic.luc)(load cache: extra_libertinu
 ------------------------------------------------------------------------------
 From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-core.sty:
-pg 1: ic.luc)(load cache: extra_libertinusmath-regular.luc)
+pg 1: smath-regular.luc)
 pg 1: Lua module: luatexja.jfmglue 2022-08-29 Insertion process of JFM glues, [x]kanji
 pg 1: skip and others
 pg 1: (load cache: ltj-kinsoku_default.luc)
@@ -111,7 +85,7 @@ pg 1: ****** -- success******
 From file /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty:
 pg 1: LaTeX Warning: Command \@footnotemark  has changed.
                      Check if current package is valid.
-pg 1: {Índice de imágenes}, name=Imagen, placement=ht, ' on input line 302.
+pg 1: {Índice de imágenes}, name=Imagen, placement=ht, ' on input line 301.
 ---------------------------------------------------------------------------------
 From file /usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty:
 pg 1: Package glossaries Warning: Overriding \printglossary on input line 6158.
@@ -160,9 +134,20 @@ pg 1: ! LaTeX Error: Command `\backepsilon' already defined.
       l.265 ...mbol{\backepsilon}    {\mathrel}{AMSb}{"7F}
 -----------------------------------
 From file ./pdf-7moCongresoMKT.aux:
-pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo06.aux) (./artcap/capitulo02.aux)
-pg 1: (./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
-pg 1: (./artcap/indiceautores.aux)
+pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
+----------------
+From file DUMMY:
+pg 1: (./artcap/capitulo08.aux
+-----------------------------------
+From file ./pdf-7moCongresoMKT.aux:
+pg 1: )
+pg 1: (./artcap/capitulo09.aux) (./artcap/capitulo02.aux) (./artcap/capitulo03.aux)
+----------------
+From file DUMMY:
+pg 1: (./artcap/capitulo04.aux) (./artcap/capitulo05.aux) (./artcap/indiceautores.aux
+pg 1: )
+pg 1: Package biblatex Warning: Language 'chinese' not supported.
+      (biblatex)                Using dummy definitions on input line 654.
 ----------------------------------------
 From file ./artcap/agradecimientos2.tex:
 pg 11: (load cache: extra_haranoajigothic-medium.luc)
@@ -175,77 +160,83 @@ From file ./artcap/capitulo06.tex:
 pg 17: \bbl@ensure@spanish {Capítulo} 2.
 pg 19: mdframed uses option nobreak mdframed on input line 83.
 ----------------------------------
-From file ./artcap/capitulo02.tex:
+From file ./artcap/capitulo08.tex:
 pg 21: \bbl@ensure@spanish {Capítulo} 3.
 ----------------------------------
-From file ./artcap/capitulo03.tex:
+From file ./artcap/capitulo09.tex:
 pg 25: \bbl@ensure@spanish {Capítulo} 4.
 ----------------------------------
-From file ./artcap/capitulo04.tex:
+From file ./artcap/capitulo02.tex:
 pg 29: \bbl@ensure@spanish {Capítulo} 5.
-pg 29: ! Missing { inserted.
+----------------------------------
+From file ./artcap/capitulo03.tex:
+pg 33: \bbl@ensure@spanish {Capítulo} 6.
+----------------------------------
+From file ./artcap/capitulo04.tex:
+pg 37: \bbl@ensure@spanish {Capítulo} 7.
+pg 37: ! Missing { inserted.
        <to be read again> 
        \egroup 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 29: A left brace was mandatory here, so I've put one in.
-pg 29: You might want to delete and/or insert some corrections
-pg 29: so that I will find a matching right brace soon.
-pg 29: If you're confused by all this, try typing `I}' now.
-pg 29: ! Missing } inserted.
+pg 37: A left brace was mandatory here, so I've put one in.
+pg 37: You might want to delete and/or insert some corrections
+pg 37: so that I will find a matching right brace soon.
+pg 37: If you're confused by all this, try typing `I}' now.
+pg 37: ! Missing } inserted.
        <inserted text> 
        }
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 29: I've inserted something that you may have forgotten.
-pg 29: (See the <inserted text> above.)
-pg 29: With luck, this will get me unwedged. But if you
-pg 29: really didn't forget anything, try typing `2' now; then
-pg 29: my insertion and my current dilemma will both disappear.
-pg 29: ! Missing { inserted.
+pg 37: I've inserted something that you may have forgotten.
+pg 37: (See the <inserted text> above.)
+pg 37: With luck, this will get me unwedged. But if you
+pg 37: really didn't forget anything, try typing `2' now; then
+pg 37: my insertion and my current dilemma will both disappear.
+pg 37: ! Missing { inserted.
        <to be read again> 
        \let 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
 ----------------------------------
 From file ./artcap/capitulo05.tex:
-pg 33: \bbl@ensure@spanish {Capítulo} 6.
-pg 33: ! LaTeX Error: Environment proof undefined.
+pg 41: \bbl@ensure@spanish {Capítulo} 8.
+pg 41: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
        l.17 \begin{proof}
-pg 33: ! LaTeX Error: \begin{document} ended by \end{proof}.
+pg 41: ! LaTeX Error: \begin{document} ended by \end{proof}.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
        l.26 \end{proof}
-pg 33: ! LaTeX Error: Environment proof undefined.
+pg 41: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
        l.34 \begin{proof}
-pg 33: ! LaTeX Error: \begin{document} ended by \end{proof}.
+pg 41: ! LaTeX Error: \begin{document} ended by \end{proof}.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
        l.47 \end{proof}
-pg 34: ! LaTeX Error: Environment proof undefined.
+pg 42: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
        l.57 \begin{proof}
-pg 34: ! LaTeX Error: \begin{document} ended by \end{proof}.
+pg 42: ! LaTeX Error: \begin{document} ended by \end{proof}.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
        l.65 \end{proof}
-pg 42: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
-pg 42: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-pg 42: This document will not have a glossary.
+pg 50: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+pg 50: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+pg 50: This document will not have a glossary.
 
 After last page:
 
@@ -253,9 +244,9 @@ Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `\imki@messagenames '.
 -----------------------------------
 From file ./pdf-7moCongresoMKT.aux:
-(./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
-(./artcap/capitulo02.aux) (./artcap/capitulo03.aux) (./artcap/capitulo04.aux)
-(./artcap/capitulo05.aux) (./artcap/indiceautores.aux)
+(./artcap/capitulo08.aux) (./artcap/capitulo09.aux) (./artcap/capitulo02.aux)
+(./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
+(./artcap/indiceautores.aux)
 ***********
 )
 

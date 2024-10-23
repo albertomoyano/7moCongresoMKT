@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  23 OCT 2024 00:12
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  23 OCT 2024 00:41
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -189,26 +189,15 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 (/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-polytonicgreek
-.tex)
-Package babel Info: Importing data for polytonicgreek
-(babel)             from babel-el-polyton.ini. Reported on input line 4291.
-Package babel Info: Hyphen rules for 'polytonicgreek' set to \l@greek
-(babel)             (\language71). Reported on input line 4291.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+Package babel Info: Importing data for russian
+(babel)             from babel-ru.ini. Reported on input line 4291.
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-polytonicgreek
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/grc/babel-ancientgreek.
-tex)
-Package babel Info: Importing data for ancientgreek
-(babel)             from babel-grc.ini. Reported on input line 4291.
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/grc/babel-ancientgreek.
-tex) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
-)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex)
 Package babel Info: Importing data for greek
 (babel)             from babel-el.ini. Reported on input line 4291.
- (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex)
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex)
 Package babel Info: Importing data for french
 (babel)             from babel-fr.ini. Reported on input line 4291.
@@ -266,95 +255,19 @@ Package babel Info: Importing data for spanish
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-es.tex
 UTF-8 Spanish hyphenation patterns
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex)))
- (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-01-22 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count198
-Inserting `l3color' in `luaotfload.parse_color'.
-\l__pdf_internal_box=\box51
-))
-Package: xparse 2023-10-10 L3 Experimental document command parser
-)
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
-eX
-\l__fontspec_script_int=\count199
-\l__fontspec_language_int=\count266
-\l__fontspec_strnum_int=\count267
-\l__fontspec_tmp_int=\count268
-\l__fontspec_tmpa_int=\count269
-\l__fontspec_tmpb_int=\count270
-\l__fontspec_tmpc_int=\count271
-\l__fontspec_em_int=\count272
-\l__fontspec_emdef_int=\count273
-\l__fontspec_strong_int=\count274
-\l__fontspec_strongdef_int=\count275
-\l__fontspec_tmpa_dim=\dimen149
-\l__fontspec_tmpb_dim=\dimen150
-\l__fontspec_tmpc_dim=\dimen151
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-luaotfload | cache : Lookup cache loaded from /home/alberto/.texlive2023/texmf-v
-ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
-luaotfload | aux : font no 18 (nil) defines no feature for script latn with lang
-uage esp
-
-Package fontspec Info: Font family 'LibertinusSerif(0)' created for font
-(fontspec)             'Libertinus Serif' with options
-(fontspec)             [Ligatures=TeX,Script=Latin,Language=Spanish,RawFeature=
-{family=rm}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
-+tlig;family=rm;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
-+tlig;family=rm;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
-t;+tlig;family=rm;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
-t;+tlig;family=rm;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
-t;+tlig;family=rm;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
-t;+tlig;family=rm;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
-lt;+tlig;family=rm;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
-lt;+tlig;family=rm;+smcp;"
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count276
+\etb@tempcnta=\count198
 )
-\csq@reset=\count277
-\csq@gtype=\count278
-\csq@glevel=\count279
-\csq@qlevel=\count280
-\csq@maxlvl=\count281
-\csq@tshold=\count282
+\csq@reset=\count199
+\csq@gtype=\count266
+\csq@glevel=\count267
+\csq@qlevel=\count268
+\csq@maxlvl=\count269
+\csq@tshold=\count270
 \csq@ltx@everypar=\toks19
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -368,6 +281,43 @@ File: csquotes.cfg
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count271
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_tmpa_int=\count276
+\l__fontspec_tmpb_int=\count277
+\l__fontspec_tmpc_int=\count278
+\l__fontspec_em_int=\count279
+\l__fontspec_emdef_int=\count280
+\l__fontspec_strong_int=\count281
+\l__fontspec_strongdef_int=\count282
+\l__fontspec_tmpa_dim=\dimen149
+\l__fontspec_tmpb_dim=\dimen150
+\l__fontspec_tmpc_dim=\dimen151
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 \MT@toks=\toks20
@@ -396,9 +346,11 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
+luaotfload | cache : Lookup cache loaded from /home/alberto/.texlive2023/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
-Package fontspec Info: Font family 'LibertinusSerif(1)' created for font
-(fontspec)             'Libertinus Serif' with options
+Package fontspec Info: Font family 'FreeSerif(0)' created for font 'FreeSerif'
+(fontspec)             with options
 (fontspec)             [Ligatures=TeX,Numbers={OldStyle,Proportional},Ligatures
 =TeX,Scale=1.18].
 (fontspec)              
@@ -406,32 +358,32 @@ Package fontspec Info: Font family 'LibertinusSerif(1)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif:mode=node;script=latn;langua
-ge=dflt;+onum;+pnum;+tlig;"
+(fontspec)             <->s*[1.18]"FreeSerif:mode=node;script=latn;language=dfl
+t;+onum;+pnum;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif:mode=node;script=latn;langua
-ge=dflt;+onum;+pnum;+tlig;+smcp;"
+(fontspec)             <->s*[1.18]"FreeSerif:mode=node;script=latn;language=dfl
+t;+onum;+pnum;+tlig;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif/B:mode=node;script=latn;lang
-uage=dflt;+onum;+pnum;+tlig;"
+(fontspec)             <->s*[1.18]"FreeSerif/B:mode=node;script=latn;language=d
+flt;+onum;+pnum;+tlig;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif/B:mode=node;script=latn;lang
-uage=dflt;+onum;+pnum;+tlig;+smcp;"
+(fontspec)             <->s*[1.18]"FreeSerif/B:mode=node;script=latn;language=d
+flt;+onum;+pnum;+tlig;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif/I:mode=node;script=latn;lang
-uage=dflt;+onum;+pnum;+tlig;"
+(fontspec)             <->s*[1.18]"FreeSerif/I:mode=node;script=latn;language=d
+flt;+onum;+pnum;+tlig;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif/I:mode=node;script=latn;lang
-uage=dflt;+onum;+pnum;+tlig;+smcp;"
+(fontspec)             <->s*[1.18]"FreeSerif/I:mode=node;script=latn;language=d
+flt;+onum;+pnum;+tlig;+smcp;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif/BI:mode=node;script=latn;lan
-guage=dflt;+onum;+pnum;+tlig;"
+(fontspec)             <->s*[1.18]"FreeSerif/BI:mode=node;script=latn;language=
+dflt;+onum;+pnum;+tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1.18]"LibertinusSerif/BI:mode=node;script=latn;lan
-guage=dflt;+onum;+pnum;+tlig;+smcp;"
+(fontspec)             <->s*[1.18]"FreeSerif/BI:mode=node;script=latn;language=
+dflt;+onum;+pnum;+tlig;+smcp;"
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
-(Font)              scaled to size 11.79993pt on input line 32.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
+(Font)              scaled to size 11.79993pt on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
@@ -571,15 +523,15 @@ dflt;mathfontdimen=xetex;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 35.
+(Font)              `operators' in the math version `normal' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LibertinusMath(1)/m/n on input line 
-35.
+34.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 35.
+(Font)              `operators' in the math version `bold' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusMath(1)/b/n on input line
- 35.
+ 34.
 
 Package fontspec Info: Could not resolve font "LibertinusMath/B" (it probably
 (fontspec)             doesn't exist).
@@ -605,15 +557,15 @@ x2;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 35.
+(Font)              `symbols' in the math version `normal' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/LibertinusMath(2)/m/n on input line
- 35.
+ 34.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 35.
+(Font)              `symbols' in the math version `bold' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/LibertinusMath(2)/b/n on input line
- 35.
+ 34.
 
 Package fontspec Info: Could not resolve font "LibertinusMath/B" (it probably
 (fontspec)             doesn't exist).
@@ -640,16 +592,16 @@ x3;+ssty=1;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 3
-5.
+4.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/LibertinusMath(3)/m/n on input line
- 35.
+ 34.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 35.
+(Font)              `largesymbols' in the math version `bold' on input line 34.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/LibertinusMath(3)/b/n on input line
- 35.
+ 34.
 
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec.sty
 Package: luatexja-fontspec 2020-09-14 fontspec support of LuaTeX-ja
@@ -769,10 +721,10 @@ Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 Inserting `ltj.prepare_extra_data' in `luatexja.define_font'.(load cache: extra_
-lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)(load cache: extra_l
-ibertinusserif-regular.luc)(load cache: extra_libertinusserif-bolditalic.luc)(lo
-ad cache: extra_libertinusserif-bold.luc)(load cache: extra_libertinusserif-ital
-ic.luc)(load cache: extra_libertinusmath-regular.luc)
+lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)(load cache: extra_f
+reeserif.luc)(load cache: extra_freeserifbolditalic.luc)(load cache: extra_frees
+erifbold.luc)(load cache: extra_freeserifitalic.luc)(load cache: extra_libertinu
+smath-regular.luc)
 Inserting `ltj.get_vert_form' in `luatexja.define_jfont'.
 Removing  `ltj.prepare_extra_data' from `luaotfload.patch_font'.
 Removing  `luaotfload.aux.set_sscale_dimens' from `luaotfload.patch_font'.
@@ -975,7 +927,7 @@ Package: luatexja-compat 2020-08-08 Compatibility with pTeX
 \hour=\count309
 \minute=\count310
 ))
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
 (Font)              scaled to size 18.87988pt on input line 16.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 15.39551pt on input line 16.
@@ -997,7 +949,7 @@ Package fontspec Info: Could not resolve font "FandolSong/I" (it probably
 (fontspec)             doesn't exist).
 
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 39.
+(Font)              scaled to size 9.6222pt on input line 38.
 
 Package fontspec Info: Font family 'FandolSong(0)' created for font
 (fontspec)             'FandolSong' with options
@@ -1008,48 +960,46 @@ Package fontspec Info: Font family 'FandolSong(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 39.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
-(Font)                  JY3/mc/m/n --> JY3/FandolSong(0)/m/n on input line 39.
+(Font)                  JY3/mc/m/n --> JY3/FandolSong(0)/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY3/gt/m/n --> JY3/FandolSong(0)/m/n on input line 39.
+(Font)                  JY3/gt/m/n --> JY3/FandolSong(0)/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/FandolSong(0)/m/n --> JY3/FandolSong(0)/b/n on inpu
-t line 39.
+t line 38.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 39.
+(Font)              scaled to size 9.6222pt on input line 38.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 39.
-luaotfload | aux : font no 55 (nil) does not define feature vert for script hani
+(Font)              scaled to size 9.6222pt on input line 38.
+luaotfload | aux : font no 54 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 55 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 54 (nil) does not define feature vrt2 for script hani
  with language dflt(load cache: extra_ibmplexsanscond.luc)
 
-Package fontspec Info: IBMPlexSansCondensed-Regular scale =
-(fontspec)             0.9810359970073957.
+Package fontspec Info: IBMPlexSansCondensed-Regular scale = 1.029059606644054.
 
 
-Package fontspec Info: IBMPlexSansCondensed-Regular scale =
-(fontspec)             0.9810359970073957.
+Package fontspec Info: IBMPlexSansCondensed-Regular scale = 1.029059606644054.
 
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 57 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexsanscond-smbld.luc)
 
 Package fontspec Info: IBMPlexSansCondensed-SemiBold scale =
-(fontspec)             0.9697602156101011.
+(fontspec)             1.017231853937018.
 
-luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexsanscond-italic.luc)
 
-Package fontspec Info: IBMPlexSansCondensed-Italic scale = 0.9810359970073957.
+Package fontspec Info: IBMPlexSansCondensed-Italic scale = 1.029059606644054.
 
-luaotfload | aux : font no 60 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexsanscond-smblditalic.luc)
 
 Package fontspec Info: IBMPlexSansCondensed-SemiBoldItalic scale =
-(fontspec)             0.9697602156101011.
+(fontspec)             1.017231853937018.
 
-luaotfload | aux : font no 61 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 60 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexSansCondensed(0)' created for font
@@ -1062,48 +1012,46 @@ icFont=*-SemiBoldItalic].
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9810359970073957]"[IBMPlexSansCondensed-Regular.
-otf]:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.029059606644054]"[IBMPlexSansCondensed-Regular.o
+tf]:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9697602156101011]"[IBMPlexSansCondensed-SemiBold
-.otf]:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.017231853937018]"[IBMPlexSansCondensed-SemiBold.
+otf]:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.9810359970073957]"[IBMPlexSansCondensed-Italic.o
-tf]:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.029059606644054]"[IBMPlexSansCondensed-Italic.ot
+f]:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.9697602156101011]"[IBMPlexSansCondensed-SemiBold
-Italic.otf]:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.017231853937018]"[IBMPlexSansCondensed-SemiBoldI
+talic.otf]:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Package fontspec Info: IBMPlexSansCondensed-Regular scale =
-(fontspec)             0.9810359970073957.
+Package fontspec Info: IBMPlexSansCondensed-Regular scale = 1.029059606644054.
 
 
-Package fontspec Info: IBMPlexSansCondensed-Regular scale =
-(fontspec)             0.9810359970073957.
+Package fontspec Info: IBMPlexSansCondensed-Regular scale = 1.029059606644054.
+
+luaotfload | aux : font no 63 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: IBMPlexSansCondensed-SemiBold scale =
+(fontspec)             1.017231853937018.
 
 luaotfload | aux : font no 64 (nil) does not define feature smcp for script latn
  with language dflt
 
-Package fontspec Info: IBMPlexSansCondensed-SemiBold scale =
-(fontspec)             0.9697602156101011.
+Package fontspec Info: IBMPlexSansCondensed-Italic scale = 1.029059606644054.
 
 luaotfload | aux : font no 65 (nil) does not define feature smcp for script latn
  with language dflt
 
-Package fontspec Info: IBMPlexSansCondensed-Italic scale = 0.9810359970073957.
+Package fontspec Info: IBMPlexSansCondensed-SemiBoldItalic scale =
+(fontspec)             1.017231853937018.
 
 luaotfload | aux : font no 66 (nil) does not define feature smcp for script latn
- with language dflt
-
-Package fontspec Info: IBMPlexSansCondensed-SemiBoldItalic scale =
-(fontspec)             0.9697602156101011.
-
-luaotfload | aux : font no 67 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexSansCondensed(1)' created for font
@@ -1116,36 +1064,36 @@ licFont=*-SemiBoldItalic].
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9810359970073957]"[IBMPlexSansCondensed-Regular.
-otf]:mode=base;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.029059606644054]"[IBMPlexSansCondensed-Regular.o
+tf]:mode=base;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9697602156101011]"[IBMPlexSansCondensed-SemiBold
-.otf]:mode=base;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.017231853937018]"[IBMPlexSansCondensed-SemiBold.
+otf]:mode=base;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.9810359970073957]"[IBMPlexSansCondensed-Italic.o
-tf]:mode=base;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.029059606644054]"[IBMPlexSansCondensed-Italic.ot
+f]:mode=base;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.9697602156101011]"[IBMPlexSansCondensed-SemiBold
-Italic.otf]:mode=base;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[1.017231853937018]"[IBMPlexSansCondensed-SemiBoldI
+talic.otf]:mode=base;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/IBMPlexSansCondensed(1)/m/n on inpu
-t line 47.
+t line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/IBMPlexSansCondensed(1)/b/n on inp
-ut line 47.
+ut line 46.
 (load cache: extra_ibmplexmono.luc)
-luaotfload | aux : font no 70 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 69 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexmono-bold.luc)
-luaotfload | aux : font no 71 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 70 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexmono-italic.luc)
-luaotfload | aux : font no 72 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 71 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexmono-bolditalic.luc)
-luaotfload | aux : font no 73 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 72 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexMono.otf(0)' created for font
@@ -1196,13 +1144,13 @@ t=latn;language=dflt;"
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
+luaotfload | aux : font no 75 (nil) does not define feature smcp for script latn
+ with language dflt
 luaotfload | aux : font no 76 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : font no 77 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : font no 78 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : font no 79 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexMono.otf(1)' created for font
@@ -1235,10 +1183,10 @@ t=latn;language=dflt;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/IBMPlexMono.otf(1)/m/n on input lin
-e 54.
+e 53.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/IBMPlexMono.otf(1)/b/n on input lin
-e 54.
+e 53.
  (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2024-01-25 v3.3.10 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count312
@@ -1640,8 +1588,8 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fourier-orns.sty
 Package: fourier-orns 2022/02/05 2.3 fourier-ornaments package
 (load cache: extra_fourierorns-regular.luc)
-luaotfload | aux : font no 81 (nil) defines no feature for script latn
-luaotfload | aux : font no 81 (nil) defines no feature for script dflt
+luaotfload | aux : font no 80 (nil) defines no feature for script latn
+luaotfload | aux : font no 80 (nil) defines no feature for script dflt
 
 Package fontspec Info: Font family 'FourierOrns-Regular.otf(0)' created for
 (fontspec)             font 'FourierOrns-Regular.otf' with options [BoldFont =
@@ -2148,10 +2096,10 @@ Package newfloat Info: Document class `book' detected (original).
 Package newfloat Info: `rotating' package detected.
 )
 Package newfloat Info: New float `imagen' with options ` fileext=lop, listname=
-{Índice de imágenes}, name=Imagen, placement=ht, ' on input line 302.
+{Índice de imágenes}, name=Imagen, placement=ht, ' on input line 301.
 \c@imagen=\count411
 \newfloat@ftype=\count412
-Package newfloat Info: float type `imagen'=8 on input line 302.
+Package newfloat Info: float type `imagen'=8 on input line 301.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
@@ -2741,6 +2689,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 )
+Package hyperref Info: Option `unicode' set `true' on input line 3165.
 Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
 Package hyperref Info: Option `unicode' set `true' on input line 4062.
 Package hyperref Info: Hyper figures OFF on input line 4179.
@@ -2996,56 +2945,44 @@ Package: lltjp-footmisc 2022-02-19 Patch to footmisc for LuaTeX-ja
 ) (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
 Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
 )
-(./pdf-7moCongresoMKT.aux
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 5.
-LaTeX Font Info:    Font shape `TU/IBMPlexMono.otf(0)/m/n' will be
-(Font)              scaled to size 9.10004pt on input line 5.
-
-
-Package babel Info: The following font families will use the default
-(babel)             settings for all or some languages:
-(babel)             * \sffamily = IBMPlexSansCondensed(0)
-(babel)               [IBMPlexSansCondensed-Regular.otf]:mode=node;script=latn;
-language=dflt;+tlig; at 9.81033pt
-(babel)             * \ttfamily = IBMPlexMono.otf(0)
-(babel)               [IBMPlexMono-Regular.otf]:mode=node;script=latn;language=
-dflt; at 9.10004pt
-(babel)             There is nothing intrinsically wrong with it, but
-(babel)             'babel' will no set Script and Language, which could
-(babel)             be relevant in some languages. If your document uses
-(babel)             these families, consider redefining them with \babelfont.
-(babel)             Reported on input line 5.
-
-(./artcap/capitulo01.aux) (./artcap/capitulo06.aux) (./artcap/capitulo02.aux)
-(./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
-(./artcap/indiceautores.aux))
+(./pdf-7moCongresoMKT.aux (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
+(./artcap/capitulo08.aux
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/zh/babel-chinese.tex
+Package babel Info: Importing basic data for chinese
+(babel)             from babel-zh.ini. Reported on input line 11.
+)
+Package babel Info: Hyphen rules for 'chinese' set to \l@spanish
+(babel)             (\language65). Reported on input line 14.
+Inserting `Babel.hyphenate' in `hyphenate'.)
+(./artcap/capitulo09.aux) (./artcap/capitulo02.aux) (./artcap/capitulo03.aux)
+(./artcap/capitulo04.aux) (./artcap/capitulo05.aux) (./artcap/indiceautores.aux
+))
 \openout1 = pdf-7moCongresoMKT.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 655.
-LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 654.
+LaTeX Font Info:    ... okay on input line 654.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -3083,35 +3020,35 @@ LaTeX Font Info:    ... okay on input line 655.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 655.
-Package microtype Info: Applying patch `item' on input line 655.
-Package microtype Info: Applying patch `toc' on input line 655.
-Package microtype Info: Applying patch `eqnum' on input line 655.
-Package microtype Info: Applying patch `footnote' on input line 655.
-Package microtype Info: Applying patch `verbatim' on input line 655.
+LaTeX Info: Redefining \microtypecontext on input line 654.
+Package microtype Info: Applying patch `item' on input line 654.
+Package microtype Info: Applying patch `toc' on input line 654.
+Package microtype Info: Applying patch `eqnum' on input line 654.
+Package microtype Info: Applying patch `footnote' on input line 654.
+Package microtype Info: Applying patch `verbatim' on input line 654.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 655.
+LaTeX Info: Redefining \showhyphens on input line 654.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `LibertinusSerif' (encoding: TU).
+(microtype)             `FreeSerif' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  TU/LibertinusMath(1)/m/n --> TU/LibertinusSerif(0)/m/n 
-on input line 655.
+(Font)                  TU/LibertinusMath(1)/m/n --> TU/FreeSerif(0)/m/n on inp
+ut line 654.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(0)/m/it on input li
-ne 655.
+(Font)                  OT1/cmr/m/it --> TU/FreeSerif(0)/m/it on input line 654
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
-e 655.
+(Font)                  OT1/cmr/bx/n --> TU/FreeSerif(0)/b/n on input line 654.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count606
@@ -3160,6 +3097,36 @@ Package caption Info: scrextend package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count612
+Package biblatex Info: Trying to load language 'english' -> 'english-philosophy
+'...
+Package biblatex Info: ... file 'english-philosophy.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/english-philosophy
+.lbx
+File: english-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'chinese'...
+Package biblatex Info: ... file 'chinese.lbx' not found.
+
+
+Package biblatex Warning: Language 'chinese' not supported.
+(biblatex)                Using dummy definitions on input line 654.
+
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
+File: russian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-philosophy
 '...
 Package biblatex Info: ... file 'spanish-philosophy.lbx' found.
@@ -3187,9 +3154,9 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-7moCongresoMKT.bbl' found.
 
 (./pdf-7moCongresoMKT.bbl)
-Package biblatex Info: Reference section=0 on input line 655.
-Package biblatex Info: Reference segment=0 on input line 655.
-Package hyperref Info: Link coloring ON on input line 655.
+Package biblatex Info: Reference section=0 on input line 654.
+Package biblatex Info: Reference segment=0 on input line 654.
+Package hyperref Info: Link coloring ON on input line 654.
  (./pdf-7moCongresoMKT.out) (./pdf-7moCongresoMKT.out)
 \@outlinefile=\write10
 
@@ -3198,52 +3165,62 @@ Package hyperref Info: Link coloring ON on input line 655.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
+(Font)              scaled to size 20.39026pt on input line 19.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 16.62714pt on input line 19.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 16.62714pt on input line 19.
+luaotfload | aux : font no 83 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 83 (nil) does not define feature vrt2 for script hani
+ with language dflt [3] [4]
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/sc' will be
+(Font)              scaled to size 11.79993pt on input line 31.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 31.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/sc' will be
+(Font)              scaled to size 14.15991pt on input line 31.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 31.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 31.
 luaotfload | aux : font no 86 (nil) does not define feature vert for script hani
  with language dflt
 luaotfload | aux : font no 86 (nil) does not define feature vrt2 for script hani
- with language dflt [3] [4]
-LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 31.
-LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 31.
-LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 31.
-luaotfload | aux : font no 89 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 89 (nil) does not define feature vrt2 for script hani
- with language dflt
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
+(Font)              scaled to size 16.99188pt on input line 39.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 39.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 39.
-luaotfload | aux : font no 91 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 88 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 91 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 88 (nil) does not define feature vrt2 for script hani
  with language dflt
-<./media/logo-imago-ByW.png, id=96, 85.2786pt x 42.1575pt>
+<./media/logo-imago-ByW.png, id=104, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
 Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [5<./media/logo-imago-ByW.png>]
-<./media/desconocido.png, id=103, 85.2786pt x 98.0463pt>
+<./media/desconocido.png, id=111, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
 Package luatex.def Info: ./media/desconocido.png  used on input line 55.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
 )
 (./artcap/agradecimientos.tex [6<./media/desconocido.png>]
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
+(Font)              scaled to size 10.61993pt on input line 6.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 8.65997pt on input line 6.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 8.65997pt on input line 6.
-luaotfload | aux : font no 93 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 90 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 93 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 90 (nil) does not define feature vrt2 for script hani
  with language dflt
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LibertinusMath' (encoding: TU).
@@ -3251,15 +3228,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 6.
-luaotfload | aux : font no 102 (nil) does not define feature vert for script han
-i with language dflt
-luaotfload | aux : font no 102 (nil) does not define feature vrt2 for script han
-i with language dflt
+luaotfload | aux : font no 99 (nil) does not define feature vert for script hani
+ with language dflt
+luaotfload | aux : font no 99 (nil) does not define feature vrt2 for script hani
+ with language dflt
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 6.
-luaotfload | aux : font no 103 (nil) does not define feature vert for script han
+luaotfload | aux : font no 100 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 103 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 100 (nil) does not define feature vrt2 for script han
 i with language dflt
 LaTeX Font Info:    Trying loading font information for U+msa on input line 6.
 
@@ -3281,17 +3258,20 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ] [8
 
 ])
-Package biblatex Info: Resetting trackers on input line 663.
+Package biblatex Info: Resetting trackers on input line 662.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 663.
+(Font)              scaled to size 14.81834pt on input line 662.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `IBMPlexSansCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 663.
+(Font)              scaled to size 17.78203pt on input line 662.
 
-(./pdf-7moCongresoMKT.toc)
+(./pdf-7moCongresoMKT.toc
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 10.29053pt on input line 2.
+)
 \tf@toc=\write11
 
 \openout11 = pdf-7moCongresoMKT.toc
@@ -3306,77 +3286,85 @@ LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 6.
 (load cache: extra_haranoajigothic-medium.luc)
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/it' will be
+(Font)              scaled to size 11.79993pt on input line 6.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 6.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 10.
-luaotfload | aux : font no 114 (nil) does not define feature vert for script han
+luaotfload | aux : font no 112 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 114 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 112 (nil) does not define feature vrt2 for script han
 i with language dflt
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
+(Font)              scaled to size 9.43994pt on input line 10.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 10.
  [11])
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 668.
+(Font)              scaled to size 10.17227pt on input line 667.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 668.
+(Font)              scaled to size 9.6222pt on input line 667.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 668.
-luaotfload | aux : font no 121 (nil) does not define feature vert for script han
+(Font)              scaled to size 9.6222pt on input line 667.
+luaotfload | aux : font no 119 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 121 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 119 (nil) does not define feature vrt2 for script han
 i with language dflt
 [12]
 \openout2 = ./artcap/capitulo01.aux
  (./artcap/capitulo01.tex
 \bbl@ensure@spanish {Capítulo} 1.
 Package biblatex Info: Resetting trackers on input line 1.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/sc' will be
+(Font)              scaled to size 16.99188pt on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 3.
+(Font)              scaled to size 12.20673pt on input line 3.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 11.54663pt on input line 3.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 11.54663pt on input line 3.
-luaotfload | aux : font no 124 (nil) does not define feature vert for script han
+luaotfload | aux : font no 122 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 124 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 122 (nil) does not define feature vrt2 for script han
 i with language dflt
-<./media/people.jpg, id=165, 803.0pt x 803.0pt>
+<./media/people.jpg, id=176, 803.0pt x 803.0pt>
 File: ./media/people.jpg Graphic file (type jpg)
 <use ./media/people.jpg>
 Package luatex.def Info: ./media/people.jpg  used on input line 9.
 (luatex.def)             Requested size: 312.9803pt x 312.98495pt.
 Package hyperref Info: bookmark level for unknown imagen defaults to 0 on input
  line 10.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/b/n' will be
+(Font)              scaled to size 10.61993pt on input line 10.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 10.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 10.
-luaotfload | aux : font no 126 (nil) does not define feature vert for script han
+luaotfload | aux : font no 124 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 126 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 124 (nil) does not define feature vrt2 for script han
 i with language dflt
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 11.7724pt on input line 19.
+(Font)              scaled to size 12.34863pt on input line 19.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 7.84827pt on input line 24.
+(Font)              scaled to size 8.23242pt on input line 24.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 7.75806pt on input line 28.
+(Font)              scaled to size 8.13782pt on input line 28.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 7.69775pt on input line 28.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 7.69775pt on input line 28.
-luaotfload | aux : font no 130 (nil) does not define feature vert for script han
+luaotfload | aux : font no 128 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 130 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 128 (nil) does not define feature vrt2 for script han
 i with language dflt [1
 
 
@@ -3394,64 +3382,65 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 9.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 15.
-<./media/coin.png, id=198, 726.715pt x 205.76875pt>
-File: ./media/coin.png Graphic file (type png)
-<use ./media/coin.png>
-Package luatex.def Info: ./media/coin.png  used on input line 21.
-(luatex.def)             Requested size: 312.9803pt x 88.62012pt.
 [5
 
 
 
 
 ]
+<./media/coin.png, id=216, 726.715pt x 205.76875pt>
+File: ./media/coin.png Graphic file (type png)
+<use ./media/coin.png>
+Package luatex.def Info: ./media/coin.png  used on input line 21.
+(luatex.def)             Requested size: 312.9803pt x 88.62012pt.
+ [6<./media/coin.png>]
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 62.
- [6<./media/coin.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 65.
 Package mdframed Info: mdframed inside float 
  mdframed uses option nobreak mdframed on input line 83.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 83.
-) [7] [8]
-\openout2 = ./artcap/capitulo02.aux
- (./artcap/capitulo02.tex
+ [7]) [8]
+\openout2 = ./artcap/capitulo08.aux
+ (./artcap/capitulo08.tex
 \bbl@ensure@spanish {Capítulo} 3.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 5.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
+(Font)              scaled to size 10.29053pt on input line 13.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
-(Font)              No change on input line 19.
+(Font)              No change on input line 13.
 [9
 
 
 
 
 ]
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 33.
+) [10] [11]
+\openout2 = ./artcap/capitulo09.aux
+ (./artcap/capitulo09.tex [12
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10]) [11] [12]
-\openout2 = ./artcap/capitulo03.aux
- (./artcap/capitulo03.tex
+
+
+]
 \bbl@ensure@spanish {Capítulo} 4.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
-[13
-
-
-
-
-] [14]) [15]
-\openout2 = ./artcap/capitulo04.aux
- (./artcap/capitulo04.tex [16
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ru.tex
+UTF-8 Russian hyphenation patterns
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ru.tex)) [13] [14]) [15]
+\openout2 = ./artcap/capitulo02.aux
+ (./artcap/capitulo02.tex [16
 
 
 
@@ -3465,6 +3454,46 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 5.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 12.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
+(Font)              No change on input line 19.
+[17]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18] [19]) [20]
+\openout2 = ./artcap/capitulo03.aux
+ (./artcap/capitulo03.tex
+\bbl@ensure@spanish {Capítulo} 6.
+Package biblatex Info: Resetting trackers on input line 1.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 1.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 1.
+[21
+
+
+
+
+] [22]) [23]
+\openout2 = ./artcap/capitulo04.aux
+ (./artcap/capitulo04.tex [24
+
+
+
+
+]
+\bbl@ensure@spanish {Capítulo} 7.
+Package biblatex Info: Resetting trackers on input line 1.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 1.
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 1.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 5.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
+(Font)              scaled to size 7.07996pt on input line 14.
 ! Missing { inserted.
 <to be read again> 
 \egroup 
@@ -3549,18 +3578,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
+[25]
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 20.
-[17]
-<./media/adn.jpg, id=308, 5018.75pt x 5018.75pt>
+<./media/adn.jpg, id=368, 5018.75pt x 5018.75pt>
 File: ./media/adn.jpg Graphic file (type jpg)
 <use ./media/adn.jpg>
 Package luatex.def Info: ./media/adn.jpg  used on input line 29.
 (luatex.def)             Requested size: 250.3852pt x 250.33955pt.
- [18<./media/adn.jpg>] [19]) [20]
+ [26<./media/adn.jpg>] [27]) [28]
 \openout2 = ./artcap/capitulo05.aux
  (./artcap/capitulo05.tex
-\bbl@ensure@spanish {Capítulo} 6.
+\bbl@ensure@spanish {Capítulo} 8.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
@@ -3630,7 +3659,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[21
+[29
 
 
 
@@ -3693,111 +3722,118 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 92.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 92.
+[30]
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 100.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 100.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 100.
-[22]) [23] [24
+) [31] [32
 
 
 
 ]
-Package biblatex Info: Resetting trackers on input line 680.
+Package biblatex Info: Resetting trackers on input line 681.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 681.
+(Font)              scaled to size 8.65997pt on input line 682.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 681.
+(Font)              scaled to size 8.65997pt on input line 682.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/it' will be
+(Font)              scaled to size 10.61993pt on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
+LaTeX Font Info:    Font shape `TU/FreeSerif(0)/m/n' will be
+(Font)              scaled to size 5.89996pt on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 681.
+(Font)              No change on input line 682.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 681.
- [25
+(Font)              No change on input line 682.
+ [33
 
 ]
 \openout2 = ./artcap/indiceautores.aux
- (./artcap/indiceautores.tex [26
+ (./artcap/indiceautores.tex [34
 
 
 ] (./names.ind
 Package biblatex Info: Resetting trackers on input line 1.
-)) [27
+)) [35
 
 ]
-(./artcap/colofon.tex [28
+(./artcap/colofon.tex [36
 
 
 
 ]
 Package biblatex Info: Resetting trackers on input line 1.
-) [29]
+) [37]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -3808,52 +3844,62 @@ File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [30]
+) [38]
 
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `\imki@messagenames '.
 
 (./pdf-7moCongresoMKT.aux (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
-(./artcap/capitulo02.aux) (./artcap/capitulo03.aux) (./artcap/capitulo04.aux)
-(./artcap/capitulo05.aux) (./artcap/indiceautores.aux))
+(./artcap/capitulo08.aux) (./artcap/capitulo09.aux) (./artcap/capitulo02.aux)
+(./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
+(./artcap/indiceautores.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `pdf-7moCongresoMKT.out' has not changed.
-(rerunfilecheck)             Checksum: 2EE036F1BCBD59B7E85946412EB43012;2082.
+(rerunfilecheck)             Checksum: 3E7237E4FCC881874472B3BADA6CE568;2451.
+
+Package biblatex Warning: Please rerun LaTeX.
+
 Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 
 \openout1 = pdf-7moCongresoMKT.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 69252 strings out of 476553
- 1822727,2848258 words of node,token memory allocated
- 1781349 words of node memory still in use:
-   3106 hlist, 72 vlist, 1104 rule, 2 adjust, 7684 disc, 926 local_par, 322 math
-, 12093 glue, 4119 kern, 1565 penalty, 273 margin_kern, 47448 glyph, 543727 attr
-ibute, 1801 glue_spec, 46108 attribute_list, 52 write, 6 save_pos, 1985 user_def
-ined, 2028 pdf_literal, 72 pdf_start_link, 72 pdf_end_link, 17 pdf_dest, 40 pdf_
-action, 754 pdf_colorstack, 10 pdf_setmatrix, 10 pdf_save, 10 pdf_restore nodes
-   avail lists: 1:49,2:839,3:1536,4:1109,5:94,6:6,7:1315,8:28,9:939,10:18,11:154
-,12:2
- 89277 multiletter control sequences out of 65536+600000
- 136 fonts using 75651755 bytes
- 117i,12n,123p,2364b,2660s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69407 strings out of 476553
+ 2848137,3417909 words of node,token memory allocated
+ 2276608 words of node memory still in use:
+   3870 hlist, 86 vlist, 2434 rule, 2 adjust, 8846 disc, 1021 local_par, 301 mat
+h, 16119 glue, 18662 kern, 1770 penalty, 284 margin_kern, 57377 glyph, 677024 at
+tribute, 2053 glue_spec, 57255 attribute_list, 52 write, 6 save_pos, 2336 user_d
+efined, 2028 pdf_literal, 74 pdf_start_link, 75 pdf_end_link, 13 pdf_dest, 42 pd
+f_action, 871 pdf_colorstack, 10 pdf_setmatrix, 10 pdf_save, 10 pdf_restore node
+s
+   avail lists: 1:74,2:855,3:1507,4:1061,5:344,6:7,7:1380,8:28,9:913,10:16,11:15
+4,12:2
+ 89348 multiletter control sequences out of 65536+600000
+ 135 fonts using 108634379 bytes
+ 117i,12n,123p,8348b,2725s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Math-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus
 -fonts/LibertinusMath-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/
-public/libertinus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/
-fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/te
-xmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr
-/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.o
-tf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Liberti
-nusSerif-Regular.otf>
-Output written on pdf-7moCongresoMKT.pdf (42 pages, 16838194 bytes).
+ibm/plex/IBMPlexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/op
+entype/public/fandol/FandolSong-Regular.otf></usr/share/texlive/texmf-dist/fonts
+/opentype/public/gnu-freefont/FreeSerifBold.otf></usr/share/texlive/texmf-dist/f
+onts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/tex
+mf-dist/fonts/opentype/public/gnu-freefont/FreeSerifItalic.otf></usr/share/texli
+ve/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/sha
+re/texlive/texmf-dist/fonts/opentype/public/gnu-freefont/FreeSerif.otf>
+Output written on pdf-7moCongresoMKT.pdf (50 pages, 16899224 bytes).
 
-PDF statistics: 458 PDF objects out of 1000 (max. 8388607)
- 291 compressed objects within 3 object streams
- 129 named destinations out of 1000 (max. 131072)
- 333 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 530 PDF objects out of 1000 (max. 8388607)
+ 336 compressed objects within 4 object streams
+ 151 named destinations out of 1000 (max. 131072)
+ 349 words of extra memory for PDF output out of 10000 (max. 100000000)
 
