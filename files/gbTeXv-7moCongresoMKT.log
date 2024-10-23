@@ -1,25 +1,6 @@
 ----------------
 From file DUMMY:
 pg 1: (./pdf-7moCongresoMKT.tex
---------------------------------------------------------------------
-From file /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty:
-pg 1: ! Package babel Error: There is no ini file for the requested language
-      (babel)                (: es-ucroman). Perhaps you misspelled it or your
-      (babel)                installation is not complete..
-      See the babel package documentation for explanation.
-      Type  H <return>  for immediate help.
-       ...                                              
-                                                        
-      l.4291 \ProcessOptions*
-pg 1: Fix the name or reinstall babel.
-pg 1: ! Package babel Error: There is no ini file for the requested language
-      (babel)                (: es-noshorthands). Perhaps you misspelled it or your
-      (babel)                installation is not complete..
-      See the babel package documentation for explanation.
-      Type  H <return>  for immediate help.
-       ...                                              
-                                                        
-      l.4291 \ProcessOptions*
 ------------------------------------------------------------------------------
 From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-core.sty:
 pg 1: Custom whatsit inhibitglue = 1
@@ -35,12 +16,12 @@ pg 1: Lua module: luatexja.jfont 2023-04-06 Loader for Japanese fonts
 ----------------
 From file DUMMY:
 pg 1: (load cache: extra_
-pg 1: lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)(load cache: extra_f
-pg 1: reeserif.luc)(load cache: extra_freeserifbolditalic.luc)(load cache: extra_frees
-pg 1: erifbold.luc)(load cache: extra_freeserifitalic.luc)(load cache: extra_libertinu
+pg 1: lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)(load cache: extra_l
+pg 1: ibertinusserif-regular.luc)(load cache: extra_libertinusserif-bolditalic.luc)(lo
+pg 1: ad cache: extra_libertinusserif-bold.luc)(load cache: extra_libertinusserif-ital
 ------------------------------------------------------------------------------
 From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-core.sty:
-pg 1: smath-regular.luc)
+pg 1: ic.luc)(load cache: extra_libertinusmath-regular.luc)
 pg 1: Lua module: luatexja.jfmglue 2022-08-29 Insertion process of JFM glues, [x]kanji
 pg 1: skip and others
 pg 1: (load cache: ltj-kinsoku_default.luc)
@@ -59,8 +40,7 @@ From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-compat.sty:
 pg 1: (load cache: ltj-jisx0208.luc)
 ----------------
 From file DUMMY:
-pg 1: (load cache: extra_fandolsong-regular.luc)
-pg 1: (load cache: extra_fandolsong-bold.luc)
+pg 1: (load cache: extra_fandolkai-regular.luc)
 pg 1: cache: extra_ibmplexsanscond.luc)
 pg 1: cache: extra_ibmplexsanscond-smbld.luc)
 pg 1: cache: extra_ibmplexsanscond-italic.luc)
@@ -132,123 +112,38 @@ pg 1: ! LaTeX Error: Command `\backepsilon' already defined.
        ...                                              
                                                         
       l.265 ...mbol{\backepsilon}    {\mathrel}{AMSb}{"7F}
------------------------------------
-From file ./pdf-7moCongresoMKT.aux:
-pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
-----------------
-From file DUMMY:
-pg 1: (./artcap/capitulo08.aux
------------------------------------
-From file ./pdf-7moCongresoMKT.aux:
-pg 1: )
-pg 1: (./artcap/capitulo09.aux) (./artcap/capitulo02.aux) (./artcap/capitulo03.aux)
-----------------
-From file DUMMY:
-pg 1: (./artcap/capitulo04.aux) (./artcap/capitulo05.aux) (./artcap/indiceautores.aux
-pg 1: )
-pg 1: Package biblatex Warning: Language 'chinese' not supported.
-      (biblatex)                Using dummy definitions on input line 654.
-----------------------------------------
-From file ./artcap/agradecimientos2.tex:
-pg 11: (load cache: extra_haranoajigothic-medium.luc)
-----------------------------------
-From file ./artcap/capitulo01.tex:
-pg 13: \bbl@ensure@spanish {Capítulo} 1.
-pg 13: LaTeX Warning: `!h' float specifier changed to `!ht'.
-----------------------------------
-From file ./artcap/capitulo06.tex:
-pg 17: \bbl@ensure@spanish {Capítulo} 2.
-pg 19: mdframed uses option nobreak mdframed on input line 83.
-----------------------------------
-From file ./artcap/capitulo08.tex:
-pg 21: \bbl@ensure@spanish {Capítulo} 3.
-----------------------------------
-From file ./artcap/capitulo09.tex:
-pg 25: \bbl@ensure@spanish {Capítulo} 4.
-----------------------------------
-From file ./artcap/capitulo02.tex:
-pg 29: \bbl@ensure@spanish {Capítulo} 5.
-----------------------------------
-From file ./artcap/capitulo03.tex:
-pg 33: \bbl@ensure@spanish {Capítulo} 6.
-----------------------------------
-From file ./artcap/capitulo04.tex:
-pg 37: \bbl@ensure@spanish {Capítulo} 7.
-pg 37: ! Missing { inserted.
-       <to be read again> 
-       \egroup 
-       l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 37: A left brace was mandatory here, so I've put one in.
-pg 37: You might want to delete and/or insert some corrections
-pg 37: so that I will find a matching right brace soon.
-pg 37: If you're confused by all this, try typing `I}' now.
-pg 37: ! Missing } inserted.
-       <inserted text> 
-       }
-       l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 37: I've inserted something that you may have forgotten.
-pg 37: (See the <inserted text> above.)
-pg 37: With luck, this will get me unwedged. But if you
-pg 37: really didn't forget anything, try typing `2' now; then
-pg 37: my insertion and my current dilemma will both disappear.
-pg 37: ! Missing { inserted.
-       <to be read again> 
-       \let 
-       l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-----------------------------------
-From file ./artcap/capitulo05.tex:
-pg 41: \bbl@ensure@spanish {Capítulo} 8.
-pg 41: ! LaTeX Error: Environment proof undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.17 \begin{proof}
-pg 41: ! LaTeX Error: \begin{document} ended by \end{proof}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.26 \end{proof}
-pg 41: ! LaTeX Error: Environment proof undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.34 \begin{proof}
-pg 41: ! LaTeX Error: \begin{document} ended by \end{proof}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.47 \end{proof}
-pg 42: ! LaTeX Error: Environment proof undefined.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.57 \begin{proof}
-pg 42: ! LaTeX Error: \begin{document} ended by \end{proof}.
-       See the LaTeX manual or LaTeX Companion for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.65 \end{proof}
-pg 50: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
-pg 50: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-pg 50: This document will not have a glossary.
 
 After last page:
 
-Package imakeidx Warning: Remember to run lualatex again after calling
-(imakeidx)                `\imki@messagenames '.
------------------------------------
-From file ./pdf-7moCongresoMKT.aux:
-(./artcap/capitulo08.aux) (./artcap/capitulo09.aux) (./artcap/capitulo02.aux)
-(./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
-(./artcap/indiceautores.aux)
-***********
-)
+----------------------------------------
+From file ./artcap/agradecimientos2.tex:
+LaTeX Font Warning: Font shape `JT3/FandolKai(0)/b/n' undefined
+(Font)              using `JT3/FandolKai(0)/m/n' instead on input line 6.
+! Missing font identifier.
+<to be read again> 
+JT3/FandolKai(0)/m/n/10 
+l.6 ...la obra maestra \citetitle{@5288-DONALD1968},
+una serie de volúmenes q...
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+! Missing = inserted for ifnum.
+<to be read again> 
+JT3/FandolKai(0)/m/n/10 
+l.6 ...la obra maestra \citetitle{@5288-DONALD1968},
+I was expecting to see `<', `=', or `>'. Didn't.
+! Missing number, treated as zero.
+<to be read again> 
+JT3/FandolKai(0)/m/n/10 
+l.6 ...la obra maestra \citetitle{@5288-DONALD1968},
+A number should have been here; I inserted `0'.
+----------------
+From file DUMMY:
+(If you can't figure out why I needed to see a number,
+----------------------------------------
+From file ./artcap/agradecimientos2.tex:
+look up `weird error' in the index to The TeXbook.)
+! error:  (pdf backend): invalid font identifier when asking 'fontsize'
+!  ==> Fatal error occurred, no output PDF file produced!
 
 ====  Summary:  ====
 
