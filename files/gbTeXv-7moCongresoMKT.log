@@ -89,50 +89,57 @@ pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
       (hyperref)                setting the option has no effect on input line 15.
 -----------------------------------
 From file ./pdf-7moCongresoMKT.aux:
-pg 1: (./artcap/capitulo02.aux) (./artcap/capitulo03.aux)
-pg 1: (./artcap/capitulo04.aux) (./artcap/indiceautores.aux)
+pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo02.aux)
+----------------
+From file DUMMY:
+pg 1: (./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/indiceautores.aux
+pg 1: )
 ----------------------------------------
 From file ./artcap/agradecimientos2.tex:
 pg 11: (load cache: extra_haranoajigothic-medium.luc)
 ----------------------------------
-From file ./artcap/capitulo02.tex:
+From file ./artcap/capitulo01.tex:
 pg 13: Capítulo 1.
-pg 14: LaTeX Warning: `!h' float specifier changed to `!ht'.
+pg 13: LaTeX Warning: `!h' float specifier changed to `!ht'.
 ----------------------------------
-From file ./artcap/capitulo03.tex:
+From file ./artcap/capitulo02.tex:
 pg 17: Capítulo 2.
 ----------------------------------
-From file ./artcap/capitulo04.tex:
+From file ./artcap/capitulo03.tex:
 pg 21: Capítulo 3.
-pg 21: ! Missing { inserted.
+----------------------------------
+From file ./artcap/capitulo04.tex:
+pg 25: Capítulo 4.
+pg 25: ! Missing { inserted.
        <to be read again> 
        \egroup 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 21: A left brace was mandatory here, so I've put one in.
-pg 21: You might want to delete and/or insert some corrections
-pg 21: so that I will find a matching right brace soon.
-pg 21: If you're confused by all this, try typing `I}' now.
-pg 21: ! Missing } inserted.
+pg 25: A left brace was mandatory here, so I've put one in.
+pg 25: You might want to delete and/or insert some corrections
+pg 25: so that I will find a matching right brace soon.
+pg 25: If you're confused by all this, try typing `I}' now.
+pg 25: ! Missing } inserted.
        <inserted text> 
        }
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 21: I've inserted something that you may have forgotten.
-pg 21: (See the <inserted text> above.)
-pg 21: With luck, this will get me unwedged. But if you
-pg 21: really didn't forget anything, try typing `2' now; then
-pg 21: my insertion and my current dilemma will both disappear.
-pg 21: ! Missing { inserted.
+pg 25: I've inserted something that you may have forgotten.
+pg 25: (See the <inserted text> above.)
+pg 25: With luck, this will get me unwedged. But if you
+pg 25: really didn't forget anything, try typing `2' now; then
+pg 25: my insertion and my current dilemma will both disappear.
+pg 25: ! Missing { inserted.
        <to be read again> 
        \let 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 30: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
-pg 30: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-pg 30: This document will not have a glossary.
+pg 34: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+pg 34: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+pg 34: This document will not have a glossary.
 
 After last page:
 
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `\imki@messagenames '.
+)
 ***********
 )
 
