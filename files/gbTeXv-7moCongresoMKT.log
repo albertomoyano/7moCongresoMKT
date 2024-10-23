@@ -134,9 +134,9 @@ pg 1: ! LaTeX Error: Command `\backepsilon' already defined.
       l.265 ...mbol{\backepsilon}    {\mathrel}{AMSb}{"7F}
 -----------------------------------
 From file ./pdf-7moCongresoMKT.aux:
-pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo02.aux)
-pg 1: (./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
-pg 1: (./artcap/indiceautores.aux)
+pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
+pg 1: (./artcap/capitulo02.aux) (./artcap/capitulo03.aux) (./artcap/capitulo04.aux)
+pg 1: (./artcap/capitulo05.aux) (./artcap/indiceautores.aux)
 ----------------------------------------
 From file ./artcap/agradecimientos2.tex:
 pg 13: (load cache: extra_haranoajigothic-medium.luc)
@@ -147,77 +147,228 @@ pg 15: LaTeX Warning: `!h' float specifier changed to `!ht'.
 pg 15: warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 pg 16: warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
 ----------------------------------
-From file ./artcap/capitulo02.tex:
+From file ./artcap/capitulo06.tex:
 pg 19: Capítulo 2.
+pg 21: changed the theorem header of amsthm
+pg 21: (mdframed)              on input line 65.
+pg 21: mdframed uses option nobreak mdframed on input line 83.
 ----------------------------------
-From file ./artcap/capitulo03.tex:
+From file ./artcap/capitulo02.tex:
 pg 23: Capítulo 3.
 ----------------------------------
-From file ./artcap/capitulo04.tex:
+From file ./artcap/capitulo03.tex:
 pg 27: Capítulo 4.
-pg 27: ! Missing { inserted.
+----------------------------------
+From file ./artcap/capitulo04.tex:
+pg 31: Capítulo 5.
+pg 31: ! Missing { inserted.
        <to be read again> 
        \egroup 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 27: A left brace was mandatory here, so I've put one in.
-pg 27: You might want to delete and/or insert some corrections
-pg 27: so that I will find a matching right brace soon.
-pg 27: If you're confused by all this, try typing `I}' now.
-pg 27: ! Missing } inserted.
+pg 31: A left brace was mandatory here, so I've put one in.
+pg 31: You might want to delete and/or insert some corrections
+pg 31: so that I will find a matching right brace soon.
+pg 31: If you're confused by all this, try typing `I}' now.
+pg 31: ! Missing } inserted.
        <inserted text> 
        }
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
-pg 27: I've inserted something that you may have forgotten.
-pg 27: (See the <inserted text> above.)
-pg 27: With luck, this will get me unwedged. But if you
-pg 27: really didn't forget anything, try typing `2' now; then
-pg 27: my insertion and my current dilemma will both disappear.
-pg 27: ! Missing { inserted.
+pg 31: I've inserted something that you may have forgotten.
+pg 31: (See the <inserted text> above.)
+pg 31: With luck, this will get me unwedged. But if you
+pg 31: really didn't forget anything, try typing `2' now; then
+pg 31: my insertion and my current dilemma will both disappear.
+pg 31: ! Missing { inserted.
        <to be read again> 
        \let 
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
 ----------------------------------
 From file ./artcap/capitulo05.tex:
-pg 31: Capítulo 5.
-pg 31: ! LaTeX Error: Environment proof undefined.
+pg 35: Capítulo 6.
+pg 35: ! LaTeX Error: No counter 'Teorema' defined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.17 \begin{proof}
-pg 31: ! LaTeX Error: \begin{document} ended by \end{proof}.
+       l.14 S
+pg 35: ea $a$ y $b$ dos números reales. Si $a = b$, entonces $a^2 = b^2$.
+pg 35: ! LaTeX Error: Something's wrong--perhaps a missing \item.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.26 \end{proof}
-pg 31: ! LaTeX Error: Environment proof undefined.
+       l.14 Se
+pg 35: a $a$ y $b$ dos números reales. Si $a = b$, entonces $a^2 = b^2$.
+pg 35: Try typing  <return>  to proceed.
+pg 35: ! LaTeX Error: Something's wrong--perhaps a missing \item.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.34 \begin{proof}
-pg 31: ! LaTeX Error: \begin{document} ended by \end{proof}.
+       l.15 \end{theorem}
+pg 35: ! LaTeX Error: No counter 'Lema' defined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.47 \end{proof}
-pg 32: ! LaTeX Error: Environment proof undefined.
+       l.31 S
+pg 35: i $a^2 = b^2$, entonces $a = b$ o $a = -b$.
+pg 35: ! LaTeX Error: Something's wrong--perhaps a missing \item.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.57 \begin{proof}
-pg 32: ! LaTeX Error: \begin{document} ended by \end{proof}.
+       l.31 Si
+pg 35: $a^2 = b^2$, entonces $a = b$ o $a = -b$.
+pg 35: ! LaTeX Error: Something's wrong--perhaps a missing \item.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.65 \end{proof}
-pg 40: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
-pg 40: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-pg 40: This document will not have a glossary.
+       l.32 \end{lemma}
+pg 36: ! LaTeX Error: No counter 'Proposición' defined.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.54 S
+pg 36: i $a = b$, entonces $a^n = b^n$ para cualquier $n \in \mathbb{N}$.
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.54 Si
+pg 36: $a = b$, entonces $a^n = b^n$ para cualquier $n \in \mathbb{N}$.
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.55 \end{proposition}
+pg 36: ! LaTeX Error: No counter 'Corolario' defined.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.70 S
+pg 36: i $a = 0$, entonces $a^n = 0$ para cualquier $n \in \mathbb{N}$.
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.70 Si
+pg 36: $a = 0$, entonces $a^n = 0$ para cualquier $n \in \mathbb{N}$.
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.71 \end{corollary}
+pg 36: ! LaTeX Error: No counter 'Definición' defined.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.78 E
+pg 36: l conjunto $\mathbb{R}$ se define como el conjunto de todos los números...
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.78 El
+pg 36: conjunto $\mathbb{R}$ se define como el conjunto de todos los números...
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.79 \end{definition}
+pg 36: ! LaTeX Error: No counter 'Ejemplo' defined.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.84 C
+pg 36: onsideremos el número $a = 3$ y $b = 3$. Según el Teorema 1, como $a =...
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.84 Co
+pg 36: nsideremos el número $a = 3$ y $b = 3$. Según el Teorema 1, como $a =...
+pg 36: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.85 \end{example}
+pg 37: ! LaTeX Error: No counter 'Axioma' defined.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.92 P
+pg 37: ara cualquier número real $x$, se cumple que $x + 0 = x$.
+pg 37: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.92 Pa
+pg 37: ra cualquier número real $x$, se cumple que $x + 0 = x$.
+pg 37: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.93 \end{axiom}
+pg 37: ! LaTeX Error: No counter 'Conjetura' defined.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.100 N
+pg 37: o existen números reales $x$ e $y$ tales que $x^3 + y^3 = z^3$ para al...
+pg 37: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.100 No
+pg 37: existen números reales $x$ e $y$ tales que $x^3 + y^3 = z^3$ para al...
+pg 37: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.101 \end{conjecture}
+pg 37: ! LaTeX Error: No counter 'Observación' defined.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.108 E
+pg 37: ste conjunto de resultados es fundamental en el análisis de ecuaciones...
+pg 37: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.108 Es
+pg 37: te conjunto de resultados es fundamental en el análisis de ecuaciones...
+pg 37: ! LaTeX Error: Something's wrong--perhaps a missing \item.
+       See the LaTeX manual or LaTeX Companion for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.109 \end{remark}
+pg 44: Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+pg 44: found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+pg 44: This document will not have a glossary.
 
 After last page:
 
