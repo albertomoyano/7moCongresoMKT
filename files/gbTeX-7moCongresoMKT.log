@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  22 OCT 2024 23:00
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.24)  23 OCT 2024 00:12
  restricted system commands enabled.
 **pdf-7moCongresoMKT.tex
 (./pdf-7moCongresoMKT.tex
@@ -189,126 +189,173 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 (/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
-Language: french 2023-12-19 v3.5r French support from the babel system
-Package babel Info: Hyphen rules for 'acadian' set to \l@french
-(babel)             (\language81). Reported on input line 91.
-Package babel Info: Hyphen rules for 'canadien' set to \l@french
-(babel)             (\language81). Reported on input line 92.
-\FB@stdchar=\count198
-\FB@spacing=\attribute5
-\FB@addDPspace=\attribute6
-\FB@addGUILspace=\attribute7
-\FB@ucsNBSP=\attribute8
-\FB@dialect=\attribute9
-Package french.ldf Info: No need for active punctuation characters
-(french.ldf)             with this version of LuaTeX!
-(french.ldf)             reported on input line 250.
-\FBguill@level=\count199
-\FBold@everypar=\toks19
-\FB@Mht=\dimen149
-\mc@charclass=\count266
-\mc@charfam=\count267
-\mc@charslot=\count268
-\std@mcc=\count269
-\dec@mcc=\count270
-Inserting `frenchb.french_punctuation' in `kerning'.
-\FB@parskip=\dimen150
-\listindentFB=\dimen151
-\descindentFB=\dimen152
-\labelindentFB=\dimen153
-\labelwidthFB=\dimen154
-\leftmarginFB=\dimen155
-\parindentFFN=\dimen156
-\FBfnindent=\dimen157
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-polytonicgreek
+.tex)
+Package babel Info: Importing data for polytonicgreek
+(babel)             from babel-el-polyton.ini. Reported on input line 4291.
+Package babel Info: Hyphen rules for 'polytonicgreek' set to \l@greek
+(babel)             (\language71). Reported on input line 4291.
 
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.tex
-UTF-8 French hyphenation patterns
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-
-fr.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
-Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
-Package babel Info: Making " an active character on input line 143.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-polytonicgreek
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/grc/babel-ancientgreek.
+tex)
+Package babel Info: Importing data for ancientgreek
+(babel)             from babel-grc.ini. Reported on input line 4291.
 
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pt.tex
-UTF-8 Portuguese hyphenation patterns
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex)))
- (/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
-Language: italian 2024/01/03 v.1.5.00 Italian support for the babel system
-\it@lettering=\count271
-\it@doublequoteactive=\count272
-\it@ISOcompliance=\count273
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/grc/babel-ancientgreek.
+tex) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
+)
+Package babel Info: Importing data for greek
+(babel)             from babel-el.ini. Reported on input line 4291.
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex)
+Package babel Info: Importing data for french
+(babel)             from babel-fr.ini. Reported on input line 4291.
 
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-it.tex
-UTF-8 Italian hyphenation patterns
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-it.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-
-it.tex))) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language18). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language18). Reported on input line 108.
-) (/usr/share/texlive/texmf-dist/tex/generic/babel-german/german.ldf
-Language: german 2024/01/19 v2.14 German support for babel (pre-1996 orthograph
-y)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
+)
+Package babel Info: Importing data for portuguese
+(babel)             from babel-pt.ini. Reported on input line 4291.
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex)
+Package babel Info: Importing data for italian
+(babel)             from babel-it.ini. Reported on input line 4291.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing data for english
+(babel)             from babel-en.ini. Reported on input line 4291.
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-german/germanb.ldf
-Language: germanb 2024/01/19 v2.14 German support for babel (pre-1996 orthograp
-hy)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/de/babel-german.tex)
+Package babel Info: Importing data for german
+(babel)             from babel-de.ini. Reported on input line 4291.
 
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-1901.
-tex UTF-8 German hyphenation patterns (traditional orthography)
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1901.
-tex
-German Hyphenation Patterns (Traditional Orthography) `dehypht-x' 2021-02-26 (W
-L))))) (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks20
-\es@quotdepth=\count274
+
+! Package babel Error: There is no ini file for the requested language
+(babel)                (: es-ucroman). Perhaps you misspelled it or your
+(babel)                installation is not complete..
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4291 \ProcessOptions*
+                     
+Fix the name or reinstall babel.
+
+Package babel Info: Hyphen rules for 'es-ucroman' set to \l@english
+(babel)             (\language0). Reported on input line 4291.
+
+! Package babel Error: There is no ini file for the requested language
+(babel)                (: es-noshorthands). Perhaps you misspelled it or your
+(babel)                installation is not complete..
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4291 \ProcessOptions*
+                     
+Fix the name or reinstall babel.
+
+Package babel Info: Hyphen rules for 'es-noshorthands' set to \l@english
+(babel)             (\language0). Reported on input line 4291.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex)
+Package babel Info: Importing data for spanish
+(babel)             from babel-es.ini. Reported on input line 4318.
 
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-es.tex
 UTF-8 Spanish hyphenation patterns
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex)))
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
-Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 11.
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/de/babel-german.tex
-Package babel Info: Importing font and identification data for german
-(babel)             from babel-de.ini. Reported on input line 25.
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count198
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count199
+\l__fontspec_language_int=\count266
+\l__fontspec_strnum_int=\count267
+\l__fontspec_tmp_int=\count268
+\l__fontspec_tmpa_int=\count269
+\l__fontspec_tmpb_int=\count270
+\l__fontspec_tmpc_int=\count271
+\l__fontspec_em_int=\count272
+\l__fontspec_emdef_int=\count273
+\l__fontspec_strong_int=\count274
+\l__fontspec_strongdef_int=\count275
+\l__fontspec_tmpa_dim=\dimen149
+\l__fontspec_tmpb_dim=\dimen150
+\l__fontspec_tmpc_dim=\dimen151
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex
-Package babel Info: Importing font and identification data for italian
-(babel)             from babel-it.ini. Reported on input line 11.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
-Package babel Info: Importing font and identification data for portuguese
-(babel)             from babel-pt.ini. Reported on input line 11.
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
-Package babel Info: Importing font and identification data for french
-(babel)             from babel-fr.ini. Reported on input line 11.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count275
-)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+luaotfload | cache : Lookup cache loaded from /home/alberto/.texlive2023/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 18 (nil) defines no feature for script latn with lang
+uage esp
+
+Package fontspec Info: Font family 'LibertinusSerif(0)' created for font
+(fontspec)             'Libertinus Serif' with options
+(fontspec)             [Ligatures=TeX,Script=Latin,Language=Spanish,RawFeature=
+{family=rm}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
++tlig;family=rm;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
++tlig;family=rm;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
+t;+tlig;family=rm;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
+t;+tlig;family=rm;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
+t;+tlig;family=rm;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
+t;+tlig;family=rm;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
+lt;+tlig;family=rm;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
+lt;+tlig;family=rm;+smcp;"
+
+
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count276
-\csq@gtype=\count277
-\csq@glevel=\count278
-\csq@qlevel=\count279
-\csq@maxlvl=\count280
-\csq@tshold=\count281
-\csq@ltx@everypar=\toks21
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+)
+\csq@reset=\count277
+\csq@gtype=\count278
+\csq@glevel=\count279
+\csq@qlevel=\count280
+\csq@maxlvl=\count281
+\csq@tshold=\count282
+\csq@ltx@everypar=\toks19
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
@@ -321,56 +368,19 @@ File: csquotes.cfg
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-01-22 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count282
-Inserting `l3color' in `luaotfload.parse_color'.
-\l__pdf_internal_box=\box51
-))
-Package: xparse 2023-10-10 L3 Experimental document command parser
-)
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
-eX
-\l__fontspec_script_int=\count283
-\l__fontspec_language_int=\count284
-\l__fontspec_strnum_int=\count285
-\l__fontspec_tmp_int=\count286
-\l__fontspec_tmpa_int=\count287
-\l__fontspec_tmpb_int=\count288
-\l__fontspec_tmpc_int=\count289
-\l__fontspec_em_int=\count290
-\l__fontspec_emdef_int=\count291
-\l__fontspec_strong_int=\count292
-\l__fontspec_strongdef_int=\count293
-\l__fontspec_tmpa_dim=\dimen158
-\l__fontspec_tmpb_dim=\dimen159
-\l__fontspec_tmpc_dim=\dimen160
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks22
+\MT@toks=\toks20
 \MT@tempbox=\box52
-\MT@count=\count294
+\MT@count=\count283
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks23
+\MT@prot@toks=\toks21
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen161
+\MT@outer@kern=\dimen152
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count295
+\MT@listname@count=\count284
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-luatex.def
 File: microtype-luatex.def 2023/03/13 v3.1a Definitions specific to luatex (RS)
@@ -386,10 +396,8 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
-luaotfload | cache : Lookup cache loaded from /home/alberto/.texlive2023/texmf-v
-ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
-Package fontspec Info: Font family 'LibertinusSerif(0)' created for font
+Package fontspec Info: Font family 'LibertinusSerif(1)' created for font
 (fontspec)             'Libertinus Serif' with options
 (fontspec)             [Ligatures=TeX,Numbers={OldStyle,Proportional},Ligatures
 =TeX,Scale=1.18].
@@ -422,8 +430,8 @@ guage=dflt;+onum;+pnum;+tlig;"
 (fontspec)             <->s*[1.18]"LibertinusSerif/BI:mode=node;script=latn;lan
 guage=dflt;+onum;+pnum;+tlig;+smcp;"
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 11.79993pt on input line 31.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
+(Font)              scaled to size 11.79993pt on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
@@ -452,24 +460,24 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks24
-\ex@=\dimen162
+\@emptytoks=\toks22
+\ex@=\dimen153
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen163
+\pmbraise@=\dimen154
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count296
+\inf@bad=\count285
 LaTeX Info: Redefining \frac on input line 236.
-\uproot@=\count297
-\leftroot@=\count298
+\uproot@=\count286
+\leftroot@=\count287
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count299
-\DOTSCASE@=\count300
+\classnum@=\count288
+\DOTSCASE@=\count289
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -479,34 +487,34 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen164
+\big@size=\dimen155
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count301
+\macc@depth=\count290
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count302
+\c@MaxMatrixCols=\count291
 \dotsspace@=\muskip16
-\c@parentequation=\count303
-\dspbrk@lvl=\count304
-\tag@help=\toks25
-\row@=\count305
-\column@=\count306
-\maxfields@=\count307
-\andhelp@=\toks26
-\eqnshift@=\dimen165
-\alignsep@=\dimen166
-\tagshift@=\dimen167
-\tagwidth@=\dimen168
-\totwidth@=\dimen169
-\lineht@=\dimen170
-\@envbody=\toks27
+\c@parentequation=\count292
+\dspbrk@lvl=\count293
+\tag@help=\toks23
+\row@=\count294
+\column@=\count295
+\maxfields@=\count296
+\andhelp@=\toks24
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks25
 \multlinegap=\skip52
 \multlinetaggap=\skip53
-\mathdisplay@stack=\toks28
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -515,9 +523,9 @@ Package: lualatex-math 2022/01/01 v1.12 Patches for mathematics typesetting wit
 h LuaLaTeX
 Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
 h LuaLaTeX)
-\g__um_fam_int=\count308
-\g__um_fonts_used_int=\count309
-\l__um_primecount_int=\count310
+\g__um_fam_int=\count297
+\g__um_fonts_used_int=\count298
+\l__um_primecount_int=\count299
 \g__um_primekern_muskip=\muskip17
 
 (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
@@ -563,15 +571,15 @@ dflt;mathfontdimen=xetex;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 34.
+(Font)              `operators' in the math version `normal' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LibertinusMath(1)/m/n on input line 
-34.
+35.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 34.
+(Font)              `operators' in the math version `bold' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusMath(1)/b/n on input line
- 34.
+ 35.
 
 Package fontspec Info: Could not resolve font "LibertinusMath/B" (it probably
 (fontspec)             doesn't exist).
@@ -597,15 +605,15 @@ x2;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 34.
+(Font)              `symbols' in the math version `normal' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/LibertinusMath(2)/m/n on input line
- 34.
+ 35.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 34.
+(Font)              `symbols' in the math version `bold' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/LibertinusMath(2)/b/n on input line
- 34.
+ 35.
 
 Package fontspec Info: Could not resolve font "LibertinusMath/B" (it probably
 (fontspec)             doesn't exist).
@@ -632,16 +640,16 @@ x3;+ssty=1;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 3
-4.
+5.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/LibertinusMath(3)/m/n on input line
- 34.
+ 35.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 34.
+(Font)              `largesymbols' in the math version `bold' on input line 35.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/LibertinusMath(3)/b/n on input line
- 34.
+ 35.
 
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec.sty
 Package: luatexja-fontspec 2020-09-14 fontspec support of LuaTeX-ja
@@ -659,7 +667,7 @@ Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX
 
 (/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count311
+\@catcodetablestackcnt=\count300
 )
 \CatcodeTableOther=\catcodetable16
 \CatcodeTableExpl=\catcodetable17
@@ -673,17 +681,17 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks29
+\pdftexcmds@toks=\toks27
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks30
-\XKV@tempa@toks=\toks31
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
 )
-\XKV@depth=\count312
+\XKV@depth=\count301
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/everyhook/everyhook.sty
@@ -692,43 +700,43 @@ Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
 )
 Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX every
 X primitives.
-\everypar=\toks32
-\frozen@everymath=\toks33
-\frozen@everydisplay=\toks34
-\everyhbox=\toks35
-\everyvbox=\toks36
-\everycr=\toks37
+\everypar=\toks30
+\frozen@everymath=\toks31
+\frozen@everydisplay=\toks32
+\everyhbox=\toks33
+\everyvbox=\toks34
+\everycr=\toks35
 )
-\ltjlineendcomment=\count313
-\ltj@dimen@zw=\dimen171
-\ltj@dimen@zh=\dimen172
-\ltj@dimen@jQ=\dimen173
-\ltj@icflag=\attribute10
-\ltj@curjfnt=\attribute11
-\ltj@curtfnt=\attribute12
-\ltj@charclass=\attribute13
-\ltj@charcode=\attribute14
-\ltj@autospc=\attribute15
-\ltj@autoxspc=\attribute16
-\ltj@yablshift=\attribute17
-\ltj@ykblshift=\attribute18
-\ltj@tablshift=\attribute19
-\ltj@tkblshift=\attribute20
-\jfam=\attribute21
-\ltj@vert@ori=\attribute22
-\ltj@dir=\attribute23
+\ltjlineendcomment=\count302
+\ltj@dimen@zw=\dimen162
+\ltj@dimen@zh=\dimen163
+\ltj@dimen@jQ=\dimen164
+\ltj@icflag=\attribute5
+\ltj@curjfnt=\attribute6
+\ltj@curtfnt=\attribute7
+\ltj@charclass=\attribute8
+\ltj@charcode=\attribute9
+\ltj@autospc=\attribute10
+\ltj@autoxspc=\attribute11
+\ltj@yablshift=\attribute12
+\ltj@ykblshift=\attribute13
+\ltj@tablshift=\attribute14
+\ltj@tkblshift=\attribute15
+\jfam=\attribute16
+\ltj@vert@ori=\attribute17
+\ltj@dir=\attribute18
 \ltj@@japanese=\language91
-\ltj@tempcnta=\count314
-\ltj@tempdima=\dimen174
-\ltj@@stack=\count315
-\ltj@@group@level=\count316
-\ltj@kcat0=\attribute24
-\ltj@kcat1=\attribute25
-\ltj@kcat2=\attribute26
-\ltj@kcat3=\attribute27
-\ltj@kcat4=\attribute28
-\ltj@kcat5=\attribute29
-\ltj@kcat6=\attribute30
+\ltj@tempcnta=\count303
+\ltj@tempdima=\dimen165
+\ltj@@stack=\count304
+\ltj@@group@level=\count305
+\ltj@kcat0=\attribute19
+\ltj@kcat1=\attribute20
+\ltj@kcat2=\attribute21
+\ltj@kcat3=\attribute22
+\ltj@kcat4=\attribute23
+\ltj@kcat5=\attribute24
+\ltj@kcat6=\attribute25
 Custom whatsit inhibitglue = 1
 Custom whatsit stack_marker = 2
 Custom whatsit begin_par = 3
@@ -824,8 +832,8 @@ Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
 Inserting `ltj.create_dir_whatsit' in `hpack_filter'.
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/ltj-base.sty
 Package: ltj-base 2021-03-16
-\ltj@tempcntb=\count317
-\ltj@tempcntc=\count318
+\ltj@tempcntb=\count306
+\ltj@tempcntc=\count307
 \ltj@afbox=\box55
 )
 \ltj@@italic@inner=\luafunction25
@@ -863,24 +871,24 @@ Package: ltj-latex 2022-10-15 LaTeX support of LuaTeX-ja
 Inserting `ltj.direction' in `pre_shipout_filter'.
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjfont.sty
 Package: lltjfont 2023-04-13 Patch to NFSS2 for LuaTeX-ja
-\ltj@@latex@plv=\count319
+\ltj@@latex@plv=\count308
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2021/04/29 v2.0v Standard LaTeX file
 \@remove@tlig@@@=\luafunction54
 LaTeX Font Info:    Redeclaring font encoding TU on input line 105.
 )
-\Cht=\dimen175
-\cht=\dimen176
-\Cdp=\dimen177
-\cdp=\dimen178
-\Cwd=\dimen179
-\cwd=\dimen180
-\Cvs=\dimen181
-\cvs=\dimen182
-\Chs=\dimen183
-\chs=\dimen184
-\cHT=\dimen185
+\Cht=\dimen166
+\cht=\dimen167
+\Cdp=\dimen168
+\cdp=\dimen169
+\Cwd=\dimen170
+\cwd=\dimen171
+\Cvs=\dimen172
+\cvs=\dimen173
+\Chs=\dimen174
+\chs=\dimen175
+\cHT=\dimen176
 \dstrutbox=\box56
 \tstrutbox=\box57
 \zstrutbox=\box58
@@ -921,7 +929,7 @@ LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 )
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty
 Package: lltjcore 2023-02-26 Patch to LaTeX2e Kernel for LuaTeX-ja
-\@tombowwidth=\dimen186
+\@tombowwidth=\dimen177
 \@TL=\box59
 \@Tl=\box60
 \@TC=\box61
@@ -935,10 +943,10 @@ Package: lltjcore 2023-02-26 Patch to LaTeX2e Kernel for LuaTeX-ja
 \@CL=\box69
 \@CR=\box70
 (load cache: extra_lmmono9-regular.luc)
-\@bannertoken=\toks38
-\@@paperheight=\dimen187
-\@@paperwidth=\dimen188
-\@@topmargin=\dimen189
+\@bannertoken=\toks36
+\@@paperheight=\dimen178
+\@@paperwidth=\dimen179
+\@@topmargin=\dimen180
 LaTeX Info: Redefining \underline on input line 280.
 )
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-atbegshi.sty
@@ -964,10 +972,10 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-compat.sty
 Package: luatexja-compat 2020-08-08 Compatibility with pTeX
 (load cache: ltj-jisx0208.luc)
-\hour=\count320
-\minute=\count321
+\hour=\count309
+\minute=\count310
 ))
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
 (Font)              scaled to size 18.87988pt on input line 16.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 15.39551pt on input line 16.
@@ -977,7 +985,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-27c
 .sty
 Package: luatexja-fontspec-27c 2020-04-04 fontspec support of LuaTeX-ja
-\g__ltj_fontspec_altnumber_int=\count322
+\g__ltj_fontspec_altnumber_int=\count311
 ))(load cache: extra_fandolsong-regular.luc)
 
 Package fontspec Info: Could not resolve font "FandolSong/BI" (it probably
@@ -989,7 +997,7 @@ Package fontspec Info: Could not resolve font "FandolSong/I" (it probably
 (fontspec)             doesn't exist).
 
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 38.
+(Font)              scaled to size 9.6222pt on input line 39.
 
 Package fontspec Info: Font family 'FandolSong(0)' created for font
 (fontspec)             'FandolSong' with options
@@ -1000,21 +1008,21 @@ Package fontspec Info: Font family 'FandolSong(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 39.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
-(Font)                  JY3/mc/m/n --> JY3/FandolSong(0)/m/n on input line 38.
+(Font)                  JY3/mc/m/n --> JY3/FandolSong(0)/m/n on input line 39.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY3/gt/m/n --> JY3/FandolSong(0)/m/n on input line 38.
+(Font)                  JY3/gt/m/n --> JY3/FandolSong(0)/m/n on input line 39.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/FandolSong(0)/m/n --> JY3/FandolSong(0)/b/n on inpu
-t line 38.
+t line 39.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 38.
+(Font)              scaled to size 9.6222pt on input line 39.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 38.
-luaotfload | aux : font no 54 (nil) does not define feature vert for script hani
+(Font)              scaled to size 9.6222pt on input line 39.
+luaotfload | aux : font no 55 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 54 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 55 (nil) does not define feature vrt2 for script hani
  with language dflt(load cache: extra_ibmplexsanscond.luc)
 
 Package fontspec Info: IBMPlexSansCondensed-Regular scale =
@@ -1024,24 +1032,24 @@ Package fontspec Info: IBMPlexSansCondensed-Regular scale =
 Package fontspec Info: IBMPlexSansCondensed-Regular scale =
 (fontspec)             0.9810359970073957.
 
-luaotfload | aux : font no 57 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexsanscond-smbld.luc)
 
 Package fontspec Info: IBMPlexSansCondensed-SemiBold scale =
 (fontspec)             0.9697602156101011.
 
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexsanscond-italic.luc)
 
 Package fontspec Info: IBMPlexSansCondensed-Italic scale = 0.9810359970073957.
 
-luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 60 (nil) does not define feature smcp for script latn
  with language dflt(load cache: extra_ibmplexsanscond-smblditalic.luc)
 
 Package fontspec Info: IBMPlexSansCondensed-SemiBoldItalic scale =
 (fontspec)             0.9697602156101011.
 
-luaotfload | aux : font no 60 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 61 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexSansCondensed(0)' created for font
@@ -1078,24 +1086,24 @@ Package fontspec Info: IBMPlexSansCondensed-Regular scale =
 Package fontspec Info: IBMPlexSansCondensed-Regular scale =
 (fontspec)             0.9810359970073957.
 
-luaotfload | aux : font no 63 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 64 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: IBMPlexSansCondensed-SemiBold scale =
 (fontspec)             0.9697602156101011.
 
-luaotfload | aux : font no 64 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 65 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: IBMPlexSansCondensed-Italic scale = 0.9810359970073957.
 
-luaotfload | aux : font no 65 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 66 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: IBMPlexSansCondensed-SemiBoldItalic scale =
 (fontspec)             0.9697602156101011.
 
-luaotfload | aux : font no 66 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 67 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexSansCondensed(1)' created for font
@@ -1126,18 +1134,18 @@ Italic.otf]:mode=base;script=latn;language=dflt;+tlig;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/IBMPlexSansCondensed(1)/m/n on inpu
-t line 46.
+t line 47.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/IBMPlexSansCondensed(1)/b/n on inp
-ut line 46.
+ut line 47.
 (load cache: extra_ibmplexmono.luc)
-luaotfload | aux : font no 69 (nil) does not define feature smcp for script latn
- with language dflt(load cache: extra_ibmplexmono-bold.luc)
 luaotfload | aux : font no 70 (nil) does not define feature smcp for script latn
- with language dflt(load cache: extra_ibmplexmono-italic.luc)
+ with language dflt(load cache: extra_ibmplexmono-bold.luc)
 luaotfload | aux : font no 71 (nil) does not define feature smcp for script latn
- with language dflt(load cache: extra_ibmplexmono-bolditalic.luc)
+ with language dflt(load cache: extra_ibmplexmono-italic.luc)
 luaotfload | aux : font no 72 (nil) does not define feature smcp for script latn
+ with language dflt(load cache: extra_ibmplexmono-bolditalic.luc)
+luaotfload | aux : font no 73 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexMono.otf(0)' created for font
@@ -1188,13 +1196,13 @@ t=latn;language=dflt;"
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-luaotfload | aux : font no 75 (nil) does not define feature smcp for script latn
- with language dflt
 luaotfload | aux : font no 76 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : font no 77 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : font no 78 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 79 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'IBMPlexMono.otf(1)' created for font
@@ -1227,51 +1235,51 @@ t=latn;language=dflt;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/IBMPlexMono.otf(1)/m/n on input lin
-e 53.
+e 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/IBMPlexMono.otf(1)/b/n on input lin
-e 53.
+e 54.
  (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2024-01-25 v3.3.10 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count323
-\l__siunitx_number_exponent_fixed_int=\count324
-\l__siunitx_number_min_decimal_int=\count325
-\l__siunitx_number_min_integer_int=\count326
-\l__siunitx_number_round_precision_int=\count327
-\l__siunitx_number_lower_threshold_int=\count328
-\l__siunitx_number_upper_threshold_int=\count329
-\l__siunitx_number_group_first_int=\count330
-\l__siunitx_number_group_size_int=\count331
-\l__siunitx_number_group_minimum_int=\count332
-\l__siunitx_angle_tmp_dim=\dimen190
+\l__siunitx_number_uncert_offset_int=\count312
+\l__siunitx_number_exponent_fixed_int=\count313
+\l__siunitx_number_min_decimal_int=\count314
+\l__siunitx_number_min_integer_int=\count315
+\l__siunitx_number_round_precision_int=\count316
+\l__siunitx_number_lower_threshold_int=\count317
+\l__siunitx_number_upper_threshold_int=\count318
+\l__siunitx_number_group_first_int=\count319
+\l__siunitx_number_group_size_int=\count320
+\l__siunitx_number_group_minimum_int=\count321
+\l__siunitx_angle_tmp_dim=\dimen181
 \l__siunitx_angle_marker_box=\box72
 \l__siunitx_angle_unit_box=\box73
-\l__siunitx_compound_count_int=\count333
+\l__siunitx_compound_count_int=\count322
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
  (CN)
 )
 \l__siunitx_table_tmp_box=\box74
-\l__siunitx_table_tmp_dim=\dimen191
-\l__siunitx_table_column_width_dim=\dimen192
+\l__siunitx_table_tmp_dim=\dimen182
+\l__siunitx_table_column_width_dim=\dimen183
 \l__siunitx_table_integer_box=\box75
 \l__siunitx_table_decimal_box=\box76
 \l__siunitx_table_uncert_box=\box77
 \l__siunitx_table_before_box=\box78
 \l__siunitx_table_after_box=\box79
-\l__siunitx_table_before_dim=\dimen193
-\l__siunitx_table_carry_dim=\dimen194
-\l__siunitx_unit_tmp_int=\count334
-\l__siunitx_unit_position_int=\count335
-\l__siunitx_unit_total_int=\count336
+\l__siunitx_table_before_dim=\dimen184
+\l__siunitx_table_carry_dim=\dimen185
+\l__siunitx_unit_tmp_int=\count323
+\l__siunitx_unit_position_int=\count324
+\l__siunitx_unit_total_int=\count325
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen195
+\col@sep=\dimen186
 \ar@mcellbox=\box80
-\extrarowheight=\dimen196
-\NC@list=\toks39
+\extrarowheight=\dimen187
+\NC@list=\toks37
 \extratabsurround=\skip54
 \backup@length=\skip55
 \ar@cellbox=\box81
@@ -1317,31 +1325,31 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-\c@qr@i=\count337
-\c@qr@j=\count338
-\qr@a=\count339
-\qr@b=\count340
-\qr@c=\count341
-\qr@for@depth=\count342
-\qr@for@maxdepth=\count343
-\qr@for@start=\count344
-\qr@for@end=\count345
-\qr@for@step=\count346
-\qr@newforcount=\count347
-\qr@newforcount=\count348
+\c@qr@i=\count326
+\c@qr@j=\count327
+\qr@a=\count328
+\qr@b=\count329
+\qr@c=\count330
+\qr@for@depth=\count331
+\qr@for@maxdepth=\count332
+\qr@for@start=\count333
+\qr@for@end=\count334
+\qr@for@step=\count335
+\qr@newforcount=\count336
+\qr@newforcount=\count337
 \qr@desiredheight=\skip56
 \qr@modulesize=\skip57
 \qr@minipagewidth=\skip58
-\c@maski=\count349
-\c@maskj=\count350
-\c@totalones=\count351
-\c@penaltyi=\count352
-\c@penaltyii=\count353
-\c@penaltyiii=\count354
-\c@penaltyiv=\count355
-\c@qr@hexchars=\count356
-\qr@newforcount=\count357
-\c@qr@divisionsremaining=\count358
+\c@maski=\count338
+\c@maskj=\count339
+\c@totalones=\count340
+\c@penaltyi=\count341
+\c@penaltyii=\count342
+\c@penaltyiii=\count343
+\c@penaltyiv=\count344
+\c@qr@hexchars=\count345
+\qr@newforcount=\count346
+\c@qr@divisionsremaining=\count347
 )
 (/usr/share/texlive/texmf-dist/tex/latex/froufrou/froufrou.sty
 Package: froufrou 2021/05/06 1.4.0 Visual section separator
@@ -1350,9 +1358,9 @@ Package: froufrou 2021/05/06 1.4.0 Visual section separator
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks40
-\pgfutil@tempdima=\dimen197
-\pgfutil@tempdimb=\dimen198
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen188
+\pgfutil@tempdimb=\dimen189
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box82
@@ -1378,41 +1386,41 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 107.
 )
-\Gin@req@height=\dimen199
-\Gin@req@width=\dimen256
+\Gin@req@height=\dimen190
+\Gin@req@width=\dimen191
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks41
-\pgfkeys@temptoks=\toks42
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
 .code.tex
-\pgfkeys@tmptoks=\toks43
+\pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen257
-\pgf@y=\dimen258
-\pgf@xa=\dimen259
-\pgf@ya=\dimen260
-\pgf@xb=\dimen261
-\pgf@yb=\dimen262
-\pgf@xc=\dimen263
-\pgf@yc=\dimen264
-\pgf@xd=\dimen265
-\pgf@yd=\dimen266
+\pgf@x=\dimen192
+\pgf@y=\dimen193
+\pgf@xa=\dimen194
+\pgf@ya=\dimen195
+\pgf@xb=\dimen196
+\pgf@yb=\dimen197
+\pgf@xc=\dimen198
+\pgf@yc=\dimen199
+\pgf@xd=\dimen256
+\pgf@yd=\dimen257
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count359
-\c@pgf@countb=\count360
-\c@pgf@countc=\count361
-\c@pgf@countd=\count362
-\t@pgf@toka=\toks44
-\t@pgf@tokb=\toks45
-\t@pgf@tokc=\toks46
-\pgf@sys@id@count=\count363
+\c@pgf@counta=\count348
+\c@pgf@countb=\count349
+\c@pgf@countc=\count350
+\c@pgf@countd=\count351
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+\pgf@sys@id@count=\count352
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -1427,8 +1435,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count364
-\pgfsyssoftpath@bigbuffer@items=\count365
+\pgfsyssoftpath@smallbuffer@items=\count353
+\pgfsyssoftpath@bigbuffer@items=\count354
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -1440,12 +1448,12 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen267
-\pgfmath@count=\count366
+\pgfmath@dimen=\dimen258
+\pgfmath@count=\count355
 \pgfmath@box=\box83
-\pgfmath@toks=\toks47
-\pgfmath@stack@operand=\toks48
-\pgfmath@stack@operation=\toks49
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -1466,38 +1474,38 @@ tex)
 thmetics.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count367
+\c@pgfmathroundto@lastzeros=\count356
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen268
-\pgf@picmaxx=\dimen269
-\pgf@picminy=\dimen270
-\pgf@picmaxy=\dimen271
-\pgf@pathminx=\dimen272
-\pgf@pathmaxx=\dimen273
-\pgf@pathminy=\dimen274
-\pgf@pathmaxy=\dimen275
-\pgf@xx=\dimen276
-\pgf@xy=\dimen277
-\pgf@yx=\dimen278
-\pgf@yy=\dimen279
-\pgf@zx=\dimen280
-\pgf@zy=\dimen281
+\pgf@picminx=\dimen259
+\pgf@picmaxx=\dimen260
+\pgf@picminy=\dimen261
+\pgf@picmaxy=\dimen262
+\pgf@pathminx=\dimen263
+\pgf@pathmaxx=\dimen264
+\pgf@pathminy=\dimen265
+\pgf@pathmaxy=\dimen266
+\pgf@xx=\dimen267
+\pgf@xy=\dimen268
+\pgf@yx=\dimen269
+\pgf@yy=\dimen270
+\pgf@zx=\dimen271
+\pgf@zy=\dimen272
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen282
-\pgf@path@lasty=\dimen283
+\pgf@path@lastx=\dimen273
+\pgf@path@lasty=\dimen274
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen284
-\pgf@shorten@start@additional=\dimen285
+\pgf@shorten@end@additional=\dimen275
+\pgf@shorten@start@additional=\dimen276
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
@@ -1505,19 +1513,19 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box84
 \pgf@hbox=\box85
 \pgf@layerbox@main=\box86
-\pgf@picture@serial@count=\count368
+\pgf@picture@serial@count=\count357
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen286
+\pgflinewidth=\dimen277
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen287
-\pgf@pt@y=\dimen288
-\pgf@pt@temp=\dimen289
+\pgf@pt@x=\dimen278
+\pgf@pt@y=\dimen279
+\pgf@pt@temp=\dimen280
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1533,13 +1541,13 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen290
+\pgfarrowsep=\dimen281
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen291
-\pgf@sys@shading@range@num=\count369
-\pgf@shadingcount=\count370
+\pgf@max=\dimen282
+\pgf@sys@shading@range@num=\count358
+\pgf@shadingcount=\count359
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1573,8 +1581,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen292
-\pgf@nodesepend=\dimen293
+\pgf@nodesepstart=\dimen283
+\pgf@nodesepend=\dimen284
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -1586,10 +1594,10 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen294
-\pgffor@skip=\dimen295
-\pgffor@stack=\toks50
-\pgffor@toks=\toks51
+\pgffor@iter=\dimen285
+\pgffor@skip=\dimen286
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
@@ -1597,33 +1605,33 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count371
-\pgfplotmarksize=\dimen296
+\pgf@plot@mark@count=\count360
+\pgfplotmarksize=\dimen287
 )
-\tikz@lastx=\dimen297
-\tikz@lasty=\dimen298
-\tikz@lastxsaved=\dimen299
-\tikz@lastysaved=\dimen300
-\tikz@lastmovetox=\dimen301
-\tikz@lastmovetoy=\dimen302
-\tikzleveldistance=\dimen303
-\tikzsiblingdistance=\dimen304
+\tikz@lastx=\dimen288
+\tikz@lasty=\dimen289
+\tikz@lastxsaved=\dimen290
+\tikz@lastysaved=\dimen291
+\tikz@lastmovetox=\dimen292
+\tikz@lastmovetoy=\dimen293
+\tikzleveldistance=\dimen294
+\tikzsiblingdistance=\dimen295
 \tikz@figbox=\box89
 \tikz@figbox@bg=\box90
 \tikz@tempbox=\box91
 \tikz@tempbox@bg=\box92
-\tikztreelevel=\count372
-\tikznumberofchildren=\count373
-\tikznumberofcurrentchild=\count374
-\tikz@fig@count=\count375
+\tikztreelevel=\count361
+\tikznumberofchildren=\count362
+\tikznumberofcurrentchild=\count363
+\tikz@fig@count=\count364
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count376
-\pgfmatrixcurrentcolumn=\count377
-\pgf@matrix@numberofcolumns=\count378
+\pgfmatrixcurrentrow=\count365
+\pgfmatrixcurrentcolumn=\count366
+\pgf@matrix@numberofcolumns=\count367
 )
-\tikz@expandcount=\count379
+\tikz@expandcount=\count368
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1632,8 +1640,8 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fourier-orns.sty
 Package: fourier-orns 2022/02/05 2.3 fourier-ornaments package
 (load cache: extra_fourierorns-regular.luc)
-luaotfload | aux : font no 80 (nil) defines no feature for script latn
-luaotfload | aux : font no 80 (nil) defines no feature for script dflt
+luaotfload | aux : font no 81 (nil) defines no feature for script latn
+luaotfload | aux : font no 81 (nil) defines no feature for script dflt
 
 Package fontspec Info: Font family 'FourierOrns-Regular.otf(0)' created for
 (fontspec)             font 'FourierOrns-Regular.otf' with options [BoldFont =
@@ -1663,23 +1671,23 @@ Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen305
-\lightrulewidth=\dimen306
-\cmidrulewidth=\dimen307
-\belowrulesep=\dimen308
-\belowbottomsep=\dimen309
-\aboverulesep=\dimen310
-\abovetopsep=\dimen311
-\cmidrulesep=\dimen312
-\cmidrulekern=\dimen313
-\defaultaddspace=\dimen314
-\@cmidla=\count380
-\@cmidlb=\count381
-\@aboverulesep=\dimen315
-\@belowrulesep=\dimen316
-\@thisruleclass=\count382
-\@lastruleclass=\count383
-\@thisrulewidth=\dimen317
+\heavyrulewidth=\dimen296
+\lightrulewidth=\dimen297
+\cmidrulewidth=\dimen298
+\belowrulesep=\dimen299
+\belowbottomsep=\dimen300
+\aboverulesep=\dimen301
+\abovetopsep=\dimen302
+\cmidrulesep=\dimen303
+\cmidrulekern=\dimen304
+\defaultaddspace=\dimen305
+\@cmidla=\count369
+\@cmidlb=\count370
+\@aboverulesep=\dimen306
+\@belowrulesep=\dimen307
+\@thisruleclass=\count371
+\@lastruleclass=\count372
+\@thisrulewidth=\dimen308
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
@@ -1687,11 +1695,11 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count384
+\c@r@tfl@t=\count373
 \rotFPtop=\skip59
 \rotFPbot=\skip60
 \rot@float@box=\box93
-\rot@mess@toks=\toks52
+\rot@mess@toks=\toks50
 )
 (/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
 Package: svg 2020/11/26 v2.02k (include SVG pictures)
@@ -1721,9 +1729,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
-\c@svg@param@lastpage=\count385
+\c@svg@param@lastpage=\count374
 \svg@box=\box94
-\c@svg@param@currpage=\count386
+\c@svg@param@currpage=\count375
 )
 (/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
 Package: transparent 2022-10-27 v1.5 Transparency with color stacks
@@ -1739,36 +1747,36 @@ Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count387
-\calc@Bcount=\count388
-\calc@Adimen=\dimen318
-\calc@Bdimen=\dimen319
+\calc@Acount=\count376
+\calc@Bcount=\count377
+\calc@Adimen=\dimen309
+\calc@Bdimen=\dimen310
 \calc@Askip=\skip61
 \calc@Bskip=\skip62
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count389
+\calc@Ccount=\count378
 \calc@Cskip=\skip63
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen320
-\ESO@tempdimb=\dimen321
+\ESO@tempdima=\dimen311
+\ESO@tempdimb=\dimen312
 )
-\AM@pagewidth=\dimen322
-\AM@pageheight=\dimen323
-\AM@fboxrule=\dimen324
+\AM@pagewidth=\dimen313
+\AM@pageheight=\dimen314
+\AM@fboxrule=\dimen315
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
 File: ppluatex.def 2024/01/21 v0.5y Pdfpages driver for LuaTeX (AM)
 )
-\pdfpages@includegraphics@status=\count390
+\pdfpages@includegraphics@status=\count379
 \AM@pagebox=\box95
-\AM@global@opts=\toks53
-\AM@pagecnt=\count391
-\AM@toc@title=\toks54
-\AM@lof@heading=\toks55
-\c@AM@survey=\count392
+\AM@global@opts=\toks51
+\AM@pagecnt=\count380
+\AM@toc@title=\toks52
+\AM@lof@heading=\toks53
+\c@AM@survey=\count381
 \AM@templatesizebox=\box96
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
@@ -1776,19 +1784,18 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen325
-\captionmargin=\dimen326
-\caption@leftmargin=\dimen327
-\caption@rightmargin=\dimen328
-\caption@width=\dimen329
-\caption@indent=\dimen330
-\caption@parindent=\dimen331
-\caption@hangindent=\dimen332
+\caption@tempdima=\dimen316
+\captionmargin=\dimen317
+\caption@leftmargin=\dimen318
+\caption@rightmargin=\dimen319
+\caption@width=\dimen320
+\caption@indent=\dimen321
+\caption@parindent=\dimen322
+\caption@hangindent=\dimen323
 Package caption Info: Standard document class detected.
-Package caption Info: french babel package is loaded.
 )
-\c@caption@flags=\count393
-\c@continuedfloat=\count394
+\c@caption@flags=\count382
+\c@continuedfloat=\count383
 Package caption Info: rotating package is loaded.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
@@ -1833,14 +1840,14 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count395
+\c@abspage=\count384
 Package zref Info: New property: abspage on input line 67.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip78
-\c@mdf@globalstyle@cnt=\count396
+\c@mdf@globalstyle@cnt=\count385
 \mdf@skipabove@length=\skip79
 \mdf@skipbelow@length=\skip80
 \mdf@leftmargin@length=\skip81
@@ -1916,16 +1923,16 @@ File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 \mdf@horizontalspaceofbox=\skip142
 \mdfsubtitleheight=\skip143
 \mdfsubsubtitleheight=\skip144
-\c@mdfcountframes=\count397
+\c@mdfcountframes=\count386
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count398
-\c@mdf@env@i=\count399
-\c@mdf@env@ii=\count400
-\c@mdf@zref@counter=\count401
+\mdf@envdepth=\count387
+\c@mdf@env@i=\count388
+\c@mdf@env@ii=\count389
+\c@mdf@zref@counter=\count390
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/bchart/bchart.sty
@@ -1943,8 +1950,8 @@ Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks56
-\verbatim@line=\toks57
+\every@verbatim=\toks54
+\verbatim@line=\toks55
 \verbatim@in@stream=\read4
 )
 (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
@@ -1954,11 +1961,11 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 \tcb@upperbox=\box103
 \tcb@lowerbox=\box104
 \tcb@phantombox=\box105
-\c@tcbbreakpart=\count402
-\c@tcblayer=\count403
-\c@tcolorbox@number=\count404
+\c@tcbbreakpart=\count391
+\c@tcblayer=\count392
+\c@tcolorbox@number=\count393
 \l__tcobox_tmpa_box=\box106
-\l__tcobox_tmpa_dim=\dimen333
+\l__tcobox_tmpa_dim=\dimen324
 \tcb@temp=\box107
 \tcb@temp=\box108
 \tcb@temp=\box109
@@ -1966,10 +1973,10 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '6.2.0'
-\c@tcbrastercolumn=\count405
-\c@tcbrasterrow=\count406
-\c@tcbrasternum=\count407
-\c@tcbraster=\count408
+\c@tcbrastercolumn=\count394
+\c@tcbrasterrow=\count395
+\c@tcbrasternum=\count396
+\c@tcbraster=\count397
 ) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
 (/usr/share/texlive/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
@@ -2000,32 +2007,32 @@ Library (tcolorbox): 'tcbhooks.code.tex' version '6.2.0'
 Library (tcolorbox): 'tcbtheorems.code.tex' version '6.2.0'
 ) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
 Library (tcolorbox): 'tcbfitting.code.tex' version '6.2.0'
-\tcbfitdim=\dimen334
-\tcb@lowerfitdim=\dimen335
-\tcb@upperfitdim=\dimen336
-\tcb@cur@hbadness=\count409
+\tcbfitdim=\dimen325
+\tcb@lowerfitdim=\dimen326
+\tcb@upperfitdim=\dimen327
+\tcb@cur@hbadness=\count398
 ) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
 Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.2.0'
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
 Library (tcolorbox): 'tcblistings.code.tex' version '6.2.0'
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count410
+\lst@mode=\count399
 \lst@gtempboxa=\box115
-\lst@token=\toks58
-\lst@length=\count411
-\lst@currlwidth=\dimen337
-\lst@column=\count412
-\lst@pos=\count413
-\lst@lostspace=\dimen338
-\lst@width=\dimen339
-\lst@newlines=\count414
-\lst@lineno=\count415
-\lst@maxwidth=\dimen340
+\lst@token=\toks56
+\lst@length=\count400
+\lst@currlwidth=\dimen328
+\lst@column=\count401
+\lst@pos=\count402
+\lst@lostspace=\dimen329
+\lst@width=\dimen330
+\lst@newlines=\count403
+\lst@lineno=\count404
+\lst@maxwidth=\dimen331
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count416
-\lst@skipnumbers=\count417
+\c@lstnumber=\count405
+\lst@skipnumbers=\count406
 \lst@framebox=\box116
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
@@ -2038,13 +2045,13 @@ Package: listings 2023/02/27 1.9 (Carsten Heinz)
 Package: luatexbase-cctb 2015/10/04 v1.3 luatexbase interface to LuaTeX (legacy
  subpackage) 
 )
-\ltj@lst@japanese@min=\count418
+\ltj@lst@japanese@min=\count407
 \CatcodeTableLTJlistings=\catcodetable19
-\ltj@lst@frame@lslimit=\dimen341
+\ltj@lst@frame@lslimit=\dimen332
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\lst@WFtoken=\toks59
+\lst@WFtoken=\toks57
 \lst@WF=\write4
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
@@ -2052,7 +2059,7 @@ Library (tcolorbox): 'tcblistingscore.code.tex' version '6.2.0'
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
 Library (tcolorbox): 'tcbprocessing.code.tex' version '6.2.0'
 )
-\c@tcblisting=\count419
+\c@tcblisting=\count408
 ))
 Package tcolorbox Info: Library `listingsutf8' is compatible with pdftex only. 
 Library `listings` is loaded instead. on input line 29.
@@ -2078,22 +2085,22 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plpartopsep=\skip148
 \plitemsep=\skip149
 \plparsep=\skip150
-\pl@lab=\toks60
+\pl@lab=\toks58
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip151
-\enit@outerparindent=\dimen342
-\enit@toks=\toks61
+\enit@outerparindent=\dimen333
+\enit@toks=\toks59
 \enit@inbox=\box117
-\enit@count@id=\count420
-\enitdp@description=\count421
+\enit@count@id=\count409
+\enitdp@description=\count410
 )
 (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
-\FN@temptoken=\toks62
-\footnotemargin=\dimen343
-\@outputbox@depth=\dimen344
+\FN@temptoken=\toks60
+\footnotemargin=\dimen334
+\@outputbox@depth=\dimen335
 Package footmisc Info: Declaring symbol style bringhurst on input line 696.
 Package footmisc Info: Declaring symbol style chicago on input line 704.
 Package footmisc Info: Declaring symbol style wiley on input line 713.
@@ -2120,19 +2127,19 @@ Package scrextend Info: unexpected definition of `\@makefnmark'.
 Package scrextend Info: patch seems to be successfull on input line 1762.
 ) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
-\ttl@leftsep=\dimen345
+\ttl@leftsep=\dimen336
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box118
 \beforetitleunit=\skip152
 \aftertitleunit=\skip153
-\ttl@plus=\dimen346
-\ttl@minus=\dimen347
-\ttl@toksa=\toks63
-\titlewidth=\dimen348
-\titlewidthlast=\dimen349
-\titlewidthfirst=\dimen350
+\ttl@plus=\dimen337
+\ttl@minus=\dimen338
+\ttl@toksa=\toks61
+\titlewidth=\dimen339
+\titlewidthlast=\dimen340
+\titlewidthfirst=\dimen341
 
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titleps.sty))
 (/usr/share/texlive/texmf-dist/tex/latex/newfloat/newfloat.sty
@@ -2141,17 +2148,17 @@ Package newfloat Info: Document class `book' detected (original).
 Package newfloat Info: `rotating' package detected.
 )
 Package newfloat Info: New float `imagen' with options ` fileext=lop, listname=
-{Índice de imágenes}, name=Imagen, placement=ht, ' on input line 301.
-\c@imagen=\count422
-\newfloat@ftype=\count423
-Package newfloat Info: float type `imagen'=8 on input line 301.
+{Índice de imágenes}, name=Imagen, placement=ht, ' on input line 302.
+\c@imagen=\count411
+\newfloat@ftype=\count412
+Package newfloat Info: float type `imagen'=8 on input line 302.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count424
+\lrq@indent=\count413
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -2160,49 +2167,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count425
-\c@listtotal=\count426
-\c@listcount=\count427
-\c@liststart=\count428
-\c@liststop=\count429
-\c@citecount=\count430
-\c@citetotal=\count431
-\c@multicitecount=\count432
-\c@multicitetotal=\count433
-\c@instcount=\count434
-\c@maxnames=\count435
-\c@minnames=\count436
-\c@maxitems=\count437
-\c@minitems=\count438
-\c@citecounter=\count439
-\c@maxcitecounter=\count440
-\c@savedcitecounter=\count441
-\c@uniquelist=\count442
-\c@uniquename=\count443
-\c@refsection=\count444
-\c@refsegment=\count445
-\c@maxextratitle=\count446
-\c@maxextratitleyear=\count447
-\c@maxextraname=\count448
-\c@maxextradate=\count449
-\c@maxextraalpha=\count450
-\c@abbrvpenalty=\count451
-\c@highnamepenalty=\count452
-\c@lownamepenalty=\count453
-\c@maxparens=\count454
-\c@parenlevel=\count455
-\blx@tempcnta=\count456
-\blx@tempcntb=\count457
-\blx@tempcntc=\count458
-\c@blx@maxsection=\count459
-\blx@maxsegment@0=\count460
-\blx@notetype=\count461
-\blx@parenlevel@text=\count462
-\blx@parenlevel@foot=\count463
-\blx@sectionciteorder@0=\count464
-\blx@sectionciteorderinternal@0=\count465
-\blx@entrysetcounter=\count466
-\blx@biblioinstance=\count467
+\c@tabx@nest=\count414
+\c@listtotal=\count415
+\c@listcount=\count416
+\c@liststart=\count417
+\c@liststop=\count418
+\c@citecount=\count419
+\c@citetotal=\count420
+\c@multicitecount=\count421
+\c@multicitetotal=\count422
+\c@instcount=\count423
+\c@maxnames=\count424
+\c@minnames=\count425
+\c@maxitems=\count426
+\c@minitems=\count427
+\c@citecounter=\count428
+\c@maxcitecounter=\count429
+\c@savedcitecounter=\count430
+\c@uniquelist=\count431
+\c@uniquename=\count432
+\c@refsection=\count433
+\c@refsegment=\count434
+\c@maxextratitle=\count435
+\c@maxextratitleyear=\count436
+\c@maxextraname=\count437
+\c@maxextradate=\count438
+\c@maxextraalpha=\count439
+\c@abbrvpenalty=\count440
+\c@highnamepenalty=\count441
+\c@lownamepenalty=\count442
+\c@maxparens=\count443
+\c@parenlevel=\count444
+\blx@tempcnta=\count445
+\blx@tempcntb=\count446
+\blx@tempcntc=\count447
+\c@blx@maxsection=\count448
+\blx@maxsegment@0=\count449
+\blx@notetype=\count450
+\blx@parenlevel@text=\count451
+\blx@parenlevel@foot=\count452
+\blx@sectionciteorder@0=\count453
+\blx@sectionciteorderinternal@0=\count454
+\blx@entrysetcounter=\count455
+\blx@biblioinstance=\count456
 \labelnumberwidth=\skip154
 \labelalphawidth=\skip155
 \biblabelsep=\skip156
@@ -2214,9 +2221,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read5
 \blx@bcfout=\write5
 \blx@langwohyphens=\language92
-\c@mincomprange=\count468
-\c@maxcomprange=\count469
-\c@mincompwidth=\count470
+\c@mincomprange=\count457
+\c@maxcomprange=\count458
+\c@mincompwidth=\count459
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -2227,74 +2234,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'philosophy-modern.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count471
-\c@savedafterword=\count472
-\c@annotator=\count473
-\c@savedannotator=\count474
-\c@author=\count475
-\c@savedauthor=\count476
-\c@bookauthor=\count477
-\c@savedbookauthor=\count478
-\c@commentator=\count479
-\c@savedcommentator=\count480
-\c@editor=\count481
-\c@savededitor=\count482
-\c@editora=\count483
-\c@savededitora=\count484
-\c@editorb=\count485
-\c@savededitorb=\count486
-\c@editorc=\count487
-\c@savededitorc=\count488
-\c@foreword=\count489
-\c@savedforeword=\count490
-\c@holder=\count491
-\c@savedholder=\count492
-\c@introduction=\count493
-\c@savedintroduction=\count494
-\c@namea=\count495
-\c@savednamea=\count496
-\c@nameb=\count497
-\c@savednameb=\count498
-\c@namec=\count499
-\c@savednamec=\count500
-\c@translator=\count501
-\c@savedtranslator=\count502
-\c@shortauthor=\count503
-\c@savedshortauthor=\count504
-\c@shorteditor=\count505
-\c@savedshorteditor=\count506
-\c@labelname=\count507
-\c@savedlabelname=\count508
-\c@institution=\count509
-\c@savedinstitution=\count510
-\c@lista=\count511
-\c@savedlista=\count512
-\c@listb=\count513
-\c@savedlistb=\count514
-\c@listc=\count515
-\c@savedlistc=\count516
-\c@listd=\count517
-\c@savedlistd=\count518
-\c@liste=\count519
-\c@savedliste=\count520
-\c@listf=\count521
-\c@savedlistf=\count522
-\c@location=\count523
-\c@savedlocation=\count524
-\c@organization=\count525
-\c@savedorganization=\count526
-\c@origlocation=\count527
-\c@savedoriglocation=\count528
-\c@origpublisher=\count529
-\c@savedorigpublisher=\count530
-\c@publisher=\count531
-\c@savedpublisher=\count532
-\c@language=\count533
-\c@savedlanguage=\count534
-\c@origlanguage=\count535
-\c@savedoriglanguage=\count536
-\c@pageref=\count537
-\c@savedpageref=\count538
+\c@afterword=\count460
+\c@savedafterword=\count461
+\c@annotator=\count462
+\c@savedannotator=\count463
+\c@author=\count464
+\c@savedauthor=\count465
+\c@bookauthor=\count466
+\c@savedbookauthor=\count467
+\c@commentator=\count468
+\c@savedcommentator=\count469
+\c@editor=\count470
+\c@savededitor=\count471
+\c@editora=\count472
+\c@savededitora=\count473
+\c@editorb=\count474
+\c@savededitorb=\count475
+\c@editorc=\count476
+\c@savededitorc=\count477
+\c@foreword=\count478
+\c@savedforeword=\count479
+\c@holder=\count480
+\c@savedholder=\count481
+\c@introduction=\count482
+\c@savedintroduction=\count483
+\c@namea=\count484
+\c@savednamea=\count485
+\c@nameb=\count486
+\c@savednameb=\count487
+\c@namec=\count488
+\c@savednamec=\count489
+\c@translator=\count490
+\c@savedtranslator=\count491
+\c@shortauthor=\count492
+\c@savedshortauthor=\count493
+\c@shorteditor=\count494
+\c@savedshorteditor=\count495
+\c@labelname=\count496
+\c@savedlabelname=\count497
+\c@institution=\count498
+\c@savedinstitution=\count499
+\c@lista=\count500
+\c@savedlista=\count501
+\c@listb=\count502
+\c@savedlistb=\count503
+\c@listc=\count504
+\c@savedlistc=\count505
+\c@listd=\count506
+\c@savedlistd=\count507
+\c@liste=\count508
+\c@savedliste=\count509
+\c@listf=\count510
+\c@savedlistf=\count511
+\c@location=\count512
+\c@savedlocation=\count513
+\c@organization=\count514
+\c@savedorganization=\count515
+\c@origlocation=\count516
+\c@savedoriglocation=\count517
+\c@origpublisher=\count518
+\c@savedorigpublisher=\count519
+\c@publisher=\count520
+\c@savedpublisher=\count521
+\c@language=\count522
+\c@savedlanguage=\count523
+\c@origlanguage=\count524
+\c@savedoriglanguage=\count525
+\c@pageref=\count526
+\c@savedpageref=\count527
 \shorthandwidth=\skip162
 \shortjournalwidth=\skip163
 \shortserieswidth=\skip164
@@ -2324,19 +2331,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count539
-\c@textcitetotal=\count540
-\c@textcitemaxnames=\count541
-\c@biburlbigbreakpenalty=\count542
-\c@biburlbreakpenalty=\count543
-\c@biburlnumpenalty=\count544
-\c@biburlucpenalty=\count545
-\c@biburllcpenalty=\count546
+\c@textcitecount=\count528
+\c@textcitetotal=\count529
+\c@textcitemaxnames=\count530
+\c@biburlbigbreakpenalty=\count531
+\c@biburlbreakpenalty=\count532
+\c@biburlnumpenalty=\count533
+\c@biburlucpenalty=\count534
+\c@biburllcpenalty=\count535
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count547
+\c@smartand=\count536
 )
 Package biblatex Info: Trying to load bibliography style 'philosophy-modern'...
 
@@ -2366,8 +2373,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count548
-\c@bbx:relatedtotal=\count549
+\c@bbx:relatedcount=\count537
+\c@bbx:relatedtotal=\count538
 )))
 Package biblatex Info: Trying to load bibliography style 'philosophy-standard'.
 ..
@@ -2376,8 +2383,8 @@ Package biblatex Info: ... file 'philosophy-standard.bbx' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/philosophy-standar
 d.bbx
 File: philosophy-standard.bbx 2022/09/16 v1.9.8g A set of styles for biblatex
-\c@maxnamesincross=\count550
-\c@minnamesincross=\count551
+\c@maxnamesincross=\count539
+\c@minnamesincross=\count540
 ))
 \yeartitle=\skip176
 \postnamesep=\skip177
@@ -2444,24 +2451,24 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count552
+\c@tracingmulticols=\count541
 \mult@box=\box119
-\multicol@leftmargin=\dimen351
-\c@unbalance=\count553
-\c@collectmore=\count554
-\doublecol@number=\count555
-\multicoltolerance=\count556
-\multicolpretolerance=\count557
-\full@width=\dimen352
-\page@free=\dimen353
-\premulticols=\dimen354
-\postmulticols=\dimen355
+\multicol@leftmargin=\dimen342
+\c@unbalance=\count542
+\c@collectmore=\count543
+\doublecol@number=\count544
+\multicoltolerance=\count545
+\multicolpretolerance=\count546
+\full@width=\dimen343
+\page@free=\dimen344
+\premulticols=\dimen345
+\postmulticols=\dimen346
 \multicolsep=\skip178
 \multicolbaselineskip=\skip179
 \partial@page=\box120
 \last@line=\box121
 \mc@boxedresult=\box122
-\maxbalancingoverflow=\dimen356
+\maxbalancingoverflow=\dimen347
 \mult@rightbox=\box123
 \mult@grightbox=\box124
 \mult@firstbox=\box125
@@ -2502,15 +2509,15 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box160
 \@tempa=\box161
 \@tempa=\box162
-\c@minrows=\count558
-\c@columnbadness=\count559
-\c@finalcolumnbadness=\count560
-\last@try=\dimen357
-\multicolovershoot=\dimen358
-\multicolundershoot=\dimen359
+\c@minrows=\count547
+\c@columnbadness=\count548
+\c@finalcolumnbadness=\count549
+\last@try=\dimen348
+\multicolovershoot=\dimen349
+\multicolundershoot=\dimen350
 \mult@nat@firstbox=\box163
 \colbreak@box=\box164
-\mc@col@check@num=\count561
+\mc@col@check@num=\count550
 ))
 \pdf-7moCongresoMKT@idxfile=\write6
 
@@ -2531,15 +2538,15 @@ Writing index file concepto.idx
 Writing index file onomastico.idx
 (/usr/share/texlive/texmf-dist/tex/latex/esindex/esindex.sty
 Package: esindex 2019/10/10 v1.7 Spanish indexes (and more)
-\everyesindex=\toks64
+\everyesindex=\toks62
 )
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2023/09/29 v4.53 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2022/10/14 v2.08 (NLCT)
-\@glsmfirst=\toks65
-\@glsmrest=\toks66
+\@glsmfirst=\toks63
+\@glsmrest=\toks64
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
@@ -2549,7 +2556,7 @@ Package: datatool-base 2019/09/27 v2.32 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count562
+\c@su@anzahl=\count551
 )
 (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2019/09/27 v2.32 (NLCT)
@@ -2560,19 +2567,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count563
+\actioncount=\count552
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count564
-\FP@xia=\count565
-\FP@xib=\count566
-\FP@xfa=\count567
-\FP@xfb=\count568
-\FP@rega=\count569
-\FP@regb=\count570
-\FP@regs=\count571
-\FP@times=\count572
+\FP@xs=\count553
+\FP@xia=\count554
+\FP@xib=\count555
+\FP@xfa=\count556
+\FP@xfb=\count557
+\FP@rega=\count558
+\FP@regb=\count559
+\FP@regs=\count560
+\FP@times=\count561
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -2591,7 +2598,7 @@ Package: fp-pas 1994/08/29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count573
+\FPseed=\count562
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -2602,15 +2609,15 @@ Package: fp-upn 1996/10/21
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks67
-\@dtl@tmpcount=\count574
+\@dtl@toks=\toks65
+\@dtl@tmpcount=\count563
 \dtl@tmplength=\skip180
-\dtl@sortresult=\count575
-\@dtl@numgrpsepcount=\count576
-\@dtl@datatype=\count577
-\dtl@codeA=\count578
-\dtl@codeB=\count579
-\@dtl@foreach@level=\count580
+\dtl@sortresult=\count564
+\@dtl@numgrpsepcount=\count565
+\@dtl@datatype=\count566
+\dtl@codeA=\count567
+\dtl@codeB=\count568
+\@dtl@foreach@level=\count569
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty
 Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
@@ -2619,45 +2626,17 @@ Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 )
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish.
-ldf
-File: glossaries-spanish.ldf 2014/11/23 v1.0
-
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-
-noenc.ldf))
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-german/glossaries-german.ld
-f
-File: glossaries-german.ldf 2014/11/23 v1.0
-)
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-english/glossaries-english.
-ldf
-File: glossaries-english.ldf 2014/11/23 v1.0
-)
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-italian/glossaries-italian.
-ldf
-File: glossaries-italian.ldf 2014/11/23 v1.0
-)
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-portuge
-s.ldf
-File: glossaries-portuges.ldf 2014/11/23 v1.0
-
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-portuge
-s-noenc.ldf))
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-french/glossaries-french.ld
-f
-File: glossaries-french.ldf 2016/12/12 v1.1
-)
-\gls@level=\count581
-\@gls@tmpb=\toks68
+\gls@level=\count570
+\@gls@tmpb=\toks66
 \gls@tmplen=\skip181
 
 
 Package glossaries Warning: Overriding \printglossary on input line 6158.
 
-\glskeylisttok=\toks69
-\glslabeltok=\toks70
-\glsshorttok=\toks71
-\glslongtok=\toks72
+\glskeylisttok=\toks67
+\glslabeltok=\toks68
+\glsshorttok=\toks69
+\glslongtok=\toks70
 
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
 y
@@ -2674,18 +2653,18 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTright=\skip184
 \LTpre=\skip185
 \LTpost=\skip186
-\LTchunksize=\count582
-\LTcapwidth=\dimen360
+\LTchunksize=\count571
+\LTcapwidth=\dimen351
 \LT@head=\box165
 \LT@firsthead=\box166
 \LT@foot=\box167
 \LT@lastfoot=\box168
 \LT@gbox=\box169
-\LT@cols=\count583
-\LT@rows=\count584
-\c@LT@tables=\count585
-\c@LT@chunks=\count586
-\LT@p@ftn=\toks73
+\LT@cols=\count572
+\LT@rows=\count573
+\c@LT@tables=\count574
+\c@LT@chunks=\count575
+\LT@p@ftn=\toks71
 )
 \glsdescwidth=\skip187
 \glspagelistwidth=\skip188
@@ -2695,20 +2674,20 @@ Package: glossary-super 2023/09/29 v4.53 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
-\c@tracingst=\count587
-\ST@wd=\dimen361
+\c@tracingst=\count576
+\ST@wd=\dimen352
 \ST@rightskip=\skip189
 \ST@leftskip=\skip190
 \ST@parfillskip=\skip191
-\ST@pageleft=\dimen362
-\ST@headht=\dimen363
-\ST@tailht=\dimen364
-\ST@pagesofar=\dimen365
-\ST@pboxht=\dimen366
-\ST@lineht=\dimen367
-\ST@prevht=\dimen368
-\ST@toadd=\dimen369
-\ST@dimen=\dimen370
+\ST@pageleft=\dimen353
+\ST@headht=\dimen354
+\ST@tailht=\dimen355
+\ST@pagesofar=\dimen356
+\ST@pboxht=\dimen357
+\ST@lineht=\dimen358
+\ST@prevht=\dimen359
+\ST@toadd=\dimen360
+\ST@dimen=\dimen361
 \ST@pbox=\box170
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
@@ -2722,7 +2701,7 @@ Package: impnattypo
 
 (/usr/share/texlive/texmf-dist/tex/lualatex/luacode/luacode.sty
 Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
-\luacode@lines=\toks74
+\luacode@lines=\toks72
 \luacode@table@soft=\catcodetable20
 )
 Inserting `homeoarchy' in `post_linebreak_filter'.
@@ -2745,11 +2724,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count588
+\c@section@level=\count577
 )
-\@linkdim=\dimen371
-\Hy@linkcounter=\count589
-\Hy@pagecounter=\count590
+\@linkdim=\dimen362
+\Hy@linkcounter=\count578
+\Hy@pagecounter=\count579
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
@@ -2757,7 +2736,7 @@ File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count591
+\Hy@SavedSpaceFactor=\count580
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
@@ -2771,9 +2750,9 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count592
+\c@Hy@tempcnt=\count581
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen372
+\XeTeXLinkMargin=\dimen363
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -2782,9 +2761,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count593
-\Field@Width=\dimen373
-\Fld@charsize=\dimen374
+\Fld@menulength=\count582
+\Field@Width=\dimen364
+\Fld@charsize=\dimen365
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -2797,9 +2776,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count594
-\c@Item=\count595
-\c@Hfootnote=\count596
+\Hy@abspage=\count583
+\c@Item=\count584
+\c@Hfootnote=\count585
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -2815,8 +2794,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count597
-\c@bookmark@seq@number=\count598
+\Fld@listcount=\count586
+\c@bookmark@seq@number=\count587
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -2838,26 +2817,26 @@ Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/soul/soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks75
-\SOUL@lasttoken=\toks76
-\SOUL@syllable=\toks77
-\SOUL@cmds=\toks78
-\SOUL@buffer=\toks79
-\SOUL@token=\toks80
-\SOUL@syllgoal=\dimen375
-\SOUL@syllwidth=\dimen376
-\SOUL@charkern=\dimen377
-\SOUL@hyphkern=\dimen378
-\SOUL@dimen=\dimen379
-\SOUL@dimeni=\dimen380
-\SOUL@minus=\count599
-\SOUL@comma=\count600
-\SOUL@apo=\count601
-\SOUL@grave=\count602
+\SOUL@word=\toks73
+\SOUL@lasttoken=\toks74
+\SOUL@syllable=\toks75
+\SOUL@cmds=\toks76
+\SOUL@buffer=\toks77
+\SOUL@token=\toks78
+\SOUL@syllgoal=\dimen366
+\SOUL@syllwidth=\dimen367
+\SOUL@charkern=\dimen368
+\SOUL@hyphkern=\dimen369
+\SOUL@dimen=\dimen370
+\SOUL@dimeni=\dimen371
+\SOUL@minus=\count588
+\SOUL@comma=\count589
+\SOUL@apo=\count590
+\SOUL@grave=\count591
 \SOUL@spaceskip=\skip194
-\SOUL@ttwidth=\dimen381
-\SOUL@uldp=\dimen382
-\SOUL@ulht=\dimen383
+\SOUL@ttwidth=\dimen372
+\SOUL@uldp=\dimen373
+\SOUL@ulht=\dimen374
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
@@ -2867,7 +2846,7 @@ Package: todonotes 2024/01/05
 zlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-\c@@todonotes@numberoftodonotes=\count603
+\c@@todonotes@numberoftodonotes=\count592
 )
 
 ! LaTeX Error: Command \comment already defined.
@@ -2885,12 +2864,12 @@ or  <return>  to continue without it.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
 Package: hyperxmp 2023/09/10 v5.12 Store hyperref metadata in XMP format
-\hyxmp@aep@toks=\toks81
+\hyxmp@aep@toks=\toks79
 
 (/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )
-\@hyxmp@count=\count604
+\@hyxmp@count=\count593
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
@@ -2908,12 +2887,12 @@ Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 15.
 
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 15.
 )
-\c@theorem=\count605
-\c@definition=\count606
-\c@example=\count607
-\c@axiom=\count608
-\c@conjecture=\count609
-\c@remark=\count610
+\c@theorem=\count594
+\c@definition=\count595
+\c@example=\count596
+\c@axiom=\count597
+\c@conjecture=\count598
+\c@remark=\count599
  (/usr/share/texlive/texmf-dist/tex/generic/chemfig/chemfig.sty
 (/usr/share/texlive/texmf-dist/tex/generic/chemfig/chemfig.tex
 (/usr/share/texlive/texmf-dist/tex/generic/simplekv/simplekv.tex
@@ -2922,26 +2901,26 @@ Package: simplekv 2023/10/02 v0.2c Simple keyval package (CT)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
 code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen384
-\pgfarrowlength=\dimen385
-\pgfarrowwidth=\dimen386
-\pgfarrowlinewidth=\dimen387
+\pgfarrowinset=\dimen375
+\pgfarrowlength=\dimen376
+\pgfarrowwidth=\dimen377
+\pgfarrowlinewidth=\dimen378
 )
-\CF_cnt_atomgroup=\count611
-\CF_cnt_group=\count612
-\CF_cnt_atom=\count613
-\CF_cnt_cycle=\count614
-\CF_cnt_cyclebonds=\count615
-\CF_cnt_compound=\count616
-\CF_dim=\dimen388
-\CF_turnangle=\dimen389
-\CF_arrowsize=\dimen390
-\CF_zero=\dimen391
+\CF_cnt_atomgroup=\count600
+\CF_cnt_group=\count601
+\CF_cnt_atom=\count602
+\CF_cnt_cycle=\count603
+\CF_cnt_cyclebonds=\count604
+\CF_cnt_compound=\count605
+\CF_dim=\dimen379
+\CF_turnangle=\dimen380
+\CF_arrowsize=\dimen381
+\CF_zero=\dimen382
 \CF_box=\box171
 \CF_boxstuff=\box172
 \CF_testbox=\box173
 \CF_chargebox=\box174
-\CF_substtoks=\toks82
+\CF_substtoks=\toks80
 )
 Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
@@ -3018,37 +2997,55 @@ Package: lltjp-footmisc 2022-02-19 Patch to footmisc for LuaTeX-ja
 Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
 )
 (./pdf-7moCongresoMKT.aux
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
- (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
-(./artcap/capitulo02.aux) (./artcap/capitulo03.aux) (./artcap/capitulo04.aux)
-(./artcap/capitulo05.aux) (./artcap/indiceautores.aux))
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 9.81033pt on input line 5.
+LaTeX Font Info:    Font shape `TU/IBMPlexMono.otf(0)/m/n' will be
+(Font)              scaled to size 9.10004pt on input line 5.
+
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \sffamily = IBMPlexSansCondensed(0)
+(babel)               [IBMPlexSansCondensed-Regular.otf]:mode=node;script=latn;
+language=dflt;+tlig; at 9.81033pt
+(babel)             * \ttfamily = IBMPlexMono.otf(0)
+(babel)               [IBMPlexMono-Regular.otf]:mode=node;script=latn;language=
+dflt; at 9.10004pt
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 5.
+
+(./artcap/capitulo01.aux) (./artcap/capitulo06.aux) (./artcap/capitulo02.aux)
+(./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
+(./artcap/indiceautores.aux))
 \openout1 = pdf-7moCongresoMKT.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 654.
-LaTeX Font Info:    ... okay on input line 654.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 655.
+LaTeX Font Info:    ... okay on input line 655.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -3086,22 +3083,19 @@ LaTeX Font Info:    ... okay on input line 654.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 654.
-LaTeX Info: Redefining \% on input line 654.
-LaTeX Info: Redefining \up on input line 654.
-LaTeX Info: Redefining \microtypecontext on input line 654.
-Package microtype Info: Applying patch `item' on input line 654.
-Package microtype Info: Applying patch `toc' on input line 654.
-Package microtype Info: Applying patch `eqnum' on input line 654.
-Package microtype Info: Applying patch `footnote' on input line 654.
-Package microtype Info: Applying patch `verbatim' on input line 654.
+LaTeX Info: Redefining \microtypecontext on input line 655.
+Package microtype Info: Applying patch `item' on input line 655.
+Package microtype Info: Applying patch `toc' on input line 655.
+Package microtype Info: Applying patch `eqnum' on input line 655.
+Package microtype Info: Applying patch `footnote' on input line 655.
+Package microtype Info: Applying patch `verbatim' on input line 655.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 654.
+LaTeX Info: Redefining \showhyphens on input line 655.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -3111,63 +3105,26 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  TU/LibertinusMath(1)/m/n --> TU/LibertinusSerif(0)/m/n 
-on input line 654.
+on input line 655.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(0)/m/it on input li
-ne 654.
+ne 655.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
-e 654.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-spanish.trsl
-File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
-nslations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 654.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-german.trsl
-File: translations-basic-dictionary-german.trsl (german translation file `trans
-lations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 654.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-english.trsl
-File: translations-basic-dictionary-english.trsl (english translation file `tra
-nslations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 654.
-Package translations Info: no dictionary file `translations-basic-dictionary-it
-alian.trsl' found. on input line 654.
-Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 654.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-french.trsl
-File: translations-basic-dictionary-french.trsl (french translation file `trans
-lations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 654.
-
+e 655.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count617
-\scratchdimen=\dimen392
+\scratchcounter=\count606
+\scratchdimen=\dimen383
 \scratchbox=\box175
-\nofMPsegments=\count618
-\nofMParguments=\count619
-\everyMPshowfont=\toks83
-\MPscratchCnt=\count620
-\MPscratchDim=\dimen393
-\MPnumerator=\count621
-\makeMPintoPDFobject=\count622
-\everyMPtoPDFconversion=\toks84
+\nofMPsegments=\count607
+\nofMParguments=\count608
+\everyMPshowfont=\toks81
+\MPscratchCnt=\count609
+\MPscratchDim=\dimen384
+\MPnumerator=\count610
+\makeMPintoPDFobject=\count611
+\everyMPtoPDFconversion=\toks82
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -3198,11 +3155,11 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: scrextend package is loaded.
-\caption@addmargin@hsize=\dimen394
-\caption@addmargin@linewidth=\dimen395
+\caption@addmargin@hsize=\dimen385
+\caption@addmargin@linewidth=\dimen386
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count623
+\c@lstlisting=\count612
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-philosophy
 '...
 Package biblatex Info: ... file 'spanish-philosophy.lbx' found.
@@ -3221,72 +3178,6 @@ Package biblatex Info: ... file 'spanish.lbx' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 ))
-Package biblatex Info: Trying to load language 'german'...
-Package biblatex Info: ... file 'german.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'english' -> 'english-philosophy
-'...
-Package biblatex Info: ... file 'english-philosophy.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/english-philosophy
-.lbx
-File: english-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Trying to load language 'italian' -> 'italian-philosophy
-'...
-Package biblatex Info: ... file 'italian-philosophy.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/italian-philosophy
-.lbx
-File: italian-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
-Package biblatex Info: Trying to load language 'italian'...
-Package biblatex Info: ... file 'italian.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
-File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'italian'...
-Package biblatex Info: ... file 'italian.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
-File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Trying to load language 'portuguese'...
-Package biblatex Info: ... file 'portuguese.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuguese.lbx
-File: portuguese.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'french' -> 'french-philosophy'.
-..
-Package biblatex Info: ... file 'french-philosophy.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/french-philosophy.
-lbx
-File: french-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
-Package biblatex Info: Trying to load language 'french'...
-Package biblatex Info: ... file 'french.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/french.lbx
-File: french.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'french'...
-Package biblatex Info: ... file 'french.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/french.lbx
-File: french.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
 Package biblatex Info: Input encoding 'utf8' specified.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
@@ -3296,9 +3187,9 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-7moCongresoMKT.bbl' found.
 
 (./pdf-7moCongresoMKT.bbl)
-Package biblatex Info: Reference section=0 on input line 654.
-Package biblatex Info: Reference segment=0 on input line 654.
-Package hyperref Info: Link coloring ON on input line 654.
+Package biblatex Info: Reference section=0 on input line 655.
+Package biblatex Info: Reference segment=0 on input line 655.
+Package hyperref Info: Link coloring ON on input line 655.
  (./pdf-7moCongresoMKT.out) (./pdf-7moCongresoMKT.out)
 \@outlinefile=\write10
 
@@ -3307,39 +3198,31 @@ Package hyperref Info: Link coloring ON on input line 654.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 20.39026pt on input line 19.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 16.62714pt on input line 19.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 16.62714pt on input line 19.
-luaotfload | aux : font no 83 (nil) does not define feature vert for script hani
- with language dflt
-luaotfload | aux : font no 83 (nil) does not define feature vrt2 for script hani
- with language dflt [3] [4]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 11.79993pt on input line 31.
-LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 31.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 14.15991pt on input line 31.
-LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 31.
-LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 31.
 luaotfload | aux : font no 86 (nil) does not define feature vert for script hani
  with language dflt
 luaotfload | aux : font no 86 (nil) does not define feature vrt2 for script hani
+ with language dflt [3] [4]
+LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
+(Font)              No change on input line 31.
+LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 31.
+LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 31.
+luaotfload | aux : font no 89 (nil) does not define feature vert for script hani
  with language dflt
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 16.99188pt on input line 39.
+luaotfload | aux : font no 89 (nil) does not define feature vrt2 for script hani
+ with language dflt
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 39.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 39.
-luaotfload | aux : font no 88 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 91 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 88 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 91 (nil) does not define feature vrt2 for script hani
  with language dflt
 <./media/logo-imago-ByW.png, id=96, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
@@ -3354,15 +3237,13 @@ Package luatex.def Info: ./media/desconocido.png  used on input line 55.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
 )
 (./artcap/agradecimientos.tex [6<./media/desconocido.png>]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 6.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 8.65997pt on input line 6.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 8.65997pt on input line 6.
-luaotfload | aux : font no 90 (nil) does not define feature vert for script hani
+luaotfload | aux : font no 93 (nil) does not define feature vert for script hani
  with language dflt
-luaotfload | aux : font no 90 (nil) does not define feature vrt2 for script hani
+luaotfload | aux : font no 93 (nil) does not define feature vrt2 for script hani
  with language dflt
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LibertinusMath' (encoding: TU).
@@ -3370,15 +3251,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 6.
-luaotfload | aux : font no 99 (nil) does not define feature vert for script hani
- with language dflt
-luaotfload | aux : font no 99 (nil) does not define feature vrt2 for script hani
- with language dflt
+luaotfload | aux : font no 102 (nil) does not define feature vert for script han
+i with language dflt
+luaotfload | aux : font no 102 (nil) does not define feature vrt2 for script han
+i with language dflt
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 6.
-luaotfload | aux : font no 100 (nil) does not define feature vert for script han
+luaotfload | aux : font no 103 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 100 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 103 (nil) does not define feature vrt2 for script han
 i with language dflt
 LaTeX Font Info:    Trying loading font information for U+msa on input line 6.
 
@@ -3400,32 +3281,21 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ] [8
 
 ])
-Package biblatex Info: Resetting trackers on input line 662.
+Package biblatex Info: Resetting trackers on input line 663.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 662.
+(Font)              scaled to size 14.12686pt on input line 663.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `IBMPlexSansCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 662.
+(Font)              scaled to size 16.95224pt on input line 663.
 
-(./pdf-7moCongresoMKT.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 2.
-)
+(./pdf-7moCongresoMKT.toc)
 \tf@toc=\write11
 
 \openout11 = pdf-7moCongresoMKT.toc
- (./artcap/agradecimientos2.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [9
+ (./artcap/agradecimientos2.tex [9
 
 ] [10
 
@@ -3436,47 +3306,32 @@ LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 6.
 (load cache: extra_haranoajigothic-medium.luc)
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 11.79993pt on input line 6.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 6.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 10.
-luaotfload | aux : font no 112 (nil) does not define feature vert for script han
+luaotfload | aux : font no 114 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 112 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 114 (nil) does not define feature vrt2 for script han
 i with language dflt
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.43994pt on input line 10.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 10.
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
  [11])
-LaTeX Info: Redefining \. on input line 667.
-LaTeX Info: Redefining \% on input line 667.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 667.
+(Font)              scaled to size 9.69757pt on input line 668.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 667.
+(Font)              scaled to size 9.6222pt on input line 668.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
-(Font)              scaled to size 9.6222pt on input line 667.
-luaotfload | aux : font no 119 (nil) does not define feature vert for script han
+(Font)              scaled to size 9.6222pt on input line 668.
+luaotfload | aux : font no 121 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 119 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 121 (nil) does not define feature vrt2 for script han
 i with language dflt
-LaTeX Info: Redefining \. on input line 667.
-LaTeX Info: Redefining \% on input line 667.
-
 [12]
 \openout2 = ./artcap/capitulo01.aux
  (./artcap/capitulo01.tex
-Capítulo 1.
+\bbl@ensure@spanish {Capítulo} 1.
 Package biblatex Info: Resetting trackers on input line 1.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
@@ -3487,26 +3342,24 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 11.54663pt on input line 3.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 11.54663pt on input line 3.
-luaotfload | aux : font no 122 (nil) does not define feature vert for script han
+luaotfload | aux : font no 124 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 122 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 124 (nil) does not define feature vrt2 for script han
 i with language dflt
-<./media/people.jpg, id=164, 803.0pt x 803.0pt>
+<./media/people.jpg, id=165, 803.0pt x 803.0pt>
 File: ./media/people.jpg Graphic file (type jpg)
 <use ./media/people.jpg>
 Package luatex.def Info: ./media/people.jpg  used on input line 9.
 (luatex.def)             Requested size: 312.9803pt x 312.98495pt.
 Package hyperref Info: bookmark level for unknown imagen defaults to 0 on input
  line 10.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 10.
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 10.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 8.65997pt on input line 10.
-luaotfload | aux : font no 124 (nil) does not define feature vert for script han
+luaotfload | aux : font no 126 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 124 (nil) does not define feature vrt2 for script han
+luaotfload | aux : font no 126 (nil) does not define feature vrt2 for script han
 i with language dflt
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -3521,37 +3374,17 @@ LaTeX Font Info:    Font shape `JT3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 7.69775pt on input line 28.
 LaTeX Font Info:    Font shape `JY3/FandolSong(0)/b/n' will be
 (Font)              scaled to size 7.69775pt on input line 28.
-luaotfload | aux : font no 128 (nil) does not define feature vert for script han
+luaotfload | aux : font no 130 (nil) does not define feature vert for script han
 i with language dflt
-luaotfload | aux : font no 128 (nil) does not define feature vrt2 for script han
-i with language dflt
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
-[1
+luaotfload | aux : font no 130 (nil) does not define feature vrt2 for script han
+i with language dflt [1
 
 
 
-]
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
- [2<./media/people.jpg>]
-LaTeX Info: Redefining \. on input line 84.
-LaTeX Info: Redefining \% on input line 84.
-LaTeX Info: Redefining \. on input line 84.
-LaTeX Info: Redefining \% on input line 84.
- [3])
-LaTeX Info: Redefining \. on input line 669.
-LaTeX Info: Redefining \% on input line 669.
-LaTeX Info: Redefining \. on input line 669.
-LaTeX Info: Redefining \% on input line 669.
- [4]
+] [2<./media/people.jpg>] [3]) [4]
 \openout2 = ./artcap/capitulo06.aux
  (./artcap/capitulo06.tex
-Capítulo 2.
+\bbl@ensure@spanish {Capítulo} 2.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
@@ -3561,46 +3394,29 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 9.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 15.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+<./media/coin.png, id=198, 726.715pt x 205.76875pt>
+File: ./media/coin.png Graphic file (type png)
+<use ./media/coin.png>
+Package luatex.def Info: ./media/coin.png  used on input line 21.
+(luatex.def)             Requested size: 312.9803pt x 88.62012pt.
 [5
 
 
 
 
 ]
-<./media/coin.png, id=204, 726.715pt x 205.76875pt>
-File: ./media/coin.png Graphic file (type png)
-<use ./media/coin.png>
-Package luatex.def Info: ./media/coin.png  used on input line 21.
-(luatex.def)             Requested size: 312.9803pt x 88.62012pt.
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [6<./media/coin.png>]
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 62.
+ [6<./media/coin.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 65.
 Package mdframed Info: mdframed inside float 
  mdframed uses option nobreak mdframed on input line 83.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 83.
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
- [7])
-LaTeX Info: Redefining \. on input line 670.
-LaTeX Info: Redefining \% on input line 670.
-LaTeX Info: Redefining \. on input line 670.
-LaTeX Info: Redefining \% on input line 670.
- [8]
+) [7] [8]
 \openout2 = ./artcap/capitulo02.aux
  (./artcap/capitulo02.tex
-Capítulo 3.
+\bbl@ensure@spanish {Capítulo} 3.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
@@ -3608,14 +3424,8 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 5.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 12.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 19.
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
 [9
 
 
@@ -3625,49 +3435,21 @@ LaTeX Info: Redefining \% on input line 21.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
-[10]
-LaTeX Info: Redefining \. on input line 97.
-LaTeX Info: Redefining \% on input line 97.
-LaTeX Info: Redefining \. on input line 97.
-LaTeX Info: Redefining \% on input line 97.
- [11])
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
- [12]
+[10]) [11] [12]
 \openout2 = ./artcap/capitulo03.aux
  (./artcap/capitulo03.tex
-Capítulo 4.
+\bbl@ensure@spanish {Capítulo} 4.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
 [13
 
 
 
 
-]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [14])
-LaTeX Info: Redefining \. on input line 672.
-LaTeX Info: Redefining \% on input line 672.
-LaTeX Info: Redefining \. on input line 672.
-LaTeX Info: Redefining \% on input line 672.
- [15]
+] [14]) [15]
 \openout2 = ./artcap/capitulo04.aux
  (./artcap/capitulo04.tex [16
 
@@ -3675,7 +3457,7 @@ LaTeX Info: Redefining \% on input line 672.
 
 
 ]
-Capítulo 5.
+\bbl@ensure@spanish {Capítulo} 5.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
@@ -3683,8 +3465,6 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 5.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.07996pt on input line 14.
 ! Missing { inserted.
 <to be read again> 
 \egroup 
@@ -3769,36 +3549,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
-[17]
 LaTeX Font Info:    Font shape `JT3/FandolSong(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 20.
+[17]
 <./media/adn.jpg, id=308, 5018.75pt x 5018.75pt>
 File: ./media/adn.jpg Graphic file (type jpg)
 <use ./media/adn.jpg>
 Package luatex.def Info: ./media/adn.jpg  used on input line 29.
 (luatex.def)             Requested size: 250.3852pt x 250.33955pt.
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
- [18<./media/adn.jpg>]
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
- [19])
-LaTeX Info: Redefining \. on input line 673.
-LaTeX Info: Redefining \% on input line 673.
-LaTeX Info: Redefining \. on input line 673.
-LaTeX Info: Redefining \% on input line 673.
- [20]
+ [18<./media/adn.jpg>] [19]) [20]
 \openout2 = ./artcap/capitulo05.aux
  (./artcap/capitulo05.tex
-Capítulo 6.
+\bbl@ensure@spanish {Capítulo} 6.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
 (Font)              No change on input line 1.
@@ -3868,10 +3630,6 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
 [21
 
 
@@ -3929,11 +3687,6 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 84.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 84.
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
-[22]
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 92.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
@@ -3946,99 +3699,86 @@ LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 100.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/it' undefined
 (Font)              No change on input line 100.
-)
-LaTeX Info: Redefining \. on input line 674.
-LaTeX Info: Redefining \% on input line 674.
-LaTeX Info: Redefining \. on input line 674.
-LaTeX Info: Redefining \% on input line 674.
- [23] [24
+[22]) [23] [24
 
 
 
 ]
-Package biblatex Info: Resetting trackers on input line 678.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 679.
+Package biblatex Info: Resetting trackers on input line 680.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 679.
+(Font)              scaled to size 8.65997pt on input line 681.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 679.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.61993pt on input line 679.
+(Font)              scaled to size 8.65997pt on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/FandolSong(0)/m/sc' undefined
-(Font)              No change on input line 679.
+(Font)              No change on input line 681.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 679.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
+(Font)              No change on input line 681.
  [25
 
 ]
@@ -4048,12 +3788,7 @@ LaTeX Info: Redefining \% on input line 681.
 
 ] (./names.ind
 Package biblatex Info: Resetting trackers on input line 1.
-))
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
- [27
+)) [27
 
 ]
 (./artcap/colofon.tex [28
@@ -4062,12 +3797,7 @@ LaTeX Info: Redefining \% on input line 681.
 
 ]
 Package biblatex Info: Resetting trackers on input line 1.
-)
-LaTeX Info: Redefining \. on input line 684.
-LaTeX Info: Redefining \% on input line 684.
-LaTeX Info: Redefining \. on input line 684.
-LaTeX Info: Redefining \% on input line 684.
- [29]
+) [29]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -4083,11 +3813,7 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `\imki@messagenames '.
 
-(./pdf-7moCongresoMKT.aux
-LaTeX Info: Redefining \sptext on input line 16.
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
- (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
+(./pdf-7moCongresoMKT.aux (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
 (./artcap/capitulo02.aux) (./artcap/capitulo03.aux) (./artcap/capitulo04.aux)
 (./artcap/capitulo05.aux) (./artcap/indiceautores.aux))
  ***********
@@ -4102,19 +3828,19 @@ Package logreq Info: Writing requests to 'pdf-7moCongresoMKT.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 70774 strings out of 476553
- 2278324,2848258 words of node,token memory allocated
- 2242987 words of node memory still in use:
-   3124 hlist, 72 vlist, 1119 rule, 2 adjust, 7840 disc, 921 local_par, 298 math
-, 12240 glue, 4153 kern, 1554 penalty, 293 margin_kern, 48298 glyph, 769955 attr
-ibute, 1805 glue_spec, 46155 attribute_list, 55 write, 6 save_pos, 1989 user_def
-ined, 2028 pdf_literal, 77 pdf_start_link, 77 pdf_end_link, 13 pdf_dest, 40 pdf_
-action, 756 pdf_colorstack, 10 pdf_setmatrix, 10 pdf_save, 10 pdf_restore nodes
-   avail lists: 1:59,2:1132,3:1496,4:1051,5:94,6:7,7:1356,8:28,9:904,10:17,11:15
-4,12:2
- 90639 multiletter control sequences out of 65536+600000
- 133 fonts using 74635963 bytes
- 117i,12n,123p,2364b,2662s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69252 strings out of 476553
+ 1822727,2848258 words of node,token memory allocated
+ 1781349 words of node memory still in use:
+   3106 hlist, 72 vlist, 1104 rule, 2 adjust, 7684 disc, 926 local_par, 322 math
+, 12093 glue, 4119 kern, 1565 penalty, 273 margin_kern, 47448 glyph, 543727 attr
+ibute, 1801 glue_spec, 46108 attribute_list, 52 write, 6 save_pos, 1985 user_def
+ined, 2028 pdf_literal, 72 pdf_start_link, 72 pdf_end_link, 17 pdf_dest, 40 pdf_
+action, 754 pdf_colorstack, 10 pdf_setmatrix, 10 pdf_save, 10 pdf_restore nodes
+   avail lists: 1:49,2:839,3:1536,4:1109,5:94,6:6,7:1315,8:28,9:939,10:18,11:154
+,12:2
+ 89277 multiletter control sequences out of 65536+600000
+ 136 fonts using 75651755 bytes
+ 117i,12n,123p,2364b,2660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Math-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus
 -fonts/LibertinusMath-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/
@@ -4124,7 +3850,7 @@ xmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr
 /share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.o
 tf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Liberti
 nusSerif-Regular.otf>
-Output written on pdf-7moCongresoMKT.pdf (42 pages, 16838055 bytes).
+Output written on pdf-7moCongresoMKT.pdf (42 pages, 16838194 bytes).
 
 PDF statistics: 458 PDF objects out of 1000 (max. 8388607)
  291 compressed objects within 3 object streams

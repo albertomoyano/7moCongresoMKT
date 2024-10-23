@@ -6,7 +6,7 @@ El idioma griego, una de las lenguas más antiguas del mundo, ha tenido una infl
 
 \section{Historia del idioma griego}
 
-El griego antiguo se remonta al segundo milenio antes de Cristo y ha sido la lengua de algunos de los textos literarios y filosóficos más importantes de la historia, como la \textit{Ilíada} y la \textit{Odisea} de Homero, los diálogos de Platón y los tratados científicos de Aristóteles. Con el tiempo, el griego evolucionó a través de varias etapas, desde el griego clásico, el koiné, y finalmente el griego moderno.
+El griego antiguo se remonta al segundo milenio antes de Cristo y ha sido la lengua de algunos de los textos literarios y filosóficos más importantes de la historia, como la \emph{Ilíada} y la \emph{Odisea} de Homero, los diálogos de Platón y los tratados científicos de Aristóteles. Con el tiempo, el griego evolucionó a través de varias etapas, desde el griego clásico, el koiné, y finalmente el griego moderno.
 
 %\begin{quote}
 \selectlanguage{greek}
@@ -29,17 +29,19 @@ El griego es conocido por su rica morfología, que incluye un sistema de declina
 
 La escritura del griego también es un desafío técnico, ya que incluye caracteres especiales y diacríticos. Con LuaLaTeX y el uso adecuado del paquete babel, podemos trabajar cómodamente con estos caracteres.
 
-\begin{example}
-Por ejemplo, el sustantivo griego \selectlanguage{greek} λόγος \selectlanguage{spanish} (palabra) se declina como:
+\selectlanguage{greek}
 
-\begin{tabular}{ll}
-\textbf{Caso} & \textbf{Forma} \\
-Nominativo & λόγος \\
-Genitivo & λόγου \\
-Dativo & λόγῳ \\
-Acusativo & λόγον \\
-\end{tabular}
-\end{example}
+Greek text (monotonic): \figurename, \alsoname.
+
+\selectlanguage{polytonicgreek}
+
+Polytonic Greek: \figurename, \alsoname.
+
+\selectlanguage{ancientgreek}
+
+Ancient Greek: \figurename, \alsoname.
+
+\selectlanguage{spanish}
 
 \section{Conclusión}
 

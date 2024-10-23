@@ -1,6 +1,51 @@
 ----------------
 From file DUMMY:
 pg 1: (./pdf-7moCongresoMKT.tex
+--------------------------------------------------------------------
+From file /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty:
+pg 1: ! Package babel Error: There is no ini file for the requested language
+      (babel)                (: es-ucroman). Perhaps you misspelled it or your
+      (babel)                installation is not complete..
+      See the babel package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.4291 \ProcessOptions*
+pg 1: Fix the name or reinstall babel.
+pg 1: ! Package babel Error: There is no ini file for the requested language
+      (babel)                (: es-noshorthands). Perhaps you misspelled it or your
+      (babel)                installation is not complete..
+      See the babel package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.4291 \ProcessOptions*
+----------------
+From file DUMMY:
+pg 1: with lang
+pg 1: uage esp
+pg 1: {family=rm}].
+pg 1: (fontspec)
+pg 1: (fontspec)              This font family consists of the following NFSS
+pg 1: (fontspec)             series/shapes:
+pg 1: (fontspec)             - 'normal' (m/n) with NFSS spec.:
+pg 1: (fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
+pg 1: +tlig;family=rm;"
+pg 1: (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+pg 1: +tlig;family=rm;+smcp;"
+pg 1: (fontspec)             - 'bold' (b/n) with NFSS spec.:
+pg 1: (fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
+pg 1: t;+tlig;family=rm;"
+pg 1: (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+pg 1: t;+tlig;family=rm;+smcp;"
+pg 1: (fontspec)             - 'italic' (m/it) with NFSS spec.:
+pg 1: (fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
+pg 1: (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+pg 1: (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+pg 1: (fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
+pg 1: lt;+tlig;family=rm;"
+pg 1: (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+pg 1: lt;+tlig;family=rm;+smcp;"
 ------------------------------------------------------------------------------
 From file /usr/share/texlive/texmf-dist/tex/luatex/luatexja/luatexja-core.sty:
 pg 1: Custom whatsit inhibitglue = 1
@@ -66,7 +111,7 @@ pg 1: ****** -- success******
 From file /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty:
 pg 1: LaTeX Warning: Command \@footnotemark  has changed.
                      Check if current package is valid.
-pg 1: {Índice de imágenes}, name=Imagen, placement=ht, ' on input line 301.
+pg 1: {Índice de imágenes}, name=Imagen, placement=ht, ' on input line 302.
 ---------------------------------------------------------------------------------
 From file /usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty:
 pg 1: Package glossaries Warning: Overriding \printglossary on input line 6158.
@@ -115,29 +160,29 @@ pg 1: ! LaTeX Error: Command `\backepsilon' already defined.
       l.265 ...mbol{\backepsilon}    {\mathrel}{AMSb}{"7F}
 -----------------------------------
 From file ./pdf-7moCongresoMKT.aux:
-pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
-pg 1: (./artcap/capitulo02.aux) (./artcap/capitulo03.aux) (./artcap/capitulo04.aux)
-pg 1: (./artcap/capitulo05.aux) (./artcap/indiceautores.aux)
+pg 1: (./artcap/capitulo01.aux) (./artcap/capitulo06.aux) (./artcap/capitulo02.aux)
+pg 1: (./artcap/capitulo03.aux) (./artcap/capitulo04.aux) (./artcap/capitulo05.aux)
+pg 1: (./artcap/indiceautores.aux)
 ----------------------------------------
 From file ./artcap/agradecimientos2.tex:
 pg 11: (load cache: extra_haranoajigothic-medium.luc)
 ----------------------------------
 From file ./artcap/capitulo01.tex:
-pg 13: Capítulo 1.
+pg 13: \bbl@ensure@spanish {Capítulo} 1.
 pg 13: LaTeX Warning: `!h' float specifier changed to `!ht'.
 ----------------------------------
 From file ./artcap/capitulo06.tex:
-pg 17: Capítulo 2.
+pg 17: \bbl@ensure@spanish {Capítulo} 2.
 pg 19: mdframed uses option nobreak mdframed on input line 83.
 ----------------------------------
 From file ./artcap/capitulo02.tex:
-pg 21: Capítulo 3.
+pg 21: \bbl@ensure@spanish {Capítulo} 3.
 ----------------------------------
 From file ./artcap/capitulo03.tex:
-pg 25: Capítulo 4.
+pg 25: \bbl@ensure@spanish {Capítulo} 4.
 ----------------------------------
 From file ./artcap/capitulo04.tex:
-pg 29: Capítulo 5.
+pg 29: \bbl@ensure@spanish {Capítulo} 5.
 pg 29: ! Missing { inserted.
        <to be read again> 
        \egroup 
@@ -161,7 +206,7 @@ pg 29: ! Missing { inserted.
        l.14 ...g{R-[:0]P(=[:90]O)(-[:180]O^-)-[:0]O-[:0]R'}
 ----------------------------------
 From file ./artcap/capitulo05.tex:
-pg 33: Capítulo 6.
+pg 33: \bbl@ensure@spanish {Capítulo} 6.
 pg 33: ! LaTeX Error: Environment proof undefined.
        See the LaTeX manual or LaTeX Companion for explanation.
        Type  H <return>  for immediate help.
@@ -206,6 +251,11 @@ After last page:
 
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `\imki@messagenames '.
+-----------------------------------
+From file ./pdf-7moCongresoMKT.aux:
+(./artcap/capitulo01.aux) (./artcap/capitulo06.aux)
+(./artcap/capitulo02.aux) (./artcap/capitulo03.aux) (./artcap/capitulo04.aux)
+(./artcap/capitulo05.aux) (./artcap/indiceautores.aux)
 ***********
 )
 
